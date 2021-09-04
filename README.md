@@ -1,6 +1,11 @@
-## Hi there, I'm Zhe Kai (aka Gilbert)👋
+# <p align = "center"> Hi there, I'm Zhe Kai (aka Gilbert)👋 </p>
 
-# 📖 - Data Communication & Networking Student (MMU Melaka)
+## Status
+- 🙍‍♂️ Data Communication & Networking Student (MMU Melaka)
+- 🌱 I’m currently learning front-end development (HTML & CSS)
+- 📫 How to reach me: ngzhekai@gmail.com
+- 😄 Pronouns: He/Him
+
 
 <!--
 **ngzhekai/ngzhekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
