@@ -1,4 +1,6 @@
-# <p align = "center"> Hi there, I'm Zhe Kai (aka Gilbert)👋 </p>
+### <p align = "center"> Hi there, I'm Ng Zhe Kai 👋 </p>
+##  <p align = "center">You may call me Gilbert !</p>
+
 
 ## Status
 - 🙍‍♂️ Data Communication & Networking Student (MMU Melaka)
