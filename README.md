@@ -1,4 +1,6 @@
-## Hi there, I'm Zhe Kai 👋
+## Hi there, I'm Zhe Kai (aka Gilbert)👋
+
+# 📖 - Data Communication & Networking Student (MMU Melaka)
 
 <!--
 **ngzhekai/ngzhekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
