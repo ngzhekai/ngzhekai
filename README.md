@@ -3,7 +3,7 @@
 
 
 ## Status
-- 🙍‍♂️ Data Communication & Networking Student (MMU Melaka)
+- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning front-end development (HTML & CSS)
 - 📫 How to reach me: ngzhekai@gmail.com
 - 😄 Pronouns: He/Him
