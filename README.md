@@ -6,7 +6,7 @@
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning front-end development (HTML & CSS)
 - 😄 Pronouns: He/Him
-- <details> <summary>📫 How to reach me:</summary>ngzhekai@gmail.com</details>
+- <details> <summary> 📫 How to reach me </summary> ngzhekai@gmail.com </details>
 
 
 <!--
