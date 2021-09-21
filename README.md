@@ -5,8 +5,8 @@
 ## Status
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning front-end development (HTML & CSS)
-- 📫 How to reach me: ngzhekai@gmail.com
 - 😄 Pronouns: He/Him
+- <details> <summary>📫 How to reach me:</summary>ngzhekai@gmail.com</details>
 
 
 <!--
