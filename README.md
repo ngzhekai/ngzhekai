@@ -1,8 +1,9 @@
 ### <p align = "center"> Hi there, I'm Ng Zhe Kai 👋 </p>
-##  <p align = "center">You may call me Gilbert ~</p>
+### <p align = "center">You may call me Gilbert~</p>
+### <p align="center">ぎるばって呼んでください</p>
 
 
-## Status
+## Status [自分の情報]
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning front-end development (HTML & CSS)
 - 😄 Pronouns: He/Him
