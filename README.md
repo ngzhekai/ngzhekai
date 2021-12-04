@@ -5,7 +5,7 @@
 
 ## Status [自分の情報]✅
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
-- 🌱 I’m currently learning front-end development (HTML & CSS) and Japanese [日本語]
+- 🌱 I’m currently learning front-end development (HTML、CSS、Javascript) and Japanese [日本語]
 - 😄 Pronouns: He/Him
 - 📫 How to reach me <a href="mailto:ngzhekai@gmail.com">ngzhekai@gmail.com </a>
 
