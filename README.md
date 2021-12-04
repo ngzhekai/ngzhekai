@@ -7,12 +7,12 @@
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning front-end development (HTML & CSS) and Japanese [日本語]
 - 😄 Pronouns: He/Him
-- <details> <summary> 📫 How to reach me </summary> -> ngzhekai@gmail.com <-</details>
+- 📫 How to reach me <a href="mailto:ngzhekai@gmail.com">ngzhekai@gmail.com </a>
 
 
 <!--
 **ngzhekai/ngzhekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- <details> <summary> 📫 How to reach me </summary> <a href="mailto:ngzhekai@gmail.com">ngzhekai@gmail.com </a></details>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
