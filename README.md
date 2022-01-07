@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai <br> <br> ぎるばって呼んでいいよ ✌️ <br> </h1>
-<h3 align="center">Expert Escapist and Music Enthusiast  </h3>
+<h3 align="center"> Expert Escapist and Music Enthusiast </h3>
 <br>
 
 
