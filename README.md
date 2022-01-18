@@ -4,6 +4,10 @@
 
 
 ![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149971902-eebed49a-bc04-45a4-a03a-55ad8b3c04c0.png) 
+![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149975978-96b30e54-f15e-4f28-8e32-fa1cc712a4f0.png)
+<img src="https://user-images.githubusercontent.com/61905056/149977279-208529d9-29d4-438e-a10c-0c1ea3236a2e.png" width=210 />
+
+
 > In case if you do not know the meme, visit https://knowyourmeme.com/memes/btw-i-use-arch
 
 <details><summary>Disclaimer</summary> Btw I don't use Arch! </details>
