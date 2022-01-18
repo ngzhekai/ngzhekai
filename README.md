@@ -9,7 +9,7 @@
 
 > In case if you do not know the meme, visit https://knowyourmeme.com/memes/btw-i-use-arch
 
-<img src="https://user-images.githubusercontent.com/61905056/149977279-208529d9-29d4-438e-a10c-0c1ea3236a2e.png" width=auto height=auto/>
+<img src="https://user-images.githubusercontent.com/61905056/149977279-208529d9-29d4-438e-a10c-0c1ea3236a2e.png" width=500 height=550/>
 
 <details><summary>Disclaimer</summary> Btw I don't use Arch! </details>
 
