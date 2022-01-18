@@ -3,6 +3,9 @@
 <br>
 
 
+
+
+
 ## Status [自分の情報]✅
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning **Web Dev (react.js)** and **Japanese [日本語]**
