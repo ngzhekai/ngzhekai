@@ -1,9 +1,12 @@
-<h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai <br> <br> ぎるばって呼んでいいよ ✌️ <br> </h1>
-<h3 align="center"> ~~Expert Escapist~~ and Music Enthusiast </h3>
+<h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai  （ぎるばって呼んでいいよ ✌️） <br> </h1>
+<h3 align="center">  an Music Enthusiast and Expert Escapist <s>(I use Arch-based distro btw)</s></h3>
 <br>
 
 
+![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149971902-eebed49a-bc04-45a4-a03a-55ad8b3c04c0.png) 
+> In case if you do not know the meme, visit https://knowyourmeme.com/memes/btw-i-use-arch
 
+<details><summary>Disclaimer</summary> Btw I don't use Arch! </details>
 
 
 ## Status [自分の情報]✅
