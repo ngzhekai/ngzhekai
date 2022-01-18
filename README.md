@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/61905056/149977279-208529d9-29d4-438e-a10c-0c1ea3236a2e.png" width=500 height=550/>
 
-<details><summary>Disclaimer</summary> Btw I don't use Arch! </details>
+<details><summary>Disclaimer</summary> Just a joke, please do not take it seriously! Btw I don't use Arch! </details>
 
 
 ## Status [自分の情報]✅
