@@ -18,7 +18,7 @@
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning **Web Dev (react.js)** and **Japanese [日本語]**
 -    Finally, switched to **Linux** !
-- 📫 How to reach me <a href="mailto:ngzhekai@gmail.com">**ngzhekai@gmail.com** </a>
+- 📫 How to reach me <a href="mailto:ngzhekai@pm.me">**ngzhekai@pm.me** </a>
 - ⚡ Fun fact :arrow_right:  **水野茜可愛すぎる、 Mizuno Akane too cute**
 
 <!--
