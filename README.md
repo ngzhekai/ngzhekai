@@ -1,5 +1,7 @@
 <h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai  （ぎるばって呼んでいいよ ✌️） <br> </h1>
 <h3 align="center">  an Music Enthusiast and Expert Escapist <s>(I use Arch-based distro btw)</s></h3>
+<h4 align="center"> <i>Running Away from Reality.</i> </h4>
+<hr>
 <br>
 
 
@@ -8,6 +10,8 @@
 
 
 > In case if you do not know the meme, visit https://knowyourmeme.com/memes/btw-i-use-arch
+
+<hr>
 
 <img src="https://user-images.githubusercontent.com/61905056/149977279-208529d9-29d4-438e-a10c-0c1ea3236a2e.png" width=500 height=550/>
 
