@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai  （ぎるばって呼んでいいよ ✌️） <br> </h1>
 <h3 align="center">  an Music Enthusiast and Expert Escapist <s>(I use Arch-based distro btw)</s></h3>
-<h4 align="center"> <i>Running Away from Reality.</i> </h4>
+<h4 align="center"> <i>Running Away from Reality ヽ(=´▽`=)ﾉ</i> </h4>
 <hr>
 <br>
 
