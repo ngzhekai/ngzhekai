@@ -24,7 +24,9 @@
 - 🌱 I’m currently learning **Web Dev (react.js)** and **Japanese [日本語]**
 -    Finally, switched to **Linux** !
 - 📫 How to reach me <a href="mailto:ngzhekai@pm.me">**ngzhekai@pm.me** </a>
-- ⚡ Fun fact :arrow_right:  **水野茜可愛すぎる、 Mizuno Akane too cute**
+- ⚡ Fun fact :arrow_right:  **初音ミク可愛すぎる、 Hatsune Miku too cute**
+
+![image](https://user-images.githubusercontent.com/61905056/165332700-d0be53f6-171c-40be-9e4c-874cafd34252.png)
 
 <!--
 **ngzhekai/ngzhekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
