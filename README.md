@@ -7,7 +7,6 @@
 <!-- ![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149971902-eebed49a-bc04-45a4-a03a-55ad8b3c04c0.png)  -->
 <!-- ![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149975978-96b30e54-f15e-4f28-8e32-fa1cc712a4f0.png) -->
 
-<hr>
 
 <img src="https://user-images.githubusercontent.com/61905056/149977279-208529d9-29d4-438e-a10c-0c1ea3236a2e.png" width=500 height=550/>
 
@@ -15,6 +14,10 @@
 
 <details><summary>Disclaimer</summary> Just a joke, please do not take it seriously! Btw I don't use Arch! </details>
 
+<hr>
+
+![image](https://user-images.githubusercontent.com/61905056/165331553-c7455577-06b3-4ec8-b72c-808dd8091877.png)
+> IN CASE IF YOU DO NOT KNOW THIS COMMAND, PLEASE DON'T ENTER IT IN YOUR TERMINAL. TRIED IT ONCE AND I HATE MYSELF.
 
 ## Status [自分の情報]✅
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
