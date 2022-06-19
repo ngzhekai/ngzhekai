@@ -1,9 +1,9 @@
 <h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai  （ぎるばって呼んでいいよ ✌️） <br> </h1>
-<h3 align="center">  an Music Enthusiast and Expert Escapist <s>(I use Arch-based distro btw)</s></h3>
-<h4 align="center"> <i>Running Away from Reality ヽ(=´▽`=)ﾉ</i> </h4>
+<h3 align="center">An Music Enthusiast and Master Escapist ヽ(=´▽`=)ﾉ</h3>
+<h4 align="center"> <i>You can't make decisions based on fear and the possibility of what might happen -Michelle Obama </i> </h4>
+<h3 align="center"> When facing a challenging situation, believe that you’ll figure it out somehow -Zhe Kai </h3>
 
-
-
+<br>
 <!-- ![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149971902-eebed49a-bc04-45a4-a03a-55ad8b3c04c0.png)  -->
 <!-- ![I use Arch Btw meme](https://user-images.githubusercontent.com/61905056/149975978-96b30e54-f15e-4f28-8e32-fa1cc712a4f0.png) -->
 
@@ -22,7 +22,7 @@
 ## Status [自分の情報]✅
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning **Web Dev** and **Japanese [日本語]**
--    Finally, switched to **Linux** !
+- 😺 Switched between **Linux** and **Windows** back and forth !
 - 📫 How to reach me <a href="mailto:ngzhekai@pm.me">**ngzhekai@pm.me** </a>
 - ⚡ Fun fact :arrow_right:  **初音ミク可愛すぎる、 Hatsune Miku too cute**
 
