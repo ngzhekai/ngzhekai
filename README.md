@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there 👋  I'm Ng Zhe Kai  （ぎるばって呼んでいいよ ✌️） <br> </h1>
-<h3 align="center">An Music Enthusiast and Master Escapist ヽ(=´▽`=)ﾉ</h3>
+<h3 align="center">Hatsune Miku Enthusiast and Master Escapist ヽ(=´▽`=)ﾉ</h3>
 <h4 align="center"> <i>You can't make decisions based on fear and the possibility of what might happen -Michelle Obama </i> </h4>
 <h3 align="center"> When facing a challenging situation, believe that you’ll figure it out somehow -Zhe Kai </h3>
 
