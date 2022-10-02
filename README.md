@@ -1,10 +1,10 @@
 # About Me
 
-## Howdy! 👋 I'm Ng Zhe Kai （ぎるばって呼んでいいよ ✌️）
+Howdy! 👋 I'm Ng Zhe Kai （ぎるばって呼んでいいよ ✌️）
 
 ### Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-### <q>Throughout this life, you can never be certain of living long enough to take another breath.</q> -<em>Zen Proverb</em>
+### <q>Life is either a daring adventure, or it is nothing.</q> -<em>Helen Keller</em>
 > NOTE: These Quotes will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
