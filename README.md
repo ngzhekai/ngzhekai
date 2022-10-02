@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Where your talents and the needs of the world cross, there lies your vocation.</q>** -<em>Aristotle</em>
+**<q>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 > Imported from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
