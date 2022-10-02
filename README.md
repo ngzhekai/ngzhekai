@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The first step is to establish that something is possible; then probability will occur.</q>** -<em>Elon Musk</em>
+**<q>It's very strange that the people you love are often the people you're most cruel to.</q>** -<em>Kenneth Branagh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
