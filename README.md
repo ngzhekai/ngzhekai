@@ -4,13 +4,13 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</q>** -<em>Oprah Winfrey</em>
+**<q>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
 
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
-- 🌱 I’m currently learning **DevOps** and **Japanese [日本語]**
+- 🌱 I’m currently learning **the basic of OpenCV** and **Japanese [日本語]**
 - 😺 Switched between **Linux** and **Windows** back and forth !
 - 📫 How to reach me <a href=mailto:ngzhekai@pm.me>**ngzhekai@pm.me**</a>
 - ⚡ Fun fact :arrow_right: **初音ミク*fufu*可愛すぎる、 Hatsune Miku *fufu* too cute、初音fufu太可爱了 爱了爱了**
