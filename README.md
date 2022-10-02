@@ -1,10 +1,10 @@
 # About Me
 
-Howdy! 👋 I'm Ng Zhe Kai （ぎるばって呼んでいいよ ✌️）
+**Howdy! 👋 I'm *Ng Zhe Kai* （ぎるばって呼んでいいよ ✌️）**
 
-### Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
+Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-### <q>Life is either a daring adventure, or it is nothing.</q> -<em>Helen Keller</em>
+**<q>Growth is in a series of mistakes. That's the only way you learn.</q>** -<em>Steve Harvey</em>
 > NOTE: These Quotes will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
