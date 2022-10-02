@@ -4,8 +4,9 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't let the noise of others' opinions drown out your own inner voice.</q>** -<em>Steve Jobs</em>
+**<q>What lies behind us and what lies before us are tiny matters compared to what lies within us.</q>** -<em>Ralph Waldo Emerson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
+> Imported from this [REPO](https://github.com/ngzhekai/Green-Commit-Quotes)
 
 ## Status [自分の情報]✅
 
