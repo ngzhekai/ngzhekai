@@ -4,9 +4,10 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What lies behind us and what lies before us are tiny matters compared to what lies within us.</q>** -<em>Ralph Waldo Emerson</em>
+**<q>Courage is the price that life exacts for granting peace.</q>** -<em>Amelia Earhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
-> Imported from this [REPO](https://github.com/ngzhekai/Green-Commit-Quotes)
+
+> Imported from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
 
 ## Status [自分の情報]✅
 
