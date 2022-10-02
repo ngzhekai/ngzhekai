@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If your happiness depends on what somebody else does, I guess you do have a problem.</q>** -<em>Richard Bach</em>
+**<q>The very essence of instinct is that it's followed independently of reason.</q>** -<em>Charles Darwin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
