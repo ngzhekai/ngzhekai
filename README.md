@@ -1,11 +1,11 @@
-# About Me
+## About Me - Ng Zhe Kai
 
 **Howdy! 👋 I'm *Ng Zhe Kai* （ぎるばって呼んでいいよ ✌️）**
 
-Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
+Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Growth is in a series of mistakes. That's the only way you learn.</q>** -<em>Steve Harvey</em>
-> NOTE: These Quotes will be updated on a frequency basis of 2-3 hours~
+**<q>It's always to soon to quit!</q>** -<em>Norman Vincent Peale</em>
+> NOTE: The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
 
