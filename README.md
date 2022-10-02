@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Courage is the price that life exacts for granting peace.</q>** -<em>Amelia Earhart</em>
+**<q>Where your talents and the needs of the world cross, there lies your vocation.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 > Imported from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
