@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</q>** -<em>Elon Musk</em>
+**<q>Death walks faster than the wind and never returns what he has taken.</q>** -<em>Hans Christian Andersen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
