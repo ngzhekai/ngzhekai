@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Act as if what you do makes a difference. It does.</q>** -<em>William James</em>
+**<q>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
@@ -13,6 +13,6 @@ Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 - 🌱 I’m currently learning **DevOps** and **Japanese [日本語]**
 - 😺 Switched between **Linux** and **Windows** back and forth !
 - 📫 How to reach me <a href=mailto:ngzhekai@pm.me>**ngzhekai@pm.me**</a>
-- ⚡ Fun fact :arrow_right: **初音ミク*fufu*可愛すぎる、 Hatsune Miku *fufu* too cute**
+- ⚡ Fun fact :arrow_right: **初音ミク*fufu*可愛すぎる、 Hatsune Miku *fufu* too cute、初音fufu太可爱了 爱了爱了**
 
 ![image](https://user-images.githubusercontent.com/61905056/165332700-d0be53f6-171c-40be-9e4c-874cafd34252.png)
