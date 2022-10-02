@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</q>** -<em>Eleanor Roosevelt</em>
+**<q>If your happiness depends on what somebody else does, I guess you do have a problem.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
