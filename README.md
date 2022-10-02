@@ -4,10 +4,10 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</q>** -<em>Unknown</em>
+**<q>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
-> Imported from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
+Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
 
 ## Status [自分の情報]✅
 
