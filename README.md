@@ -1,8 +1,9 @@
+# About Me
 ## Howdy! 👋 I'm Ng Zhe Kai （ぎるばって呼んでいいよ ✌️）
 
 ### Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-### <q>Hold yourself responsible for a higher standard than anybody else expects of you.</q> -<em>Henry Ward Beecher</em>
+### <q>Better late than never.</q> -<em>Spencer Johnson</em>
 > NOTE: These Quotes will be updated on a frequency basis of 2-3 hours ~
 
 ## Status [自分の情報]✅
