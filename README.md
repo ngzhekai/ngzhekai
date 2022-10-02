@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's very strange that the people you love are often the people you're most cruel to.</q>** -<em>Kenneth Branagh</em>
+**<q>Don't let the noise of others' opinions drown out your own inner voice.</q>** -<em>Steve Jobs</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
