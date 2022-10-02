@@ -1,7 +1,8 @@
 #!/bin/bash
-# +++++++++++++++++++++++++++++++
-#  Green-Commit-Quote by ngzhekai
-# +++++++++++++++++++++++++++++++ 
+# ++++++++++++++++++++++++++++++++++
+#  README.md by ngzhekai
+#  Imported from Green-Commit-Quotes
+# ++++++++++++++++++++++++++++++++++ 
 
 source=$(curl https://zenquotes.io/api/random)
 
