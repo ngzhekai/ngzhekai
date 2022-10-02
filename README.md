@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Death walks faster than the wind and never returns what he has taken.</q>** -<em>Hans Christian Andersen</em>
+**<q>The first step is to establish that something is possible; then probability will occur.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 ## Status [自分の情報]✅
