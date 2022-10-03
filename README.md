@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The smallest of actions is always better than the noblest of intentions.</q>** -<em>Robin Sharma</em>
+**<q>There are no second chances in life, except to feel remorse.</q>** -<em>Carlos Ruiz Zafon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
