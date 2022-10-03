@@ -51,5 +51,5 @@ time="$(date +'%T')"
 
 git config --local user.email "ngzhekai@gmail.com"
 git config --local user.name "Ng Zhe Kai"
-git commit -am "Updated on ($dates) - $time"
+git commit -am "Updated on ($dates) - $time (UTC) Time Zone"
 
