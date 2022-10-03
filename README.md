@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The way to change others' minds is with affection, and not anger.</q>** -<em>Dalai Lama</em>
+**<q>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</q>** -<em>Alfred Adler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
