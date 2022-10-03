@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be happy in the moment, that's enough. Each moment is all we need, not more.</q>** -<em>Mother Teresa</em>
+**<q>A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday.</q>** -<em>Jonathan Swift</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
