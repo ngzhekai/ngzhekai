@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Only when you can be extremely pliable and soft can you be extremely hard and strong.</q>** -<em>Zen Proverb</em>
+**<q>The way to change others' minds is with affection, and not anger.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
