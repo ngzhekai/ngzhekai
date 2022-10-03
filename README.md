@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The harder the conflict, the greater the triumph. </q>** -<em>George Washington</em>
+**<q>Unhappiness enters through a door that has been left open.</q>** -<em>Zen Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
