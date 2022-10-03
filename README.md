@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The first step toward getting somewhere is to decide that you are not going to stay where you are.</q>** -<em>Unknown</em>
+**<q>Be happy in the moment, that's enough. Each moment is all we need, not more.</q>** -<em>Mother Teresa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
