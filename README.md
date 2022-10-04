@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No need to hurry. No need to sparkle. No need to be anybody but oneself.</q>** -<em>Virginia Woolf</em>
+**<q>Be happy in the moment, that's enough. Each moment is all we need, not more.</q>** -<em>Mother Teresa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
