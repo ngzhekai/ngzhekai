@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Engage in those actions and thoughts that nurture the good qualities you want to have.</q>** -<em>Paramahansa Yogananda</em>
+**<q>Success is the sum of small efforts, repeated day in and day out.</q>** -<em>Robert Collier</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
