@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be happy in the moment, that's enough. Each moment is all we need, not more.</q>** -<em>Mother Teresa</em>
+**<q>Greatness lies not in being strong, but in the right use of strength.</q>** -<em>Henry Ward Beecher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
