@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Whatever you think the world is withholding from you, you are withholding from the world.</q>** -<em>Eckhart Tolle</em>
+**<q>Management is doing things right; leadership is doing the right things.</q>** -<em>Peter Drucker</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
