@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Your work is to discover your work and then, with all your heart, to give yourself to it.</q>** -<em>Buddha</em>
+**<q>The outer conditions of a person's life will always be found to reflect their inner beliefs.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
