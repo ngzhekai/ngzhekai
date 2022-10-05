@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I like the dreams of the future better than the history of the past.</q>** -<em>Thomas Jefferson</em>
+**<q>Your work is to discover your work and then, with all your heart, to give yourself to it.</q>** -<em>Buddha</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
