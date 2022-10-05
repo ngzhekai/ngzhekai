@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't be afraid that you do not know something. Be afraid of not learning about it.</q>** -<em>Zen Proverb</em>
+**<q>I like the dreams of the future better than the history of the past.</q>** -<em>Thomas Jefferson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
