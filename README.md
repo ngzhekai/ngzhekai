@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Management is doing things right; leadership is doing the right things.</q>** -<em>Peter Drucker</em>
+**<q>None but ourselves can free our minds.</q>** -<em>Bob Marley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
