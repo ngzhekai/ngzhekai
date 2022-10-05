@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A person who does not read is no better than one cannot read.</q>** -<em>Earl Nightingale</em>
+**<q>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </q>** -<em>Lao Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
