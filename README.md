@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To accomplish big things, I am convinced you must first dream big dreams.</q>** -<em>Conrad Hilton</em>
+**<q>Formal education will make you a living, self-education will make you a fortune.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
