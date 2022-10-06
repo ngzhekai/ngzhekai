@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Formal education will make you a living, self-education will make you a fortune.</q>** -<em>Jim Rohn</em>
+**<q>It is not titles that honour men, but men that honour titles.</q>** -<em>Niccolo Machiavelli</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
