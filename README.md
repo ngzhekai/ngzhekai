@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No man can get rich himself unless he enriches others.</q>** -<em>Earl Nightingale</em>
+**<q>Only those who dare to fail greatly can ever achieve greatly.</q>** -<em>Robert F. Kennedy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
