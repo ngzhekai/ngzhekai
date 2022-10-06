@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Ripe fruit falls by itself - but it doesn't fall in your mouth. </q>** -<em>Chinese Proverb</em>
+**<q>If you truly expect something to be difficult, it will be.</q>** -<em>Peter A. Cohen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
