@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</q>** -<em>Og Mandino</em>
+**<q>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
