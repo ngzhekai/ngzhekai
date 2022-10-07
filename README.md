@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You don't need to be better than anyone else, you just need to be better than you used to be.</q>** -<em>Wayne Dyer</em>
+**<q>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
