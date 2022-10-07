@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Make no small plans for they have no power to stir the soul.</q>** -<em>Niccolo Machiavelli</em>
+**<q>The whole of life, from the moment you are born to the moment you die, is a process of learning.</q>** -<em>Jiddu Krishnamurti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
