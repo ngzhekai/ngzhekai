@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.</q>** -<em>Richard Bach</em>
+**<q>Tall oaks grow from little acorns.</q>** -<em>Andrew Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
