@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Tall oaks grow from little acorns.</q>** -<em>Andrew Carnegie</em>
+**<q>Make no small plans for they have no power to stir the soul.</q>** -<em>Niccolo Machiavelli</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
