@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Big people don't make people feel small.</q>** -<em>Robin Sharma</em>
+**<q>The friend is the man who knows all about you, and still likes you.</q>** -<em>Elbert Hubbard</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
