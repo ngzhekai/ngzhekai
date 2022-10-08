@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.</q>** -<em>James Cameron</em>
+**<q>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </q>** -<em>Buddha</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
