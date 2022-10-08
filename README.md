@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>He is richest who is content with the least, for content is the wealth of nature.</q>** -<em>Socrates</em>
+**<q>The more we value things, the less we value ourselves. </q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
