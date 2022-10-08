@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>One must be poor to know the luxury of giving.</q>** -<em>George Eliot</em>
+**<q>Nothing has any power over me other than that which I give it through my conscious thoughts.</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
