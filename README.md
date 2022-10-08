@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. </q>** -<em>Buddha</em>
+**<q>Learn only how to avoid seeking for and attaching yourselves to anything.</q>** -<em>Huang Po</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
