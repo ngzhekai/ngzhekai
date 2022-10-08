@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Nothing has any power over me other than that which I give it through my conscious thoughts.</q>** -<em>Tony Robbins</em>
+**<q>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</q>** -<em>Albus Dumbledore</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
