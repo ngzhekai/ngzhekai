@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Learn only how to avoid seeking for and attaching yourselves to anything.</q>** -<em>Huang Po</em>
+**<q>The only thing we have to fear is fear itself.</q>** -<em>Franklin D. Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
