@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</q>** -<em>Albus Dumbledore</em>
+**<q>He is richest who is content with the least, for content is the wealth of nature.</q>** -<em>Socrates</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
