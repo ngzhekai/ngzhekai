@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Remember that sometimes not getting what you want is a wonderful stroke of luck.</q>** -<em>Dalai Lama</em>
+**<q>Whatever your heart clings to and confides in, that is really your God.</q>** -<em>Martin Luther</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
