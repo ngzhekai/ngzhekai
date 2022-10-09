@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Stress happens when the mind resists what is.</q>** -<em>Dan Millman</em>
+**<q>If you can't imagine it, you can't have it.</q>** -<em>Toni Morrison</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
