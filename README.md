@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Whatever your heart clings to and confides in, that is really your God.</q>** -<em>Martin Luther</em>
+**<q>When it comes to mastering a skill, time is the magic ingredient.</q>** -<em>Robert Greene</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
