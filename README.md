@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Respect is earned by effort not age, all things age without effort.</q>** -<em>C. Sean McGee</em>
+**<q>Giving is living. If you stop wanting to give, there's nothing more to live for.</q>** -<em>Audrey Hepburn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
