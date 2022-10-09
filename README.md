@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life goes by fast. Enjoy it. Calm down. It's all funny.</q>** -<em>Joan Rivers</em>
+**<q>Respect is earned by effort not age, all things age without effort.</q>** -<em>C. Sean McGee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
