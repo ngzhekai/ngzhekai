@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>When it comes to mastering a skill, time is the magic ingredient.</q>** -<em>Robert Greene</em>
+**<q>It matters not what someone is born, but what they grow to be.</q>** -<em>Albus Dumbledore</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
