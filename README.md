@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only thing we have to fear is fear itself.</q>** -<em>Franklin D. Roosevelt</em>
+**<q>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</q>** -<em>T.S. Eliot</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
