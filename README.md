@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Everything is created twice, first in the mind and then in reality.</q>** -<em>Robin Sharma</em>
+**<q>Life goes by fast. Enjoy it. Calm down. It's all funny.</q>** -<em>Joan Rivers</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
