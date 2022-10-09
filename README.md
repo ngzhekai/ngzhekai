@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</q>** -<em>T.S. Eliot</em>
+**<q>Remember that sometimes not getting what you want is a wonderful stroke of luck.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
