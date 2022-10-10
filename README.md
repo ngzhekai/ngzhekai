@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Thinking is difficult, that's why most people judge.</q>** -<em>Carl Jung</em>
+**<q>The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. </q>** -<em>St. Jerome</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
