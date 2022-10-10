@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It is difficult to free fools from the chains they revere. </q>** -<em>Voltaire</em>
+**<q>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
