@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success is achieved and maintained by those who try and keep trying. </q>** -<em>W. Clement Stone</em>
+**<q>It is difficult to free fools from the chains they revere. </q>** -<em>Voltaire</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
