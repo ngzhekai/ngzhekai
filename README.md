@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's the job that's never started that takes the longest to finish.</q>** -<em>J.R.R. Tolkien</em>
+**<q>Facts are the enemy of truth. </q>** -<em>Miguel de Cervantes</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
