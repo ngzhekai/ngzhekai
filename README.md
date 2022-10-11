@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Paths are made by walking.</q>** -<em>Franz Kafka</em>
+**<q>Peace is letting it be. Letting life flow, letting emotions flow through you.</q>** -<em>Kamal Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
