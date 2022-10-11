@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Facts are the enemy of truth. </q>** -<em>Miguel de Cervantes</em>
+**<q>Paths are made by walking.</q>** -<em>Franz Kafka</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
