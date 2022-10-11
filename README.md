@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It is useless to meet revenge with revenge; it will heal nothing.</q>** -<em>J.R.R. Tolkien</em>
+**<q>Opportunity comes when you continually push forward.</q>** -<em>Sonia Ricotti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
