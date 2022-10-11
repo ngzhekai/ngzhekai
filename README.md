@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Opportunity comes when you continually push forward.</q>** -<em>Sonia Ricotti</em>
+**<q>Unless someone truly has the power to say no, they never truly have the power to say yes.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
