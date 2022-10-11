@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control.</q>** -<em>Maxime Lagace</em>
+**<q>The essence of the Way is detachment.</q>** -<em>Bodhidharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
