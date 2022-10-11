@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.</q>** -<em>Steve Jobs</em>
+**<q>It is useless to meet revenge with revenge; it will heal nothing.</q>** -<em>J.R.R. Tolkien</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
