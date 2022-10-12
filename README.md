@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>One loses many laughs by not laughing at oneself.</q>** -<em>Mary Engelbreit</em>
+**<q>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </q>** -<em>Nikola Tesla</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
