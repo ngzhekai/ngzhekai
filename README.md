@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A loving heart is the truest wisdom.</q>** -<em>Charles Dickens</em>
+**<q>Always turn a negative situation into a positive situation.</q>** -<em>Michael Jordan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
