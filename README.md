@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Nothing ever goes away until it has taught us what we need to know.</q>** -<em>Pema Chodron</em>
+**<q>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
