@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</q>** -<em>Dalai Lama</em>
+**<q>Be brave to stand for what you believe in even if you stand alone.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
