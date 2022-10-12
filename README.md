@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Where we fall are the stepping-stones for our journey.</q>** -<em>Lolly Daskal</em>
+**<q>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</q>** -<em>Paramahansa Yogananda</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
