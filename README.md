@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome.</q>** -<em>Dan Millman</em>
+**<q>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</q>** -<em>Charles Dickens</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
