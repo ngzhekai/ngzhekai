@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</q>** -<em>Charles Dickens</em>
+**<q>Conflict cannot survive without your participation. </q>** -<em>Wayne Dyer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
