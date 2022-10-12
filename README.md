@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Always turn a negative situation into a positive situation.</q>** -<em>Michael Jordan</em>
+**<q>Where we fall are the stepping-stones for our journey.</q>** -<em>Lolly Daskal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
