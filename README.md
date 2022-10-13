@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</q>** -<em>Dr. Seuss</em>
+**<q>Nothing will work unless you do.</q>** -<em>Maya Angelou</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
