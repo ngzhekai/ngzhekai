@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </q>** -<em>Henry Ford</em>
+**<q>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</q>** -<em>Dr. Seuss</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
