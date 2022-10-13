@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The secret of life isn't what happens to you, but what you do with what happens to you.</q>** -<em>Norman Vincent Peale</em>
+**<q>The only real security that a man can have in this world is a reserve of knowledge, experience and ability. </q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
