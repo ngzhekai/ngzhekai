@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Nothing will work unless you do.</q>** -<em>Maya Angelou</em>
+**<q>What have you done today to make someone else happy?</q>** -<em>Deepam Chaterjee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
