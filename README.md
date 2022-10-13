@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You're only given a little spark of madness. You mustn't lose it.</q>** -<em>Robin Williams</em>
+**<q>Always do your best. What you plant now, you will harvest later.</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
