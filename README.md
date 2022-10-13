@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Those who bring sunshine into the lives of others cannot keep it from themselves.</q>** -<em>James Matthew Barrie</em>
+**<q>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</q>** -<em>Audrey Hepburn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
