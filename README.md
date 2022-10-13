@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It is better to be looked over than overlooked.</q>** -<em>Mae West</em>
+**<q>Those who bring sunshine into the lives of others cannot keep it from themselves.</q>** -<em>James Matthew Barrie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
