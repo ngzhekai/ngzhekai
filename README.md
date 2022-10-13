@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</q>** -<em>Audrey Hepburn</em>
+**<q>To accomplish big things, I am convinced you must first dream big dreams.</q>** -<em>Conrad Hilton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
