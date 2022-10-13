@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Always do your best. What you plant now, you will harvest later.</q>** -<em>Og Mandino</em>
+**<q>The secret of life isn't what happens to you, but what you do with what happens to you.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
