@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To accomplish big things, I am convinced you must first dream big dreams.</q>** -<em>Conrad Hilton</em>
+**<q>You're only given a little spark of madness. You mustn't lose it.</q>** -<em>Robin Williams</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
