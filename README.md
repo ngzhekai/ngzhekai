@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is and will ever remain an equation incapable of solution, but it contains certain known factors. </q>** -<em>Nikola Tesla</em>
+**<q>It is better to be looked over than overlooked.</q>** -<em>Mae West</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
