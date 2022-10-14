@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What have you done today to make someone else happy?</q>** -<em>Deepam Chaterjee</em>
+**<q>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </q>** -<em>George Washington</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
