@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Keep your eyes on the stars, but remember to keep your feet on the ground.</q>** -<em>Theodore Roosevelt</em>
+**<q>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
