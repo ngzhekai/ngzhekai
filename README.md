@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success and failure come and go, but don't let them define you. It's who you are that matters.</q>** -<em>Kamal Ravikant</em>
+**<q>If you don't know, the thing to do is not to get scared, but to learn.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
