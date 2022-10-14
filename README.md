@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </q>** -<em>George Washington</em>
+**<q>A wise man will be master of his mind, a fool will be its slave.</q>** -<em>Publilius Syrus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
