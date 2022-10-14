@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</q>** -<em>Norman Vincent Peale</em>
+**<q>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</q>** -<em>Brian Tracy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
