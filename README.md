@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</q>** -<em>Brian Tracy</em>
+**<q>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</q>** -<em>Jeffrey Gitomer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
