@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.</q>** -<em>Jeffrey Gitomer</em>
+**<q>Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</q>** -<em>Thich Nhat Hanh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
