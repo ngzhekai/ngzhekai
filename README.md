@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</q>** -<em>Bob Marley</em>
+**<q>Truth is the offspring of silence and meditation.</q>** -<em>Isaac Newton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
