@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If we did all the things we are capable of, we would literally astound ourselves.</q>** -<em>Thomas Edison</em>
+**<q>Tradition is the illusion of permanence. </q>** -<em>Woody Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
