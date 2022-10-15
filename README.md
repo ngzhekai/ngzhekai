@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Work as though you would live forever, and live as though you would die today. Go another mile.</q>** -<em>Og Mandino</em>
+**<q>If we did all the things we are capable of, we would literally astound ourselves.</q>** -<em>Thomas Edison</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
