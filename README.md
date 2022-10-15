@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.</q>** -<em>Dan Millman</em>
+**<q>Work as though you would live forever, and live as though you would die today. Go another mile.</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
