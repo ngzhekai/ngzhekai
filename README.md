@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>My instinct is always to seek out challenges as opposed to avoiding them.</q>** -<em>Josh Waitzkin</em>
+**<q>Never give up work. Work gives you meaning and purpose and life is empty without it.</q>** -<em>Stephen Hawking</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
