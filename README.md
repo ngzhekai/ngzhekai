@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You have the potential for greatness.</q>** -<em>Steve Harvey</em>
+**<q>The idea of ourselves is our escape from the fact of what we really are.</q>** -<em>Jiddu Krishnamurti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
