@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What keeps life fascinating is the constant creativity of the soul.</q>** -<em>Deepak Chopra</em>
+**<q>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
