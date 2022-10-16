@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>My powers are ordinary. Only my application brings me success.</q>** -<em>Isaac Newton</em>
+**<q>Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
