@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The biggest room in the world is the room for improvement.</q>** -<em>Unknown</em>
+**<q>You change the world by being yourself.</q>** -<em>Yoko Ono</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
