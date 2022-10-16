@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Never give up work. Work gives you meaning and purpose and life is empty without it.</q>** -<em>Stephen Hawking</em>
+**<q>What keeps life fascinating is the constant creativity of the soul.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
