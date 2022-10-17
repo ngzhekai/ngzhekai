@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you take responsibility for yourself you will develop a hunger to accomplish your dream.</q>** -<em>Les Brown</em>
+**<q>People seldom do what they believe in. They do what is convenient, then repent.</q>** -<em>Bob Dylan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
