@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Out of your vulnerabilities will come your strength.</q>** -<em>Sigmund Freud</em>
+**<q>The grass is greener where you water it.</q>** -<em>Neil Barringham</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
