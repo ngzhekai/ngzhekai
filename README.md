@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</q>** -<em>John Wooden</em>
+**<q>A little progress each day adds up to big results.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
