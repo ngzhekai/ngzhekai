@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The man who moved the mountain was the one who began carrying away the smallest stones.</q>** -<em>Zen Proverb</em>
+**<q>Exceptional thinkers ignore their critics and go about their business making history.</q>** -<em>John Eliot</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
