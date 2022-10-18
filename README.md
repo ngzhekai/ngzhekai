@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You are today where your thoughts have brought you.</q>** -<em>James Allen</em>
+**<q>The salvation of the world lies in the human heart.</q>** -<em>Vaclav Havel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
