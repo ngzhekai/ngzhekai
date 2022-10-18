@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The impossible can always be broken down into possibilities.</q>** -<em>Unknown</em>
+**<q>You are today where your thoughts have brought you.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
