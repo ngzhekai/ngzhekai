@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>He is not a lover who does not love forever.</q>** -<em>Euripides</em>
+**<q>All our dreams can come true, if we have the courage to pursue them.</q>** -<em>Walt Disney</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
