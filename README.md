@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Exceptional thinkers ignore their critics and go about their business making history.</q>** -<em>John Eliot</em>
+**<q>He is not a lover who does not love forever.</q>** -<em>Euripides</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
