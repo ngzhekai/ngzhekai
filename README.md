@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The person who says something is impossible should not interrupt the person who is doing it.</q>** -<em>Chinese Proverb</em>
+**<q>If you don't know, the thing to do is not to get scared, but to learn.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
