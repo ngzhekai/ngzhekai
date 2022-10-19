@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't just sit there. Do something. The answers will follow.</q>** -<em>Mark Manson</em>
+**<q>Begin at once to live, and count each separate day as a separate life. </q>** -<em>Seneca</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
