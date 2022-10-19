@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Fear, uncertainty, and discomfort are your compasses toward growth.</q>** -<em>Celestine Chua</em>
+**<q>The greatest discovery of all time is that a person can change their future by merely changing their attitude.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
