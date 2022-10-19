@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Trying to define yourself is like trying to bite your own teeth.</q>** -<em>Alan Watts</em>
+**<q>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</q>** -<em>Naval Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
