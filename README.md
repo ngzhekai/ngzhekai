@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If it entertains you now but will bore you someday, it's a distraction. Keep looking.</q>** -<em>Naval Ravikant</em>
+**<q>Given the choice between the experience of pain and nothing, I would choose pain.</q>** -<em>William Faulkner</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
