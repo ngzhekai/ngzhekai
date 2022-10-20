@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</q>** -<em>Charles Dickens</em>
+**<q>Kind words can be short and easy to speak, but their echoes are truly endless.</q>** -<em>Mother Teresa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
