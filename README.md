@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>All leaders are readers.</q>** -<em>Jim Rohn</em>
+**<q>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</q>** -<em>Winston Churchill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
