@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Continuous effort - not strength or intelligence - is the key to unlocking our potential.</q>** -<em>Winston Churchill</em>
+**<q>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</q>** -<em>Emily Dickinson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
