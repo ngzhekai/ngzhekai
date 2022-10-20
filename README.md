@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Art, like morality, consists of drawing the line somewhere.</q>** -<em>Gilbert Chesterton</em>
+**<q>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</q>** -<em>Mark Twain</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
