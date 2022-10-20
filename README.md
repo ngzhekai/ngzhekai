@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</q>** -<em>Nelson Mandela</em>
+**<q>Quality means doing it right when no one is looking.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
