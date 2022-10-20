@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</q>** -<em>Mark Twain</em>
+**<q>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</q>** -<em>Charles Dickens</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
