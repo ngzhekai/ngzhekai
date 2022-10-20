@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Always remember that you are absolutely unique. Just like everyone else. </q>** -<em>Margaret Mead</em>
+**<q>All leaders are readers.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
