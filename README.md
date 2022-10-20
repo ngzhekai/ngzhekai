@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There are only encounters in history. There are no accidents.</q>** -<em>Pablo Picasso</em>
+**<q>What would life be if we had no courage to attempt anything? </q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
