@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Quality means doing it right when no one is looking.</q>** -<em>Henry Ford</em>
+**<q>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
