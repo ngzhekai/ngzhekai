@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is a question and how we live it is our answer.</q>** -<em>Gary Keller</em>
+**<q>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
