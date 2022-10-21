@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It takes half your life before you discover life is a do-it-yourself project.</q>** -<em>Napoleon Hill</em>
+**<q>If no one ever broke the rules, then we'd never advance.</q>** -<em>Simon Sinek</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
