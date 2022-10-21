@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Enthusiasm makes up for a host of deficiencies.</q>** -<em>Barack Obama</em>
+**<q>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</q>** -<em>Betty White</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
