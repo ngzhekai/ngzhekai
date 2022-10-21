@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If no one ever broke the rules, then we'd never advance.</q>** -<em>Simon Sinek</em>
+**<q>It isn't what you do, but how you do it.</q>** -<em>John Wooden</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
