@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is not a problem to be solved, but a reality to be experienced.</q>** -<em>Soren Kierkegaard</em>
+**<q>It is amazing what you can accomplish if you do not care who gets the credit.</q>** -<em>Harry S. Truman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
