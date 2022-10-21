@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It isn't what you do, but how you do it.</q>** -<em>John Wooden</em>
+**<q>Enthusiasm makes up for a host of deficiencies.</q>** -<em>Barack Obama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
