@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The person who is his own master cannot tolerate another boss. </q>** -<em>Chinese Proverb</em>
+**<q>Love is the absence of judgment.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
