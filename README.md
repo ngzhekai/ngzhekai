@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>In the End, we will remember not the words of our enemies, but the silence of our friends.</q>** -<em>Martin Luther King, Jr.</em>
+**<q>Art, like morality, consists of drawing the line somewhere.</q>** -<em>Gilbert Chesterton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
