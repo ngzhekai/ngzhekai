@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</q>** -<em>Eckhart Tolle</em>
+**<q>I will not walk backward in life.</q>** -<em>J.R.R. Tolkien</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
