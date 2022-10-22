@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</q>** -<em>Norman Vincent Peale</em>
+**<q>The wise warrior avoids the battle.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
