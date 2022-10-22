@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A man sees in the world what he carries in his heart.</q>** -<em>Johann Wolfgang von Goethe</em>
+**<q>However difficult life may seem, there is always something you can do and succeed at.</q>** -<em>Stephen Hawking</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
