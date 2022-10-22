@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I was angered, for I had no shoes. Then I met a man who had no feet. </q>** -<em>Chinese Proverb</em>
+**<q>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
