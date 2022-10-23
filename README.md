@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You cannot swim for new horizons until you have courage to lose sight of the shore.</q>** -<em>William Faulkner</em>
+**<q>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
