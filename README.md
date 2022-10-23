@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Let not your mind run on what you lack as much as on what you have already.</q>** -<em>Marcus Aurelius</em>
+**<q>Enthusiasm is a vital element toward the individual success of every man or woman.</q>** -<em>Conrad Hilton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
