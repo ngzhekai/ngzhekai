@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only normal people are the ones you don't know very well.</q>** -<em>Alfred Adler</em>
+**<q>I'm not afraid of death, but I'm in no hurry to die.</q>** -<em>Stephen Hawking</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
