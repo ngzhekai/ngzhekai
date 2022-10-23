@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Enthusiasm is a vital element toward the individual success of every man or woman.</q>** -<em>Conrad Hilton</em>
+**<q>The strength of a wall is neither greater nor less than the courage of the men who defend it. </q>** -<em>Genghis Khan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
