@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</q>** -<em>James Allen</em>
+**<q>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
