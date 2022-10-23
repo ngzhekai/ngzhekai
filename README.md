@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The strength of a wall is neither greater nor less than the courage of the men who defend it. </q>** -<em>Genghis Khan</em>
+**<q>The only normal people are the ones you don't know very well.</q>** -<em>Alfred Adler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
