@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Failure will never overtake me if my determination to succeed is strong enough.</q>** -<em>Og Mandino</em>
+**<q>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
