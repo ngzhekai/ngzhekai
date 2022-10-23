@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Love is the absence of judgment.</q>** -<em>Dalai Lama</em>
+**<q>You cannot swim for new horizons until you have courage to lose sight of the shore.</q>** -<em>William Faulkner</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
