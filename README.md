@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.</q>** -<em>Roy T. Bennett</em>
+**<q>Success is within the reach of just about everyone.</q>** -<em>Lolly Daskal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
