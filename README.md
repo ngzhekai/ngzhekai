@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Wrong turns are as important as right turns. More important, sometimes.</q>** -<em>Richard Bach</em>
+**<q>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</q>** -<em>Mark Twain</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
