@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying.</q>** -<em>Ming-Dao Deng</em>
+**<q>I have no methods; all I do is accept people as they are.</q>** -<em>Joan Rivers</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
