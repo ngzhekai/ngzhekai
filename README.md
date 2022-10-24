@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It is useless to meet revenge with revenge; it will heal nothing.</q>** -<em>J.R.R. Tolkien</em>
+**<q>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
