@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.</q>** -<em>Zig Ziglar</em>
+**<q>Walk towards the sunshine, and the shadows will fall behind you.</q>** -<em>Mary Engelbreit</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
