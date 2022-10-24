@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Raise your words, not voice. It is rain that grows flowers, not thunder.</q>** -<em>Rumi</em>
+**<q>You need a plan to build a house. To build a life, it is even more important to have a plan or goal.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
