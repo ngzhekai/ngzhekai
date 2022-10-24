@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I have no methods; all I do is accept people as they are.</q>** -<em>Joan Rivers</em>
+**<q>Successful people are not without problems. They're simply people who've learned to solve their problems.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
