@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I'm not afraid of death, but I'm in no hurry to die.</q>** -<em>Stephen Hawking</em>
+**<q>Wrong turns are as important as right turns. More important, sometimes.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
