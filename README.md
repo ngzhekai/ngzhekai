@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You are your best thing.</q>** -<em>Toni Morrison</em>
+**<q>The future doesn't belong to the faint-hearted; it belongs to the brave.</q>** -<em>Ronald Reagan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
