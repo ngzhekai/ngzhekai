@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No man is free who is not master of himself.</q>** -<em>Epictetus</em>
+**<q>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </q>** -<em>W. Clement Stone</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
