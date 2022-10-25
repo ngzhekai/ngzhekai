@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you're waiting until you feel talented enough to make it, you'll never make it.</q>** -<em>Criss Jami</em>
+**<q>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</q>** -<em>Kahlil Gibran</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
