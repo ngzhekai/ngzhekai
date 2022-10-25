@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The future doesn't belong to the faint-hearted; it belongs to the brave.</q>** -<em>Ronald Reagan</em>
+**<q>It always seems impossible until it's done.</q>** -<em>Nelson Mandela</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
