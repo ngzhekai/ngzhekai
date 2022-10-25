@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Things turn out best for the people who make the best of the way things turn out.</q>** -<em>John Wooden</em>
+**<q>No man is free who is not master of himself.</q>** -<em>Epictetus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
