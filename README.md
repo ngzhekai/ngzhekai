@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </q>** -<em>W. Clement Stone</em>
+**<q>If you're waiting until you feel talented enough to make it, you'll never make it.</q>** -<em>Criss Jami</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
