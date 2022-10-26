@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Perseverance and spirit have done wonders in all ages. </q>** -<em>George Washington</em>
+**<q>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</q>** -<em>Toni Morrison</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
