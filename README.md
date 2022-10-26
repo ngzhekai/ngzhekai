@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To know your Enemy, you must become your Enemy.</q>** -<em>Sun Tzu</em>
+**<q>Perseverance and spirit have done wonders in all ages. </q>** -<em>George Washington</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
