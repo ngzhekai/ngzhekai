@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</q>** -<em>Robert F. Kennedy</em>
+**<q>Wherever you are, it's the place you need to be.</q>** -<em>Maxime Lagace</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
