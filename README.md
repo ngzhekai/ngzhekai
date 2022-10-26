@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You get paid in direct proportion to the difficulty of problems you solve.</q>** -<em>Elon Musk</em>
+**<q>The truth is simple. If it was complicated, everyone would understand it.</q>** -<em>Walt Whitman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
