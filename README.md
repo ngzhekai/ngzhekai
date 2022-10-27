@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Talk to someone about themselves and they'll listen for hours.</q>** -<em>Dale Carnegie</em>
+**<q>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</q>** -<em>John Locke</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
