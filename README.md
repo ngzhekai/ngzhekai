@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The biggest challenge after success is shutting up about it.</q>** -<em>Criss Jami</em>
+**<q>You are always your own best guru, your own best teacher, the answers are always inside you.</q>** -<em>Sathya Sai Baba</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
