@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Successful people appreciate where they have come from, but they don't let their past set the tone for their future.</q>** -<em>Steve Harvey</em>
+**<q>The power of man has grown in every sphere, except over himself.</q>** -<em>Winston Churchill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
