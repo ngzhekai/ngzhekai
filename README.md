@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Happiness must be grown in one's own garden.</q>** -<em>Mary Engelbreit</em>
+**<q>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</q>** -<em>Paramahansa Yogananda</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
