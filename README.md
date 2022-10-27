@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Never be bored, and you will never be boring.</q>** -<em>Eleanor Roosevelt</em>
+**<q>Happiness must be grown in one's own garden.</q>** -<em>Mary Engelbreit</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
