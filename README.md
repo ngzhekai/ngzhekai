@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>First learn the meaning of what you say, and then speak.</q>** -<em>Epictetus</em>
+**<q>Talk to someone about themselves and they'll listen for hours.</q>** -<em>Dale Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
