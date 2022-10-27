@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The power of man has grown in every sphere, except over himself.</q>** -<em>Winston Churchill</em>
+**<q>If you want something new, you have to stop doing something old.</q>** -<em>Peter Drucker</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
