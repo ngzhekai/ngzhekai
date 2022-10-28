@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</q>** -<em>Paramahansa Yogananda</em>
+**<q>You cannot control the behavior of others, but you can always choose how you respond to it.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
