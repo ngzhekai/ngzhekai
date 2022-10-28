@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>By the practice of meditation, you will find that you are carrying within your heart a portable paradise.</q>** -<em>Paramahansa Yogananda</em>
+**<q>Life is much more successfully looked at from a single window.</q>** -<em>F. Scott Fitzgerald</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
