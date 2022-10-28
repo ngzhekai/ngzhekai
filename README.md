@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.</q>** -<em>Dan Millman</em>
+**<q>If you quit once it becomes a habit.</q>** -<em>Michael Jordan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
