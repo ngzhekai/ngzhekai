@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't be afraid to go slowly. Be afraid of stopping.</q>** -<em>Zen Proverb</em>
+**<q>True it is, we only hate those whom we do not know.</q>** -<em>Andrew Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
