@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done.</q>** -<em>Jack Butcher</em>
+**<q>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</q>** -<em>Andrew Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
