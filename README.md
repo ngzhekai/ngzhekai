@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</q>** -<em>Robin Sharma</em>
+**<q>The less you talk about your shame, the more of it you have.</q>** -<em>Mark Manson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
