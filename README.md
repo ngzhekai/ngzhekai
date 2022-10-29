@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </q>** -<em>Lao Tzu</em>
+**<q>Man should fear never beginning to live.</q>** -<em>Marcus Aurelius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
