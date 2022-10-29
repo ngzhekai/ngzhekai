@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</q>** -<em>Theodore Roosevelt</em>
+**<q>Would you rather live your life according to the approval of others or aligned with your truth and your dreams?</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
