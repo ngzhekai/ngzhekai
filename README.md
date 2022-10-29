@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We are like islands in the sea, separate on the surface but connected in the deep.</q>** -<em>William James</em>
+**<q>Life has the name of life, but in reality it is death.</q>** -<em>Heraclitus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
