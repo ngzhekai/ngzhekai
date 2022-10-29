@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Man should fear never beginning to live.</q>** -<em>Marcus Aurelius</em>
+**<q>If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month.</q>** -<em>Theodore Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
