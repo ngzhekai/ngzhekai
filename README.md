@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</q>** -<em>Andrew Carnegie</em>
+**<q>It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.</q>** -<em>Gurbaksh Chahal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
