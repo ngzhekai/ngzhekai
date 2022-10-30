@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I must also have a dark side if I am to be whole.</q>** -<em>Carl Jung</em>
+**<q>Surrender to what is. Let go of what was. Have faith in what will be.</q>** -<em>Sonia Ricotti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
