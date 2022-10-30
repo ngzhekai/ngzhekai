@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Failure is just information and an opportunity to change your course.</q>** -<em>Oprah Winfrey</em>
+**<q>Don't just sit there. Do something. The answers will follow.</q>** -<em>Mark Manson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
