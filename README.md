@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</q>** -<em>Jim Rohn</em>
+**<q>I must also have a dark side if I am to be whole.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
