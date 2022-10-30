@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Everyone sees what you appear to be, few experience what you really are.</q>** -<em>Niccolo Machiavelli</em>
+**<q>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </q>** -<em>Lao Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
