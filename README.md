@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>As soon as you trust yourself, you will know how to live.</q>** -<em>Johann Wolfgang von Goethe</em>
+**<q>The only way it gets better for you is when you get better. Better is not something you wish, it's something you become.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
