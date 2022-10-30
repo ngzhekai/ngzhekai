@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't just sit there. Do something. The answers will follow.</q>** -<em>Mark Manson</em>
+**<q>The worst part of success is trying to find someone who is happy for you.</q>** -<em>Bette Midler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
