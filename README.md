@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There is nothing quite so tragic as a young cynic.</q>** -<em>Maya Angelou</em>
+**<q>To lead the people, walk behind them.</q>** -<em>Lao Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
