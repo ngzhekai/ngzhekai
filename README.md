@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </q>** -<em>Lao Tzu</em>
+**<q>True life is lived when tiny changes occur.</q>** -<em>Leo Tolstoy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
