@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</q>** -<em>Brian Tracy</em>
+**<q>If what you're doing is not your passion, you have nothing to lose.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
