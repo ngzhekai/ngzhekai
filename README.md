@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If I can pay the bills, I'm happy.</q>** -<em>Morgan Wootten</em>
+**<q>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</q>** -<em>Steve Harvey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
