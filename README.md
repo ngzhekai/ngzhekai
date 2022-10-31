@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>True life is lived when tiny changes occur.</q>** -<em>Leo Tolstoy</em>
+**<q>If I can pay the bills, I'm happy.</q>** -<em>Morgan Wootten</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
