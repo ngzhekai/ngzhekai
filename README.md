@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Guilt is perhaps the most painful companion of death.</q>** -<em>Coco Chanel</em>
+**<q>We can spend our whole lives escaping from the monsters of our minds.</q>** -<em>Pema Chodron</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
