@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If what you're doing is not your passion, you have nothing to lose.</q>** -<em>Celestine Chua</em>
+**<q>You will not do incredible things without an incredible dream.</q>** -<em>John Eliot</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
