@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends.</q>** -<em>Deepak Chopra</em>
+**<q>High thoughts must have high language.</q>** -<em>Aristophanes</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
