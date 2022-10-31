@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Knowledge has to be improved, challenged, and increased constantly, or it vanishes.</q>** -<em>Peter Drucker</em>
+**<q>The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</q>** -<em>Brian Tracy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
