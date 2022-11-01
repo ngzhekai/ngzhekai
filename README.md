@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The question isn't who is going to let me; it's who is going to stop me.</q>** -<em>Ayn Rand</em>
+**<q>The dreamers are the saviors of the worlds.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
