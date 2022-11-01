@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A hut full of laughter is richer than a palace full of sadness.</q>** -<em>Zen Proverb</em>
+**<q>Little minds have little worries, big minds have no time for worries.</q>** -<em>Ralph Waldo Emerson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
