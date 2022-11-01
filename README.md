@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We are most nearly ourselves when we achieve the seriousness of the child at play.</q>** -<em>Heraclitus</em>
+**<q>The question isn't who is going to let me; it's who is going to stop me.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
