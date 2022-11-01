@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The dreamers are the saviors of the worlds.</q>** -<em>James Allen</em>
+**<q>Thought is so cunning, so clever, that it distorts everything for its own convenience.</q>** -<em>Jiddu Krishnamurti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
