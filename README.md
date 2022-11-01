@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A change is brought about because ordinary people do extraordinary things.</q>** -<em>Barack Obama</em>
+**<q>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</q>** -<em>Alan Watts</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
