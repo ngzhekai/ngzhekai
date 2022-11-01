@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</q>** -<em>Alan Watts</em>
+**<q>Don't let your mind stop you.</q>** -<em>Steve Harvey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
