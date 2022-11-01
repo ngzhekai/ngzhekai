@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Little minds have little worries, big minds have no time for worries.</q>** -<em>Ralph Waldo Emerson</em>
+**<q>Failure is an option here. If things are not failing, you are not innovating enough.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
