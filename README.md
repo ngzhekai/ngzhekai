@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We must create our own world or we will die from inaction.</q>** -<em>Robert Greene</em>
+**<q>You purchase pain with all that joy can give and die of nothing but a rage to live.</q>** -<em>Alexander Pope</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
