@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</q>** -<em>Unknown</em>
+**<q>Trust, but verify.</q>** -<em>Ronald Reagan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
