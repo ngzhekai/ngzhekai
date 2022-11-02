@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Thought is so cunning, so clever, that it distorts everything for its own convenience.</q>** -<em>Jiddu Krishnamurti</em>
+**<q>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
