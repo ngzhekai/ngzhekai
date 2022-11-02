@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Remember, hope is a good thing, maybe the best of things.</q>** -<em>Stephen King</em>
+**<q>Don't gain the world and lose your soul. Wisdom is better than silver and gold.</q>** -<em>Bob Marley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
