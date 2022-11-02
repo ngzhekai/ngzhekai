@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Experience is a comb which nature gives us when we are bald. </q>** -<em>Chinese Proverb</em>
+**<q>A self that goes on changing is a self that goes on living.</q>** -<em>Virginia Woolf</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
