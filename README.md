@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Live, travel, adventure, bless, and don't be sorry. </q>** -<em>Jack Kerouac</em>
+**<q>The source of a true smile is an awakened mind.</q>** -<em>Thich Nhat Hanh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
