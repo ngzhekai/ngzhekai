@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Friends ask you questions; enemies question you.</q>** -<em>Criss Jami</em>
+**<q>We must create our own world or we will die from inaction.</q>** -<em>Robert Greene</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
