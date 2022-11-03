@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only difference between success and failure is the ability to take action.</q>** -<em>Alexander Graham Bell</em>
+**<q>People rarely succeed unless they have fun in what they are doing.</q>** -<em>Dale Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
