@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Take into account that great love and great achievements involve great risk.</q>** -<em>Dalai Lama</em>
+**<q>No matter what happens, always be yourself.</q>** -<em>Dale Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
