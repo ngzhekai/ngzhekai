@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No matter how tall the mountain is, it cannot block the sun.</q>** -<em>Chinese Proverb</em>
+**<q>Everything that is done in the world is done by hope.</q>** -<em>Martin Luther</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
