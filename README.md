@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You purchase pain with all that joy can give and die of nothing but a rage to live.</q>** -<em>Alexander Pope</em>
+**<q>The only difference between success and failure is the ability to take action.</q>** -<em>Alexander Graham Bell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
