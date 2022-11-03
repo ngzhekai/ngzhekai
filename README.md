@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No one ever said life was fair. Just Eventful.</q>** -<em>Carol Burnett</em>
+**<q>To some degree, you control your life by controlling your time.</q>** -<em>Conrad Hilton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
