@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A successful man is one who can lay a firm foundation with the bricks others have thrown at him. </q>** -<em>David Brinkley</em>
+**<q>Time you enjoy wasting, was not wasted.</q>** -<em>John Lennon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
