@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Everything that is done in the world is done by hope.</q>** -<em>Martin Luther</em>
+**<q>Take into account that great love and great achievements involve great risk.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
