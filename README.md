@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Sometimes you have to lose all you have to find out who you truly are.</q>** -<em>Roy T. Bennett</em>
+**<q>Is it really possible to tell someone else what one feels?</q>** -<em>Leo Tolstoy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
