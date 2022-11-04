@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you.</q>** -<em>Jeffrey Gitomer</em>
+**<q>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
