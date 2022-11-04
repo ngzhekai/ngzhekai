@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</q>** -<em>Martin Luther King, Jr.</em>
+**<q>Throw your heart over the fence and the rest will follow</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
