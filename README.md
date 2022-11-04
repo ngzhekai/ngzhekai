@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Throw your heart over the fence and the rest will follow</q>** -<em>Norman Vincent Peale</em>
+**<q>We need a backbone, not a wishbone.</q>** -<em>Joyce Meyer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
