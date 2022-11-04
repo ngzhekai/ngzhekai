@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</q>** -<em>Eleanor Roosevelt</em>
+**<q>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </q>** -<em>Margaret Mead</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
