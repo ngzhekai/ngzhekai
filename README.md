@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>One of the oldest human needs is having someone to wonder where you are when you don't come home at night. </q>** -<em>Margaret Mead</em>
+**<q>If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving.</q>** -<em>Martin Luther King, Jr.</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
