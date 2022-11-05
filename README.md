@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Never stand begging for that which you have the power to earn.</q>** -<em>Miguel de Cervantes</em>
+**<q>Life is 10% what happens to you and 90% how you react to it. </q>** -<em>Charles Swindoll</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
