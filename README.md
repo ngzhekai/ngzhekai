@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is 10% what happens to you and 90% how you react to it. </q>** -<em>Charles Swindoll</em>
+**<q>Successful people are not without problems. They're simply people who've learned to solve their problems.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
