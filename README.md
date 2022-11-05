@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Happiness is only real, when shared.</q>** -<em>Christopher McCandless</em>
+**<q>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
