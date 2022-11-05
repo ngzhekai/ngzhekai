@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you love life, don't waste time, for time is what life is made up of. </q>** -<em>Bruce Lee</em>
+**<q>Never stand begging for that which you have the power to earn.</q>** -<em>Miguel de Cervantes</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
