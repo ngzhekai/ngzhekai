@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Absence makes the heart grow fonder.</q>** -<em>Eleanor Roosevelt</em>
+**<q>A path is made by walking on it.</q>** -<em>Zhuangzi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
