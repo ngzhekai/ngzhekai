@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The greatest test of courage on earth is to bear defeat without losing heart.</q>** -<em>Robert Greene</em>
+**<q>If you love life, don't waste time, for time is what life is made up of. </q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
