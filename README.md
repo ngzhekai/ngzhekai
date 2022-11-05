@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Your past does not equal your future.</q>** -<em>Tony Robbins</em>
+**<q>One always begins to forgive a place as soon as it's left behind.</q>** -<em>Charles Dickens</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
