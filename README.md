@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</q>** -<em>Celestine Chua</em>
+**<q>We suffer more often in imagination than in reality.</q>** -<em>Seneca</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
