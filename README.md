@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</q>** -<em>Eleanor Roosevelt</em>
+**<q>Whether you think you can or think you can't – you are right.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
