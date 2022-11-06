@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.</q>** -<em>Andrew Carnegie</em>
+**<q>Live calmly. The time will come when the flowers bloom by themselves.</q>** -<em>Zen Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
