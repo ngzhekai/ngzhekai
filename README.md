@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I'd rather welcome change than cling to the past.</q>** -<em>Robert Kiyosaki</em>
+**<q>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
