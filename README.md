@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Go for it now. The future is promised to no one. </q>** -<em>Wayne Dyer</em>
+**<q>Live as if you were to die tomorrow. Learn as if you were to live forever.</q>** -<em>Mahatma Gandhi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
