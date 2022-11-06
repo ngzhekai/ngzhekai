@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Live as if you were to die tomorrow. Learn as if you were to live forever.</q>** -<em>Mahatma Gandhi</em>
+**<q>If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
