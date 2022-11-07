@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Relax. Nothing is under control.</q>** -<em>Adi Da Samraj</em>
+**<q>The price of inaction is far greater than the cost of making a mistake.</q>** -<em>Meister Eckhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
