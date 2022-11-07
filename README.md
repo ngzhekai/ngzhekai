@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I am not the outcome. I am never the result. I am only the effort.</q>** -<em>Kamal Ravikant</em>
+**<q>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
