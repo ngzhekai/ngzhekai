@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</q>** -<em>Ayn Rand</em>
+**<q>You can easily judge the character of a man by how he treats those who can do nothing for him.</q>** -<em>Johann Wolfgang von Goethe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
