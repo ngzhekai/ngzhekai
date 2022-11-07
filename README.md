@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Victims recite problems, leaders provide solutions.</q>** -<em>Robin Sharma</em>
+**<q>I am not the outcome. I am never the result. I am only the effort.</q>** -<em>Kamal Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
