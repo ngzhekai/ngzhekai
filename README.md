@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>In the beginner's mind there are many possibilities, but in the expert's mind there are few.</q>** -<em>Shunryu Suzuki</em>
+**<q>It is better to disappoint people with the truth than to appease them with a lie.</q>** -<em>Simon Sinek</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
