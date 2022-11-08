@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</q>** -<em>Paulo Coelho</em>
+**<q>Your imagination is your preview of life's coming attractions.</q>** -<em>Albert Einstein</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
