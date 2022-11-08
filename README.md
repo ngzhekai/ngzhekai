@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Without the rain there would be no rainbow.</q>** -<em>Gilbert Chesterton</em>
+**<q>Understanding that rests in what it does not understand is the finest.</q>** -<em>Zhuangzi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
