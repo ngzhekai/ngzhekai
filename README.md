@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Understanding that rests in what it does not understand is the finest.</q>** -<em>Zhuangzi</em>
+**<q>I've always tried to go a step past wherever people expected me to end up.</q>** -<em>Beverly Sills</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
