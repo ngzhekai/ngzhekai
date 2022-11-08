@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It is the power of thought that gives man power over nature.</q>** -<em>Hans Christian Andersen</em>
+**<q>Show me a hero, and I'll write you a tragedy.</q>** -<em>F. Scott Fitzgerald</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
