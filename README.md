@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Thinking is difficult, that's why most people judge.</q>** -<em>Carl Jung</em>
+**<q>You can do nothing to change the past, and the future will never come exactly as you plan or hope for.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
