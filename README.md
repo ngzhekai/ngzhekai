@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Great loves too must be endured.</q>** -<em>Coco Chanel</em>
+**<q>Don't let them drag you down by rumors. Just go with what you believe in.</q>** -<em>Michael Jordan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
