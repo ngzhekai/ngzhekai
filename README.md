@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Don't let them drag you down by rumors. Just go with what you believe in.</q>** -<em>Michael Jordan</em>
+**<q>Even when a friend does something you do not like, he continues to be your friend. </q>** -<em>Genghis Khan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
