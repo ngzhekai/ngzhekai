@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>While we may not be able to control all that happens to us, we can control what happens inside us.</q>** -<em>Benjamin Franklin</em>
+**<q>As soon as you trust yourself, you will know how to live.</q>** -<em>Johann Wolfgang von Goethe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
