@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</q>** -<em>Thomas Jefferson</em>
+**<q>No tree, it is said, can grow to heaven unless its roots reach down to hell.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
