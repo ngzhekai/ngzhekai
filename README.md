@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No tree, it is said, can grow to heaven unless its roots reach down to hell.</q>** -<em>Carl Jung</em>
+**<q>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
