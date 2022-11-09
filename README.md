@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The quality of your life is determined by the quality of questions you ask.</q>** -<em>Tony Robbins</em>
+**<q>There are only encounters in history. There are no accidents.</q>** -<em>Pablo Picasso</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
