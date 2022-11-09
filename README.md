@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>As soon as you trust yourself, you will know how to live.</q>** -<em>Johann Wolfgang von Goethe</em>
+**<q>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</q>** -<em>Thomas Jefferson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
