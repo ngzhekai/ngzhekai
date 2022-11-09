@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Show me a hero, and I'll write you a tragedy.</q>** -<em>F. Scott Fitzgerald</em>
+**<q>While we may not be able to control all that happens to us, we can control what happens inside us.</q>** -<em>Benjamin Franklin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
