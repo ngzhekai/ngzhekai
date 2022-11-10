@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Every man is guilty of all the good he did not do. </q>** -<em>Voltaire</em>
+**<q>Real learning comes about when the competitive spirit has ceased.</q>** -<em>Jiddu Krishnamurti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
