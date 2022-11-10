@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.</q>** -<em>Socrates</em>
+**<q>Worry is a waste of emotional reserve.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
