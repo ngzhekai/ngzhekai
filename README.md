@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Real learning comes about when the competitive spirit has ceased.</q>** -<em>Jiddu Krishnamurti</em>
+**<q>When you move beyond your fear, you feel free.</q>** -<em>Spencer Johnson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
