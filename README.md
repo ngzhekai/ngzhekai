@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Worry is a waste of emotional reserve.</q>** -<em>Ayn Rand</em>
+**<q>We think too much and feel too little.</q>** -<em>Charlie Chaplin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
