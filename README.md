@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We think too much and feel too little.</q>** -<em>Charlie Chaplin</em>
+**<q>A flower falls, even though we love it; and a weed grows, even though we do not love it.</q>** -<em>Dogen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
