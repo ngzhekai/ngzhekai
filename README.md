@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Never put off to tomorrow what you can do to-day.</q>** -<em>Thomas Jefferson</em>
+**<q>The desire for more positive experience is itself a negative experience.</q>** -<em>Mark Manson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
