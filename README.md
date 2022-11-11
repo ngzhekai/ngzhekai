@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We have to live life with a sense of urgency so not a minute is wasted.</q>** -<em>Les Brown</em>
+**<q>In life you need either inspiration or desperation.</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
