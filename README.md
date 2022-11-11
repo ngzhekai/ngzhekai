@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>In life you need either inspiration or desperation.</q>** -<em>Tony Robbins</em>
+**<q>Repetition does not transform a lie into a truth.</q>** -<em>Franklin D. Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
