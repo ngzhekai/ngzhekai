@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It isn't that they can't see the solution. It is that they can't see the problem.</q>** -<em>Gilbert Chesterton</em>
+**<q>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</q>** -<em>T.S. Eliot</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
