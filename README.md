@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</q>** -<em>T.S. Eliot</em>
+**<q>Winners are not people who never fail, but people who never quit.</q>** -<em>Arnold Schwarzenegger</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
