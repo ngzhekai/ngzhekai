@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Winners are not people who never fail, but people who never quit.</q>** -<em>Arnold Schwarzenegger</em>
+**<q>We have to live life with a sense of urgency so not a minute is wasted.</q>** -<em>Les Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
