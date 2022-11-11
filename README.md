@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be curious, not judgmental.</q>** -<em>Walt Whitman</em>
+**<q>A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.</q>** -<em>Winston Churchill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
