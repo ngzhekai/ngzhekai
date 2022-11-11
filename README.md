@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Have the fearless attitude of a hero and the loving heart of a child.</q>** -<em>Soyen Shaku</em>
+**<q>If you're brave enough to say goodbye, life will reward you with a new hello.</q>** -<em>Paulo Coelho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
