@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Do not pray for an easy life, pray for the strength to endure a difficult one. </q>** -<em>Bruce Lee</em>
+**<q>Sometimes you have to shut your eyes, so you can see the real beauty.</q>** -<em>Kilian Jornet</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
