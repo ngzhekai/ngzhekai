@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The secret of life is to fall seven times and to get up eight times.</q>** -<em>Paulo Coelho</em>
+**<q>Do not pray for an easy life, pray for the strength to endure a difficult one. </q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
