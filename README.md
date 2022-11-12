@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The way to love anything is to realize that it may be lost.</q>** -<em>Gilbert Chesterton</em>
+**<q>The greatest work that kindness does to others is that it makes them kind themselves.</q>** -<em>Amelia Earhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
