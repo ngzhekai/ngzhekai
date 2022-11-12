@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Sometimes you have to shut your eyes, so you can see the real beauty.</q>** -<em>Kilian Jornet</em>
+**<q>The way we feel is the direct result of what we think.</q>** -<em>Peter A. Cohen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
