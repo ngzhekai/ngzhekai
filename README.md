@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Muddy water is best cleared by leaving it alone.</q>** -<em>Alan Watts</em>
+**<q>Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</q>** -<em>Socrates</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
