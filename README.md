@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The greatest work that kindness does to others is that it makes them kind themselves.</q>** -<em>Amelia Earhart</em>
+**<q>Muddy water is best cleared by leaving it alone.</q>** -<em>Alan Watts</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
