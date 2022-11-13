@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I didn't get there by wishing for it or hoping for it, but by working for it.</q>** -<em>Estee Lauder</em>
+**<q>The most creative act you will ever undertake is the act of creating yourself.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
