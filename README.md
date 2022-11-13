@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</q>** -<em>Kahlil Gibran</em>
+**<q>Courage is knowing what not to fear.</q>** -<em>Plato</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
