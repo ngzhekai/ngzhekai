@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>He is richest who is content with the least, for content is the wealth of nature.</q>** -<em>Socrates</em>
+**<q>Whatever you are, be a good one.</q>** -<em>Abraham Lincoln</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
