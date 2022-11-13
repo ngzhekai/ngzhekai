@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There are no secrets to success. It is the result of preparation, hard work, learning from failure.</q>** -<em>Colin Powell</em>
+**<q>Better a diamond with a flaw than a pebble without one.</q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
