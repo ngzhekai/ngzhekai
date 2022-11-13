@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The most creative act you will ever undertake is the act of creating yourself.</q>** -<em>Deepak Chopra</em>
+**<q>Appear weak when you are strong, and strong when you are weak.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
