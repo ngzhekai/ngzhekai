@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Intelligent men are cruel. Stupid men are monstrously cruel.</q>** -<em>Jack London</em>
+**<q>A zen master's life is one continuous mistake.</q>** -<em>Dogen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
