@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </q>** -<em>Steve Jobs</em>
+**<q>What you get by achieving your goals is not as important as what you become by achieving your goals.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
