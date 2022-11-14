@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is like a wheel. Sooner or later, it always comes around to where you started again.</q>** -<em>Stephen King</em>
+**<q>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</q>** -<em>Shunryu Suzuki</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
