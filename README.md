@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>All human wisdom is contained in these two words - Wait and Hope</q>** -<em>Alexandre Dumas</em>
+**<q>Confidence is contagious. So is lack of confidence.</q>** -<em>Vince Lombardi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
