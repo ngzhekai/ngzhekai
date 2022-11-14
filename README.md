@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Once a decision was made, I didn't worry about it afterward.</q>** -<em>Harry S. Truman</em>
+**<q>Life is like a wheel. Sooner or later, it always comes around to where you started again.</q>** -<em>Stephen King</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
