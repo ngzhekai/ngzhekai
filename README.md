@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</q>** -<em>Shunryu Suzuki</em>
+**<q>Behind every cloud is another cloud.</q>** -<em>Judy Garland</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
