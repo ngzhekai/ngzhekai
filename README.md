@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Behind every cloud is another cloud.</q>** -<em>Judy Garland</em>
+**<q>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </q>** -<em>Steve Jobs</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
