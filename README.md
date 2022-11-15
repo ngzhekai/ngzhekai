@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Time you enjoy wasting, was not wasted.</q>** -<em>John Lennon</em>
+**<q>The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.</q>** -<em>Bob Marley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
