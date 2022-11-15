@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>He who has overcome his fears will truly be free.</q>** -<em>Aristotle</em>
+**<q>If you want to see things just as they are, then you yourself must practice just as you are.</q>** -<em>Dogen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
