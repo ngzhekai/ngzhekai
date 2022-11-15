@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you want to see things just as they are, then you yourself must practice just as you are.</q>** -<em>Dogen</em>
+**<q>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
