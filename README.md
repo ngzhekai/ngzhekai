@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We will outstretch the hand if you unclench your fist.</q>** -<em>Barack Obama</em>
+**<q>He who has overcome his fears will truly be free.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
