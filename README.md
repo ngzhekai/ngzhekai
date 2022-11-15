@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</q>** -<em>Henry Ward Beecher</em>
+**<q>The most important single ingredient in the formula of success is knowing how to get along with people.</q>** -<em>Theodore Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
