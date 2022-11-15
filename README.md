@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Each problem has a positive side.</q>** -<em>Og Mandino</em>
+**<q>We will outstretch the hand if you unclench your fist.</q>** -<em>Barack Obama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
