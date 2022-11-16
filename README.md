@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Even though you are on the right track - you will get run over if you just sit there.</q>** -<em>Will Rogers</em>
+**<q>Life would be tragic if it weren't funny.</q>** -<em>Stephen Hawking</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
