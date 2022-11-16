@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</q>** -<em>Colin Powell</em>
+**<q>At first dreams seem impossible, then improbable, then inevitable.</q>** -<em>Christopher Reeve</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
