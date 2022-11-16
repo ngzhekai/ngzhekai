@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>At first dreams seem impossible, then improbable, then inevitable.</q>** -<em>Christopher Reeve</em>
+**<q>My powers are ordinary. Only my application brings me success.</q>** -<em>Isaac Newton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
