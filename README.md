@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Too many of us are not living our dreams because we are living our fears.</q>** -<em>Les Brown</em>
+**<q>Creative people are often found either disagreeable or intimidating by mediocrities.</q>** -<em>Criss Jami</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
