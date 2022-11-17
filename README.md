@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A self that goes on changing is a self that goes on living.</q>** -<em>Virginia Woolf</em>
+**<q>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
