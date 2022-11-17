@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Poetry is written with tears, fiction with blood, and history with invisible ink.</q>** -<em>Carlos Ruiz Zafon</em>
+**<q>Patience is a bitter plant, but its fruit is sweet.</q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
