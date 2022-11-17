@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I believe that one of life's greatest risks is never daring to risk.</q>** -<em>Oprah Winfrey</em>
+**<q>The worst part of success is trying to find someone who is happy for you.</q>** -<em>Bette Midler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
