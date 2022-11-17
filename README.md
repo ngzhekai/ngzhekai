@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Identification with our mind causes thought to become compulsive.</q>** -<em>Eckhart Tolle</em>
+**<q>Don't let making a living prevent you from making a life.</q>** -<em>John Wooden</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
