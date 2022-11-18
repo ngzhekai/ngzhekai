@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's not how much we give but how much love we put into giving.</q>** -<em>Mother Teresa</em>
+**<q>Go confidently in the direction of your dreams! Live the life you've imagined.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
