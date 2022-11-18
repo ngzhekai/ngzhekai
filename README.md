@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No one returns from a long journey the same person they were before.</q>** -<em>Zen Proverb</em>
+**<q>We ordinary people must forge our own beauty.</q>** -<em>Kenji Miyazawa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
