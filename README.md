@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If there is a book that you want to read, but it hasn't been written yet, then you must write it.</q>** -<em>Toni Morrison</em>
+**<q>Always render more and better service than is expected of you, no matter what your task may be.</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
