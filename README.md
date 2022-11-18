@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Never let the things you can't do stop you from doing what you can.</q>** -<em>Ronald Reagan</em>
+**<q>It's not how much we give but how much love we put into giving.</q>** -<em>Mother Teresa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
