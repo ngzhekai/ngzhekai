@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Go confidently in the direction of your dreams! Live the life you've imagined.</q>** -<em>Henry David Thoreau</em>
+**<q>Trust in dreams, for in them is the hidden gate to eternity. </q>** -<em>Kahlil Gibran</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
