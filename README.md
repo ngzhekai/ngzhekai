@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Never confuse a single defeat with a final defeat.</q>** -<em>F. Scott Fitzgerald</em>
+**<q>There are people who have money and people who are rich.</q>** -<em>Coco Chanel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
