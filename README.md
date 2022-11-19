@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Health is the greatest of all possessions.</q>** -<em>Jonathan Swift</em>
+**<q>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</q>** -<em>Shunryu Suzuki</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
