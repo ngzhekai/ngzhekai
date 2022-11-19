@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</q>** -<em>Celestine Chua</em>
+**<q>In order to attain the impossible, one must attempt the absurd.</q>** -<em>Miguel de Cervantes</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
