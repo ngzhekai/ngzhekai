@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Before you can see the Light, you have to deal with the darkness.</q>** -<em>Dan Millman</em>
+**<q>Health is the greatest of all possessions.</q>** -<em>Jonathan Swift</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
