@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It is the mark of an educated mind to be able to entertain a thought without accepting it.</q>** -<em>Aristotle</em>
+**<q>Before you can see the Light, you have to deal with the darkness.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
