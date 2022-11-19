@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>In order to attain the impossible, one must attempt the absurd.</q>** -<em>Miguel de Cervantes</em>
+**<q>You can do two things at once, but you can't focus effectively on two things at once.</q>** -<em>Gary Keller</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
