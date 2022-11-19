@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To the world you may be one person; but to one person you may be the world.</q>** -<em>Dr. Seuss</em>
+**<q>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</q>** -<em>Gary Keller</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
