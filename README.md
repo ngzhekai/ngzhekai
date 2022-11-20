@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The time is always right to do what is right.</q>** -<em>Martin Luther King, Jr.</em>
+**<q>Your imagination is your preview of life's coming attractions.</q>** -<em>Albert Einstein</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
