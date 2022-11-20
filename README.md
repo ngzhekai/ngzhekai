@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</q>** -<em>Shunryu Suzuki</em>
+**<q>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
