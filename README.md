@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Simplicity is a difficult thing to achieve. </q>** -<em>Charlie Chaplin</em>
+**<q>The time is always right to do what is right.</q>** -<em>Martin Luther King, Jr.</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
