@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Your imagination is your preview of life's coming attractions.</q>** -<em>Albert Einstein</em>
+**<q>It's possible in ways both large or small to make a difference in someone's life.</q>** -<em>Yanni</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
