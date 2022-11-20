@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool. </q>** -<em>Ray Bradbury</em>
+**<q>Be brave. Take risks. Nothing can substitute experience.</q>** -<em>Paulo Coelho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
