@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The enemy is a very good teacher.</q>** -<em>Dalai Lama</em>
+**<q>The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool. </q>** -<em>Ray Bradbury</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
