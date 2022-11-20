@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>On the other side of the clouds is a bright blue sky.</q>** -<em>Unknown</em>
+**<q>It's not what you pay a man, but what he costs you that counts.</q>** -<em>Will Rogers</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
