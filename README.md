@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be brave. Take risks. Nothing can substitute experience.</q>** -<em>Paulo Coelho</em>
+**<q>Dreams are the royal road to the unconscious. </q>** -<em>Sigmund Freud</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
