@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success is not how high you have climbed, but how you make a positive difference to the world.</q>** -<em>Roy T. Bennett</em>
+**<q>There are no secrets to success. It is the result of preparation, hard work, and learning from failure.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
