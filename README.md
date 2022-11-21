@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I'd rather welcome change than cling to the past.</q>** -<em>Robert Kiyosaki</em>
+**<q>You need to be doing fewer things for more effect instead of doing more things with side effects.</q>** -<em>Gary Keller</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
