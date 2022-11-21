@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</q>** -<em>Zig Ziglar</em>
+**<q>The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
