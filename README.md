@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A man's worth is no greater than his ambitions.</q>** -<em>Marcus Aurelius</em>
+**<q>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
