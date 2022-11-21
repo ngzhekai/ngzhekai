@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Dreams are the royal road to the unconscious. </q>** -<em>Sigmund Freud</em>
+**<q>Success is not how high you have climbed, but how you make a positive difference to the world.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
