@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.</q>** -<em>Charles Dickens</em>
+**<q>You have to make time, even for something as universal as staring at the stars.</q>** -<em>W.P. Kinsella</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
