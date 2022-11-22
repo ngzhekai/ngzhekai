@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's OK to have your eggs in one basket as long as you control what happens to that basket.</q>** -<em>Elon Musk</em>
+**<q>All wealth is the product of labor.</q>** -<em>John Locke</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
