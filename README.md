@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We ordinary people must forge our own beauty.</q>** -<em>Kenji Miyazawa</em>
+**<q>Success is often achieved by those who don't know that failure is inevitable.</q>** -<em>Coco Chanel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
