@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be fascinated instead of frustrated.</q>** -<em>Jim Rohn</em>
+**<q>Every failure brings with it the seed of an equivalent success.</q>** -<em>Napoleon Hill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
