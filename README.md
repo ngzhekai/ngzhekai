@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success is often achieved by those who don't know that failure is inevitable.</q>** -<em>Coco Chanel</em>
+**<q>Be fascinated instead of frustrated.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
