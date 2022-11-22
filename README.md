@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You can not live your life just based on what everyone else thinks.</q>** -<em>Joyce Meyer</em>
+**<q>When the root is strong, the fruit is sweet.</q>** -<em>Bob Marley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
