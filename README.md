@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</q>** -<em>Amelia Earhart</em>
+**<q>Be a master of change rather than a victim of change.</q>** -<em>Brian Tracy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
