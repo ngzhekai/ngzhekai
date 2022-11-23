@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.</q>** -<em>Jack Butcher</em>
+**<q>People who have goals succeed because they know where they're going. It's that simple.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
