@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be a master of change rather than a victim of change.</q>** -<em>Brian Tracy</em>
+**<q>Would you rather learn to deal with the truth now than be forced to do so later on?</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
