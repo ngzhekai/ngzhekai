@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>In youth we run into difficulties. In old age difficulties run into us. </q>** -<em>Beverly Sills</em>
+**<q>Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.</q>** -<em>Paramahansa Yogananda</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
