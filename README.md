@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>People who have goals succeed because they know where they're going. It's that simple.</q>** -<em>Earl Nightingale</em>
+**<q>Conscience is a man's compass. </q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
