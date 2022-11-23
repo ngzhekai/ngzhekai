@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you do not change direction, you may end up where you are heading.</q>** -<em>Lao Tzu</em>
+**<q>Human beings can alter their lives by altering their attitudes of mind.</q>** -<em>William James</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
