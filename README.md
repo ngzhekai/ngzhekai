@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Every second you have on this planet is very precious and it's your responsibility that you're happy.</q>** -<em>Naval Ravikant</em>
+**<q>In youth we run into difficulties. In old age difficulties run into us. </q>** -<em>Beverly Sills</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
