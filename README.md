@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To wish you were someone else is to waste the person you are.</q>** -<em>Unknown</em>
+**<q>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
