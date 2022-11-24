@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you can't feed a hundred people, then feed just one.</q>** -<em>Mother Teresa</em>
+**<q>The most virtuous are those who content themselves with being virtuous without seeking to appear so.</q>** -<em>Plato</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
