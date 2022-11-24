@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</q>** -<em>Ming-Dao Deng</em>
+**<q>If you can't feed a hundred people, then feed just one.</q>** -<em>Mother Teresa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
