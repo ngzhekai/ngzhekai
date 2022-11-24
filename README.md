@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Your life does not get better by chance, it gets better by change.</q>** -<em>Jim Rohn</em>
+**<q>The fewer the words, the better the prayer.</q>** -<em>Martin Luther</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
