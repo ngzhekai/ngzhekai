@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life belongs to the living, and he who lives must be prepared for changes.</q>** -<em>Johann Wolfgang von Goethe</em>
+**<q>Instead of thinking outside the box, get rid of the box.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
