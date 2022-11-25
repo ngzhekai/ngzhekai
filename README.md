@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.</q>** -<em>Honore de Balzac</em>
+**<q>Elegance does not consist in putting on a new dress.</q>** -<em>Coco Chanel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
