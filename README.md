@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Elegance does not consist in putting on a new dress.</q>** -<em>Coco Chanel</em>
+**<q>Life can be the scariest and most beautiful thing simultaneously.</q>** -<em>Maxime Lagace</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
