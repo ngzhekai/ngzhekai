@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Wherever you are, and whatever you do, be in love.</q>** -<em>Rumi</em>
+**<q>If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
