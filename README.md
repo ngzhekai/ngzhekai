@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</q>** -<em>Roy T. Bennett</em>
+**<q>To be of use to the world is the only way to be happy.</q>** -<em>Hans Christian Andersen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
