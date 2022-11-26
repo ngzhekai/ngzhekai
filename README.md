@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</q>** -<em>Jonathan Swift</em>
+**<q>Success on the outside means nothing unless you also have success within.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
