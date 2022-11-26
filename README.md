@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Reading should be a pleasure, not a chore.</q>** -<em>Joan Rivers</em>
+**<q>If you've made a mistake, it's better just to laugh at it.</q>** -<em>Zen Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
