@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The mind is the limit.</q>** -<em>Arnold Schwarzenegger</em>
+**<q>I have not failed. I've just found 10,000 ways that won't work.</q>** -<em>Thomas Edison</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
