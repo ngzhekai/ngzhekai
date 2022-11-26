@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I have not failed. I've just found 10,000 ways that won't work.</q>** -<em>Thomas Edison</em>
+**<q>Those who seek the easy way do not seek the true way.</q>** -<em>Dogen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
