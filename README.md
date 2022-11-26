@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you've made a mistake, it's better just to laugh at it.</q>** -<em>Zen Proverb</em>
+**<q>The more something scares you, the more you should do it.</q>** -<em>Mark Manson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
