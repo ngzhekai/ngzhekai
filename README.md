@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No man is happy unless he believes he is.</q>** -<em>Publilius Syrus</em>
+**<q>You'll get more from being a peacemaker than a warrior.</q>** -<em>Arnold Schwarzenegger</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
