@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You must welcome change as the rule but not as your ruler. </q>** -<em>Denis Waitley</em>
+**<q>It's not whether you get knocked down, its whether you get back up.</q>** -<em>Vince Lombardi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
