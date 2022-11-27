@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's not the size of the dog in the fight, it's the size of the fight in the dog.</q>** -<em>Mark Twain</em>
+**<q>The wise accomplish all that they want without arousing the envy or scorn of others.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
