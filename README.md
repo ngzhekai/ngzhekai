@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Muddy water is best cleared by leaving it alone.</q>** -<em>Alan Watts</em>
+**<q>People inspire you, or they drain you. Pick them wisely.</q>** -<em>Les Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
