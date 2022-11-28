@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You'll get more from being a peacemaker than a warrior.</q>** -<em>Arnold Schwarzenegger</em>
+**<q>We will act consistently with our view of who we truly are, whether that view is accurate or not.</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
