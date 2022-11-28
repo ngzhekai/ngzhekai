@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is not just the passing of time. Life is the collection of experiences and their intensity.</q>** -<em>Jim Rohn</em>
+**<q>Happiness is pretty simple: someone to love, something to do, something to look forward to.</q>** -<em>Rita Mae Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
