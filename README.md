@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>People are doing the best that they can from their own level of consciousness.</q>** -<em>Deepak Chopra</em>
+**<q>If you genuinely want something, don't wait for it - teach yourself.</q>** -<em>Gurbaksh Chahal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
