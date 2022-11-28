@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you genuinely want something, don't wait for it - teach yourself.</q>** -<em>Gurbaksh Chahal</em>
+**<q>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</q>** -<em>Morihei Ueshiba</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
