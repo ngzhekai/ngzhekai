@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We will act consistently with our view of who we truly are, whether that view is accurate or not.</q>** -<em>Tony Robbins</em>
+**<q>People are doing the best that they can from their own level of consciousness.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
