@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The worst part of success is trying to find someone who is happy for you.</q>** -<em>Bette Midler</em>
+**<q>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
