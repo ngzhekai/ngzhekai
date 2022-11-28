@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.</q>** -<em>Colin Powell</em>
+**<q>Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. </q>** -<em>Paramahansa Yogananda</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
