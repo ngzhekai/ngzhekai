@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</q>** -<em>Morihei Ueshiba</em>
+**<q>Life is not just the passing of time. Life is the collection of experiences and their intensity.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
