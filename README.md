@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Some of your greatest lessons come from your darkest moments.</q>** -<em>Roger Lee</em>
+**<q>Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.</q>** -<em>Woody Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
