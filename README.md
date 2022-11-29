@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Every moment of happiness requires a great amount of Ignorance</q>** -<em>Honore de Balzac</em>
+**<q>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
