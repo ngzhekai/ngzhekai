@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What lies behind us and what lies before us are tiny matters compared to what lies within us.</q>** -<em>Ralph Waldo Emerson</em>
+**<q>The longer we dwell on our misfortunes, the greater is their power to harm us.</q>** -<em>Voltaire</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
