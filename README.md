@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Only in the agony of parting do we look into the depths of love.</q>** -<em>George Eliot</em>
+**<q>If you're really truthful with yourself, it's a wonderful guidance. </q>** -<em>Charlie Chaplin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
