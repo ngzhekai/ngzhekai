@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</q>** -<em>Sydney Smith</em>
+**<q>What people need and what they want may be very different.</q>** -<em>Elbert Hubbard</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
