@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.</q>** -<em>Lao Tzu</em>
+**<q>There is an essence of when you are fearless, you become more creative.</q>** -<em>Gurbaksh Chahal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
