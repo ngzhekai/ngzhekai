@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>What people need and what they want may be very different.</q>** -<em>Elbert Hubbard</em>
+**<q>A heart is not judged by how much you love, but by how much you are loved by others.</q>** -<em>Judy Garland</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
