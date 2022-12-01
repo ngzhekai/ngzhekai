@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There is no limit to the amount of good you can do if you don't care who gets the credit.</q>** -<em>Ronald Reagan</em>
+**<q>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
