@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A heart is not judged by how much you love, but by how much you are loved by others.</q>** -<em>Judy Garland</em>
+**<q>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
