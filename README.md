@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We know nothing of tomorrow, our business is to be good and happy today.</q>** -<em>Sydney Smith</em>
+**<q>The important thing is not to stop questioning. Curiosity has its own reason for existing.</q>** -<em>Albert Einstein</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
