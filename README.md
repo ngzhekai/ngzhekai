@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>When you are totally at peace with yourself, nothing can shake you.</q>** -<em>Deepam Chaterjee</em>
+**<q>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</q>** -<em>Steve Harvey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
