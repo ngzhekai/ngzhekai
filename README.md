@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Do anything, but let it produce joy.</q>** -<em>Walt Whitman</em>
+**<q>We know nothing of tomorrow, our business is to be good and happy today.</q>** -<em>Sydney Smith</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
