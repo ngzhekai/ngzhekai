@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</q>** -<em>George Bernard Shaw</em>
+**<q>Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse.</q>** -<em>Alfred Adler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
