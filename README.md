@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Man invented language to satisfy his deep need to complain.</q>** -<em>Lily Tomlin</em>
+**<q>Great things are not done by impulse, but by a series of small things brought together.</q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
