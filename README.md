@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The key to success is to focus our conscious mind on things we desire not things we fear. </q>** -<em>Brian Tracy</em>
+**<q>It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.</q>** -<em>Nicolas Chamfort</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
