@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The quality of your life is the quality of your relationships.</q>** -<em>Tony Robbins</em>
+**<q>Obstacles are those frightful things you see when you take your eyes off your goals.</q>** -<em>Sydney Smith</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
