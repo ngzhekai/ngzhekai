@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The soul is neither born, and nor does it die.</q>** -<em>Bhagavad Gita</em>
+**<q>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</q>** -<em>Ralph Marston</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
