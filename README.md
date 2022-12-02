@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.</q>** -<em>Ralph Marston</em>
+**<q>Man invented language to satisfy his deep need to complain.</q>** -<em>Lily Tomlin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
