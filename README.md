@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive.</q>** -<em>Maxime Lagace</em>
+**<q>To wish you were someone else is to waste the person you are.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
