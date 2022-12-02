@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Obstacles are those frightful things you see when you take your eyes off your goals.</q>** -<em>Sydney Smith</em>
+**<q>The soul is neither born, and nor does it die.</q>** -<em>Bhagavad Gita</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
