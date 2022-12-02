@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To wish you were someone else is to waste the person you are.</q>** -<em>Unknown</em>
+**<q>The only lost cause is one we give up on before we enter the struggle.</q>** -<em>Vaclav Havel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
