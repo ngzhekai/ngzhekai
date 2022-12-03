@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The more you are grateful for what you have the more you will have to be grateful for. </q>** -<em>Zig Ziglar</em>
+**<q>Pleasure is always derived from something outside you, whereas joy arises from within. </q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
