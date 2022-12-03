@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You don't need to be better than anyone else, you just need to be better than you used to be.</q>** -<em>Wayne Dyer</em>
+**<q>If I cannot do great things. I can do small things in a great way.</q>** -<em>Martin Luther King, Jr.</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
