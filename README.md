@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If I cannot do great things. I can do small things in a great way.</q>** -<em>Martin Luther King, Jr.</em>
+**<q>Love is the expression of one's values.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
