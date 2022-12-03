@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>This is the most simple and basic component of life: our struggles determine our successes.</q>** -<em>Mark Manson</em>
+**<q>You don't need to be better than anyone else, you just need to be better than you used to be.</q>** -<em>Wayne Dyer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
