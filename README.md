@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Because a thing seems difficult for you, do not think it impossible.</q>** -<em>Marcus Aurelius</em>
+**<q>Everyone thinks of changing the world, but no one thinks of changing himself.</q>** -<em>Leo Tolstoy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
