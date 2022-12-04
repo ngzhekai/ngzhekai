@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The smallest of actions is always better than the noblest of intentions.</q>** -<em>Robin Sharma</em>
+**<q>Real loss is only possible when you love something more than you love yourself.</q>** -<em>Robin Williams</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
