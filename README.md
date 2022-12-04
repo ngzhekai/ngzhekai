@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I am not what happened to me, I am what I choose to become.</q>** -<em>Carl Jung</em>
+**<q>You cannot teach a crab to walk straight.</q>** -<em>Aristophanes</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
