@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only normal people are the ones you don't know very well.</q>** -<em>Alfred Adler</em>
+**<q>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</q>** -<em>Naval Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
