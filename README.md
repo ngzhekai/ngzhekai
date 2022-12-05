@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</q>** -<em>Earl Nightingale</em>
+**<q>Happiness is not something ready made. It comes from your own actions.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
