@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Those who look for the bad in people will surely find it.</q>** -<em>Abraham Lincoln</em>
+**<q>The only normal people are the ones you don't know very well.</q>** -<em>Alfred Adler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
