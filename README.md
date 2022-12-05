@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No one can compete with you on being you. Most of life is a search for who and what needs you the most.</q>** -<em>Naval Ravikant</em>
+**<q>If you need inspiration, don't do it.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
