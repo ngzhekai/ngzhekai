@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</q>** -<em>Chinese Proverb</em>
+**<q>Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
