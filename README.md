@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Dream big and dare to fail.</q>** -<em>Norman Vaughan</em>
+**<q>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</q>** -<em>Ralph Marston</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
