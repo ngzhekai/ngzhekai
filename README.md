@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</q>** -<em>Eleanor Roosevelt</em>
+**<q>If I can stop one heart from breaking, I shall not live in vain.</q>** -<em>Emily Dickinson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
