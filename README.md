@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You must find the place inside yourself where nothing is impossible.</q>** -<em>Les Brown</em>
+**<q>There is only one thing that makes a dream impossible to achieve: the fear of failure.</q>** -<em>Paulo Coelho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
