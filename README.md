@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If I can stop one heart from breaking, I shall not live in vain.</q>** -<em>Emily Dickinson</em>
+**<q>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
