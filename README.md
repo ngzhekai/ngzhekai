@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</q>** -<em>Ralph Marston</em>
+**<q>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
