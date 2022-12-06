@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>No one can confidently say that he will still be living tomorrow.</q>** -<em>Euripides</em>
+**<q>The meaning of life is to find your gift. The purpose of life is to give it away.</q>** -<em>Pablo Picasso</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
