@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is like playing the violin in public and learning the instrument as one goes on.</q>** -<em>Samuel Butler</em>
+**<q>You must find the place inside yourself where nothing is impossible.</q>** -<em>Les Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
