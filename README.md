@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There is only one thing that makes a dream impossible to achieve: the fear of failure.</q>** -<em>Paulo Coelho</em>
+**<q>Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
