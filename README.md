@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>She who loves roses must be patient and not cry out when she is pierced by thorns.</q>** -<em>Kenji Miyazawa</em>
+**<q>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</q>** -<em>Jonathan Swift</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
