@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I must also have a dark side if I am to be whole.</q>** -<em>Carl Jung</em>
+**<q>Some of your greatest lessons come from your darkest moments.</q>** -<em>Roger Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
