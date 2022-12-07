@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you get up one more time than you fall, you will make it through.</q>** -<em>Chinese Proverb</em>
+**<q>It's the unknown we fear when we look upon death and darkness, nothing more.</q>** -<em>Albus Dumbledore</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
