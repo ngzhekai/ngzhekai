@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Truth is such a rare thing, it is delighted to tell it.</q>** -<em>Emily Dickinson</em>
+**<q>It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
