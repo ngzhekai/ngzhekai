@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</q>** -<em>Norman Vincent Peale</em>
+**<q>You can have it all. You just can't have it all at once. </q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
