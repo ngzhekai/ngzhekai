@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's the unknown we fear when we look upon death and darkness, nothing more.</q>** -<em>Albus Dumbledore</em>
+**<q>Truth is such a rare thing, it is delighted to tell it.</q>** -<em>Emily Dickinson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
