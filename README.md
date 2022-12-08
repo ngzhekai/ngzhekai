@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Reversing your treatment of the man you have wronged is better than asking his forgiveness.</q>** -<em>Elbert Hubbard</em>
+**<q>Wealth is the product of man's capacity to think.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
