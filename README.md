@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To forget the whole world is easy; to make the whole world forget you is hard.</q>** -<em>Zhuangzi</em>
+**<q>Success is going from failure to failure without losing your enthusiasm</q>** -<em>Winston Churchill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
