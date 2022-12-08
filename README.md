@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success is going from failure to failure without losing your enthusiasm</q>** -<em>Winston Churchill</em>
+**<q>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
