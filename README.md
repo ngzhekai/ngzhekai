@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Learn only how to avoid seeking for and attaching yourselves to anything.</q>** -<em>Huang Po</em>
+**<q>When something is important enough, you do it even if the odds are not in your favor.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
