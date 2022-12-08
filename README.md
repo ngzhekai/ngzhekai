@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>When something is important enough, you do it even if the odds are not in your favor.</q>** -<em>Elon Musk</em>
+**<q>The joy of life comes from our encounters with new experiences.</q>** -<em>Christopher McCandless</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
