@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You can have it all. You just can't have it all at once. </q>** -<em>Oprah Winfrey</em>
+**<q>If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.</q>** -<em>Maxime Lagace</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
