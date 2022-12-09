@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Circumstances rule men; men do not rule circumstances. </q>** -<em>Herodotus</em>
+**<q>Vision is the art of seeing things invisible.</q>** -<em>Jonathan Swift</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
