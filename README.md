@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Failure means you've now learned another valuable lesson that pushes you one step closer to success.</q>** -<em>Steve Harvey</em>
+**<q>Quiet people have the loudest minds.</q>** -<em>Stephen Hawking</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
