@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>When you consider things like the stars, our affairs don't seem to matter very much, do they?</q>** -<em>Virginia Woolf</em>
+**<q>The more you trust yourself, the less you compare yourself to others.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
