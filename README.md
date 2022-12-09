@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</q>** -<em>Woody Allen</em>
+**<q>The most tragic thing in the world is a man of genius who is not a man of honor.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
