@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Success is about creating value.</q>** -<em>Candice Carpenter</em>
+**<q>Be like a postage stamp. Stick to it until you get there.</q>** -<em>Bob Proctor</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
