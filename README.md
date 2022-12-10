@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If we all did the things we are capable of doing, we would literally astound ourselves.</q>** -<em>Thomas Edison</em>
+**<q>Learning is a gift, even when pain is your teacher.</q>** -<em>Michael Jordan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
