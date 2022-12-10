@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Learning is a gift, even when pain is your teacher.</q>** -<em>Michael Jordan</em>
+**<q>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
