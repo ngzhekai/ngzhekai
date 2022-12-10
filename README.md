@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Be like a postage stamp. Stick to it until you get there.</q>** -<em>Bob Proctor</em>
+**<q>Obstacles are those frightful things you see when you take your eyes off your goals.</q>** -<em>Sydney Smith</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
