@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</q>** -<em>Winston Churchill</em>
+**<q>It is better to learn late than never.</q>** -<em>Publilius Syrus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
