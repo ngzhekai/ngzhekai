@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Today you are you, that is truer than true. There is no one alive who is you-er than you.</q>** -<em>Dr. Seuss</em>
+**<q>Tis not too late to seek a newer world.</q>** -<em>Heraclitus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
