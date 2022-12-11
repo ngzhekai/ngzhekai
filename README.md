@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The most important single ingredient in the formula of success is knowing how to get along with people.</q>** -<em>Theodore Roosevelt</em>
+**<q>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</q>** -<em>Christopher Reeve</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
