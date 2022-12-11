@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles.</q>** -<em>Christopher Reeve</em>
+**<q>Today you are you, that is truer than true. There is no one alive who is you-er than you.</q>** -<em>Dr. Seuss</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
