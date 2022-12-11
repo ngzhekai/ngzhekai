@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I begin with an idea and then it becomes something else.</q>** -<em>Pablo Picasso</em>
+**<q>It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.</q>** -<em>John Lennon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
