@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A very little key will open a very heavy door.</q>** -<em>Charles Dickens</em>
+**<q>You can, you should, and if you're brave enough to start, you will.</q>** -<em>Stephen King</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
