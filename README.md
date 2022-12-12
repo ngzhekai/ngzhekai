@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</q>** -<em>Kahlil Gibran</em>
+**<q>You get paid in direct proportion to the difficulty of problems you solve.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
