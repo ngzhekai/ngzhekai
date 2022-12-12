@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</q>** -<em>Billie Jean King</em>
+**<q>If everyone is moving forward together, then success takes care of itself.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
