@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.</q>** -<em>Lao Tzu</em>
+**<q>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</q>** -<em>Billie Jean King</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
