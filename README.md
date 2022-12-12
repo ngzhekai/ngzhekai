@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Growth is in a series of mistakes. That's the only way you learn.</q>** -<em>Steve Harvey</em>
+**<q>Have the fearless attitude of a hero and the loving heart of a child.</q>** -<em>Soyen Shaku</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
