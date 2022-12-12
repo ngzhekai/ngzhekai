@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You can, you should, and if you're brave enough to start, you will.</q>** -<em>Stephen King</em>
+**<q>I can think of nothing less pleasurable than a life devoted to pleasure.</q>** -<em>John D. Rockefeller</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
