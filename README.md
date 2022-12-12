@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Unless you're ashamed of yourself now and then, you're not honest.</q>** -<em>William Faulkner</em>
+**<q>A very little key will open a very heavy door.</q>** -<em>Charles Dickens</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
