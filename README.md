@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Your spirit is the true shield.</q>** -<em>Morihei Ueshiba</em>
+**<q>You will face many defeats in life, but never let yourself be defeated.</q>** -<em>Maya Angelou</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
