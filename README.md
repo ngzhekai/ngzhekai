@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </q>** -<em>Jack London</em>
+**<q>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
