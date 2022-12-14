@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</q>** -<em>Dogen</em>
+**<q>By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul.</q>** -<em>Marcus Aurelius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
