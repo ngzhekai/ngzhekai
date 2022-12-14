@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Love your enemies, for they tell you your faults.</q>** -<em>Benjamin Franklin</em>
+**<q>To be in harmony with the wholeness of things is not to have anxiety over imperfections.</q>** -<em>Dogen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
