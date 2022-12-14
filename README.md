@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There is only one thing in the world worse than being talked about, and that is not being talked about. </q>** -<em>Oscar Wilde</em>
+**<q>All problems are interpersonal relationship problems.</q>** -<em>Alfred Adler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
