@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's what you do in the present that will redeem the past and thereby change the future.</q>** -<em>Paulo Coelho</em>
+**<q>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </q>** -<em>Jack London</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
