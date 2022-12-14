@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>One mistake does not have to rule a person's entire life.</q>** -<em>Joyce Meyer</em>
+**<q>Human beings believe just as they breathe - in order to survive.</q>** -<em>Carlos Ruiz Zafon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
