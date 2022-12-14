@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Human beings believe just as they breathe - in order to survive.</q>** -<em>Carlos Ruiz Zafon</em>
+**<q>There is only one thing in the world worse than being talked about, and that is not being talked about. </q>** -<em>Oscar Wilde</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
