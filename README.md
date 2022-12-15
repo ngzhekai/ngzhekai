@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.</q>** -<em>Elvis Presley</em>
+**<q>Use your smile to change the world but don't let the world change your smile.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
