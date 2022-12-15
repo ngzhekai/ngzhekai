@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It takes a very long time to become young.</q>** -<em>Pablo Picasso</em>
+**<q>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
