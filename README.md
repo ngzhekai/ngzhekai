@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</q>** -<em>Emily Dickinson</em>
+**<q>It takes a very long time to become young.</q>** -<em>Pablo Picasso</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
