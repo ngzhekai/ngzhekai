@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The nearer a man comes to a calm mind, the closer he is to strength.</q>** -<em>Marcus Aurelius</em>
+**<q>It is better to learn late than never.</q>** -<em>Publilius Syrus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
