@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</q>** -<em>Alexander Graham Bell</em>
+**<q>The nearer a man comes to a calm mind, the closer he is to strength.</q>** -<em>Marcus Aurelius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
