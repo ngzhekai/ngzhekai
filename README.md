@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</q>** -<em>Deepak Chopra</em>
+**<q>A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself.</q>** -<em>Alexander Graham Bell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
