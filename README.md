@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The goal of an artist is to create the definitive work that cannot be surpassed.</q>** -<em>George Bernard Shaw</em>
+**<q>Be confident, not certain.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
