@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</q>** -<em>Henry Ward Beecher</em>
+**<q>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
