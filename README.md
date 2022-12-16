@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Bloom where you are planted!</q>** -<em>Mary Engelbreit</em>
+**<q>It always seems impossible until it's done.</q>** -<em>Nelson Mandela</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
