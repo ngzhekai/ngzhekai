@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Concentrated power has always been the enemy of liberty.</q>** -<em>Ronald Reagan</em>
+**<q>Surround yourself only with people who are going to take you higher.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
