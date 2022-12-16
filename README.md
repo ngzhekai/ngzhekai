@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Surround yourself only with people who are going to take you higher.</q>** -<em>Oprah Winfrey</em>
+**<q>Don't worry about being successful, but work toward being significant and the success will naturally follow.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
