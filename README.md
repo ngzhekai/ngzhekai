@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The more something threatens your identity, the more you will avoid it.</q>** -<em>Mark Manson</em>
+**<q>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
