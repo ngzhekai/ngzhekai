@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome.</q>** -<em>Tony Robbins</em>
+**<q>The goal of an artist is to create the definitive work that cannot be surpassed.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
