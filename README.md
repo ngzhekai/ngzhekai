@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The salvation of the world lies in the human heart.</q>** -<em>Vaclav Havel</em>
+**<q>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</q>** -<em>Kabir</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
