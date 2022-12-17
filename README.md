@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</q>** -<em>Steve Maraboli</em>
+**<q>This is the most simple and basic component of life: our struggles determine our successes.</q>** -<em>Mark Manson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
