@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>You cannot teach a crab to walk straight.</q>** -<em>Aristophanes</em>
+**<q>Empty your mind, be formless, shapeless, like water.</q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
