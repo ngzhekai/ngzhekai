@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Empty your mind, be formless, shapeless, like water.</q>** -<em>Bruce Lee</em>
+**<q>If you don't program yourself, life will program you.</q>** -<em>Les Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
