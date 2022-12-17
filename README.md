@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To perceive is to suffer.</q>** -<em>Aristotle</em>
+**<q>Receive without pride, let go without attachment.</q>** -<em>Marcus Aurelius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
