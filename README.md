@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</q>** -<em>Roy T. Bennett</em>
+**<q>You cannot teach a crab to walk straight.</q>** -<em>Aristophanes</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
