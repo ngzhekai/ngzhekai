@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you don't program yourself, life will program you.</q>** -<em>Les Brown</em>
+**<q>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</q>** -<em>Stephen King</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
