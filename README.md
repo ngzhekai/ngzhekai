@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</q>** -<em>Stephen King</em>
+**<q>The only place success comes before work is in the dictionary.</q>** -<em>Vince Lombardi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
