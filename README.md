@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Change is hardest at the beginning, messiest in the middle and best at the end.</q>** -<em>Robin Sharma</em>
+**<q>A good character is the best tombstone. Carve your name on hearts, not on marble.</q>** -<em>Charles Spurgeon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
