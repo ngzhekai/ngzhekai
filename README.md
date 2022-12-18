@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>An intelligence test sometimes shows a man how smart he would have been not to have taken it.</q>** -<em>Laurence J. Peter</em>
+**<q>Do not pray for an easy life, pray for the strength to endure a difficult one. </q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
