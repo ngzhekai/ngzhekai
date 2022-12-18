@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Just because something isn't a lie does not mean that it isn't deceptive.</q>** -<em>Criss Jami</em>
+**<q>Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy.</q>** -<em>Wayne Gretzky</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
