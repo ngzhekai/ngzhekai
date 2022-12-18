@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>This is the most simple and basic component of life: our struggles determine our successes.</q>** -<em>Mark Manson</em>
+**<q>Just because something isn't a lie does not mean that it isn't deceptive.</q>** -<em>Criss Jami</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
