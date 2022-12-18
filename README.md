@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</q>** -<em>Mark Twain</em>
+**<q>Anything worth doing is worth doing slowly.</q>** -<em>Mae West</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
