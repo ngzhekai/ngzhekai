@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Do not believe that you will reach your destination without leaving the shore. </q>** -<em>Chinese Proverb</em>
+**<q>Change is hardest at the beginning, messiest in the middle and best at the end.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
