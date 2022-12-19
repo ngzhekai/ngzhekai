@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you don't have time to do it right, when will you have time to do it over?</q>** -<em>John Wooden</em>
+**<q>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
