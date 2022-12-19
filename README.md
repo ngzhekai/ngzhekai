@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The big thing is to make a winning effort. I'm not obsessed with wins.</q>** -<em>Morgan Wootten</em>
+**<q>If you tell the truth, you don't have to remember anything.</q>** -<em>Mark Twain</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
