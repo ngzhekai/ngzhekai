@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>A good character is the best tombstone. Carve your name on hearts, not on marble.</q>** -<em>Charles Spurgeon</em>
+**<q>We build too many walls and not enough bridges.</q>** -<em>Isaac Newton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
