@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.</q>** -<em>Zig Ziglar</em>
+**<q>The big thing is to make a winning effort. I'm not obsessed with wins.</q>** -<em>Morgan Wootten</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
