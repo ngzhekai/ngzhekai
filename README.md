@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Decide what your truth is. Then live it.</q>** -<em>Kamal Ravikant</em>
+**<q>Nothing is impossible. The word itself says 'I'm possible!'</q>** -<em>Audrey Hepburn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
