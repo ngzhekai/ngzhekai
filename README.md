@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>If you want to make God laugh, tell him about your plans. </q>** -<em>Woody Allen</em>
+**<q>To plant a garden is to believe in tomorrow. </q>** -<em>Audrey Hepburn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
