@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Nothing is impossible. The word itself says 'I'm possible!'</q>** -<em>Audrey Hepburn</em>
+**<q>If you're afraid - don't do it, - if you're doing it - don't be afraid! </q>** -<em>Genghis Khan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
