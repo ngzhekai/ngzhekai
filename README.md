@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Before you embark on a journey of revenge, dig two graves. </q>** -<em>Confucius</em>
+**<q>The more acquaintances you have, the less you know them.</q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
