@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing.</q>** -<em>Theodore Roosevelt</em>
+**<q>Everybody's life is either rewarding or an example.</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
