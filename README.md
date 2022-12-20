@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>To find yourself, think for yourself.</q>** -<em>Socrates</em>
+**<q>When you want something in life, you just gotta reach out and grab it.</q>** -<em>Christopher McCandless</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
