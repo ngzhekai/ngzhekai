@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Everybody's life is either rewarding or an example.</q>** -<em>Tony Robbins</em>
+**<q>If you want to make God laugh, tell him about your plans. </q>** -<em>Woody Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
