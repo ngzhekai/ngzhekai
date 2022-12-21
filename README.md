@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The only thing more frustrating than slanderers is those foolish enough to listen to them.</q>** -<em>Criss Jami</em>
+**<q>The temptation to give up is strongest just before victory.</q>** -<em>Zen Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
