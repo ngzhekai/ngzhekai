@@ -1,4 +1,4 @@
-### **<q>This is such a short and precious life that it's really important that you don't spend it being unhappy.</q>** -<em>Naval Ravikant</em>
+### **<q>Turn your wounds into wisdom. </q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
