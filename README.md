@@ -1,4 +1,4 @@
-### **<q>We cannot change anything unless we accept it.</q>** -<em>Carl Jung</em>
+### **<q>When it comes to mastering a skill, time is the magic ingredient.</q>** -<em>Robert Greene</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
