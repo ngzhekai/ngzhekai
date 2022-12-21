@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Care about what other people think and you will always be their prisoner.</q>** -<em>Lao Tzu</em>
+**<q>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
