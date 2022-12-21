@@ -1,4 +1,4 @@
-**<q>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</q>** -<em>Kamal Ravikant</em>
+### **<q>Wheels of justice grind slow but grind fine.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
