@@ -10,9 +10,8 @@ source=$(curl https://zenquotes.io/api/random)
 quote=$(echo $source | jq -r .[].q)
 author=$(echo $source | jq -r .[].a)
 # Concatenate the string
-title="# About Me - Ng Zhe Kai"
+title="## About Me"
 output="**Howdy! 👋  I'm *Ng Zhe Kai*  （ぎるばって呼んでいいよ ✌️）**"
-output_1="Too quick Nothing here, yet!"
 blank_space=""
 quote="**<q>${quote}</q>** -<em>${author}</em>"
 note="> The Quote above will be updated on a frequency basis of 2-3 hours~"
@@ -26,8 +25,6 @@ url="Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quote
 echo $title > README.md
 echo $blank_space >> README.md
 echo $output >> README.md
-echo $blank_space >> README.md
-echo $output_1 >> README.md
 echo $blank_space >> README.md
 echo $quote >> README.md
 echo $note >> README.md
