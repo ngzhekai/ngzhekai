@@ -22,14 +22,14 @@ status_2="- 🌱 I’m currently learning **about life**"
 status_5="- ⚡ Fun fact :arrow_right:  **Nothing in here, yet.**"
 url="Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)"
 
-echo $title > README.md
-echo $blank_space >> README.md
-echo $output >> README.md
-echo $blank_space >> README.md
-echo $quote >> README.md
+echo $quote > README.md
 echo $note >> README.md
 echo $blank_space >> README.md
 echo $url >> README.md
+echo $blank_space >> README.md
+echo $title >> README.md
+echo $blank_space >> README.md
+echo $output >> README.md
 echo $blank_space >> README.md
 echo $status >> README.md
 echo $blank_space >> README.md
