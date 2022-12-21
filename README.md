@@ -1,11 +1,11 @@
-## About Me
-
-**Howdy! 👋 I'm *Ng Zhe Kai* （ぎるばって呼んでいいよ ✌️）**
-
-**<q>Ability is a poor man's wealth.</q>** -<em>John Wooden</em>
+**<q>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</q>** -<em>Kamal Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
+
+## About Me
+
+**Howdy! 👋 I'm *Ng Zhe Kai* （ぎるばって呼んでいいよ ✌️）**
 
 ## Status [自分の情報]✅
 
