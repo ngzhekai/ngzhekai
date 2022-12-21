@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>The temptation to give up is strongest just before victory.</q>** -<em>Zen Proverb</em>
+**<q>Guilt is perhaps the most painful companion of death.</q>** -<em>Coco Chanel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
