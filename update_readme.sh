@@ -11,11 +11,11 @@ quote=$(echo $source | jq -r .[].q)
 author=$(echo $source | jq -r .[].a)
 # Concatenate the string
 title="## About Me"
-output="**Howdy! 👋  I'm *Ng Zhe Kai*  （ぎるばって呼んでいいよ ✌️）**"
+output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）**"
 blank_space=""
 quote="### **<q>${quote}</q>** -<em>${author}</em>"
 note="> The Quote above will be updated on a frequency basis of 2-3 hours~"
-status="## Status [自分の情報]✅"
+status="### Status [自分の情報]✅"
 status_1="- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)"
 status_2="- 🌱 I’m currently learning **about life**"
 # status_4="- 📫 How to reach me <a href="mailto:ngzhekai@pm.me">**ngzhekai@pm.me**</a>"
