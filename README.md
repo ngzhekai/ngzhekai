@@ -1,4 +1,4 @@
-### **<q>If you do not conquer self, you will be conquered by self.</q>** -<em>Napoleon Hill</em>
+### **<q>Do every act of your life as if it were your last.</q>** -<em>Marcus Aurelius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
