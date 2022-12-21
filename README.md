@@ -1,4 +1,4 @@
-### **<q>Turn your wounds into wisdom. </q>** -<em>Oprah Winfrey</em>
+### **<q>We cannot change anything unless we accept it.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
