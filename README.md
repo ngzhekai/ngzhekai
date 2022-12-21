@@ -1,4 +1,4 @@
-### **<q>When it comes to mastering a skill, time is the magic ingredient.</q>** -<em>Robert Greene</em>
+### **<q>You become stronger with every problem you face and every obstacle you overcome.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
