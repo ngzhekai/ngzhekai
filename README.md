@@ -4,7 +4,7 @@
 
 Also the Hatsune Miku Enthusiast and the Great Escapist ヽ(=´▽`=)ﾉ
 
-**<q>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</q>** -<em>Celestine Chua</em>
+**<q>The only thing more frustrating than slanderers is those foolish enough to listen to them.</q>** -<em>Criss Jami</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
