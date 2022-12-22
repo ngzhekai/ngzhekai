@@ -1,4 +1,4 @@
-### **<q>We meet ourselves time and again in a thousand disguises on the path of life.</q>** -<em>Carl Jung</em>
+### **<q>Words are clothes that thoughts wear</q>** -<em>Samuel Butler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
