@@ -1,4 +1,4 @@
-### **<q>Words are clothes that thoughts wear</q>** -<em>Samuel Butler</em>
+### **<q>The greatest of all mistakes is to do nothing because you think you can only do a little. </q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
