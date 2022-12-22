@@ -1,4 +1,4 @@
-### **<q>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</q>** -<em>Sathya Sai Baba</em>
+### **<q>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</q>** -<em>G.I. Gurdjieff</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
