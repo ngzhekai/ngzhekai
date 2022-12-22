@@ -1,4 +1,4 @@
-### **<q>You can't get to a place that you don't believe exists.</q>** -<em>Unknown</em>
+### **<q>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</q>** -<em>Sonia Ricotti</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
