@@ -1,4 +1,4 @@
-### **<q>The greatest of all mistakes is to do nothing because you think you can only do a little. </q>** -<em>Zig Ziglar</em>
+### **<q>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</q>** -<em>Sathya Sai Baba</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
