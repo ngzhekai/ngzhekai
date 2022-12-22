@@ -1,4 +1,4 @@
-### **<q>Do every act of your life as if it were your last.</q>** -<em>Marcus Aurelius</em>
+### **<q>People who bite the hand that feeds them usually lick the boot that kicks them.</q>** -<em>Eric Hoffer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
