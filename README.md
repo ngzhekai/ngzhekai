@@ -1,4 +1,4 @@
-### **<q>You are never too old to become younger.</q>** -<em>Mae West</em>
+### **<q>We meet ourselves time and again in a thousand disguises on the path of life.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
