@@ -1,4 +1,4 @@
-### **<q>Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.</q>** -<em>Sonia Ricotti</em>
+### **<q>You are never too old to become younger.</q>** -<em>Mae West</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
