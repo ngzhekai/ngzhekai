@@ -1,4 +1,4 @@
-### **<q>Do not regret the past. Look to the future.</q>** -<em>Soyen Shaku</em>
+### **<q>When you are totally at peace with yourself, nothing can shake you.</q>** -<em>Deepam Chaterjee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
