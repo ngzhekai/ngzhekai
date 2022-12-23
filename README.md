@@ -1,4 +1,4 @@
-### **<q>Many people spend more time looking at their failures than focusing on their successes.</q>** -<em>Lolly Daskal</em>
+### **<q>I would rather be hated for who I am than loved for who I'm not. </q>** -<em>Wayne Dyer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
