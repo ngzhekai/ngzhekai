@@ -1,4 +1,4 @@
-### **<q>The deeper the truth in a creative work, the longer it will live. </q>** -<em>Charlie Chaplin</em>
+### **<q>Change begets change. Nothing propagates so fast.</q>** -<em>Charles Dickens</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
