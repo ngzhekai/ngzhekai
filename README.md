@@ -1,4 +1,4 @@
-### **<q>When you are totally at peace with yourself, nothing can shake you.</q>** -<em>Deepam Chaterjee</em>
+### **<q>Many people spend more time looking at their failures than focusing on their successes.</q>** -<em>Lolly Daskal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
