@@ -1,4 +1,4 @@
-### **<q>The glow of one warm thought is to me worth more than money.</q>** -<em>Thomas Jefferson</em>
+### **<q>The deeper the truth in a creative work, the longer it will live. </q>** -<em>Charlie Chaplin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
