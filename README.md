@@ -1,4 +1,4 @@
-### **<q>I would rather be hated for who I am than loved for who I'm not. </q>** -<em>Wayne Dyer</em>
+### **<q>The glow of one warm thought is to me worth more than money.</q>** -<em>Thomas Jefferson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
