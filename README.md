@@ -1,4 +1,4 @@
-### **<q>Change begets change. Nothing propagates so fast.</q>** -<em>Charles Dickens</em>
+### **<q>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </q>** -<em>Lao Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
