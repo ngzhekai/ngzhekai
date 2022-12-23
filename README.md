@@ -1,4 +1,4 @@
-### **<q>Best be yourself, imperial, plain, and true.</q>** -<em>Robert Browning</em>
+### **<q>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</q>** -<em>Carlos Ruiz Zafon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
