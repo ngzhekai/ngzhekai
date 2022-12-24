@@ -1,4 +1,4 @@
-### **<q>Never regret your past. Rather, embrace it as the teacher that it is.</q>** -<em>Robin Sharma</em>
+### **<q>Your happiness is what truly matters most. Do what you have to do in order to be happy.</q>** -<em>Brian Tracy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
