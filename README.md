@@ -1,4 +1,4 @@
-### **<q>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </q>** -<em>Lao Tzu</em>
+### **<q>Never regret your past. Rather, embrace it as the teacher that it is.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
