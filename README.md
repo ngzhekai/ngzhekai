@@ -1,4 +1,4 @@
-### **<q>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</q>** -<em>Maya Angelou</em>
+### **<q>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
