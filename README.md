@@ -1,4 +1,4 @@
-### **<q>Art is the signature of civilizations. </q>** -<em>Beverly Sills</em>
+### **<q>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</q>** -<em>Maya Angelou</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
