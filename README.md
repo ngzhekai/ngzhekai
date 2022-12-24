@@ -1,4 +1,4 @@
-### **<q>When one does not have what one wants, one must want what one has.</q>** -<em>Sigmund Freud</em>
+### **<q>Successful people are not without problems. They're simply people who've learned to solve their problems.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
