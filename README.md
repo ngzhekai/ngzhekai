@@ -1,4 +1,4 @@
-### **<q>Words used to attract the dull of wit are not to be relied on.</q>** -<em>Huang Po</em>
+### **<q>Living life in style also means living a life of balance.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
