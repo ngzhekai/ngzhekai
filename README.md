@@ -1,4 +1,4 @@
-### **<q>When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</q>** -<em>Henry Ford</em>
+### **<q>When one does not have what one wants, one must want what one has.</q>** -<em>Sigmund Freud</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
