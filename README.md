@@ -1,4 +1,4 @@
-### **<q>Living life in style also means living a life of balance.</q>** -<em>Jim Rohn</em>
+### **<q>While we may not be able to control all that happens to us, we can control what happens inside us.</q>** -<em>Benjamin Franklin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
