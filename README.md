@@ -1,4 +1,4 @@
-### **<q>It's easier to lose than to win. </q>** -<em>Wayne Gretzky</em>
+### **<q>Art is the signature of civilizations. </q>** -<em>Beverly Sills</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
