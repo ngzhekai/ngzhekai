@@ -1,4 +1,4 @@
-### **<q>While we may not be able to control all that happens to us, we can control what happens inside us.</q>** -<em>Benjamin Franklin</em>
+### **<q>It's easier to lose than to win. </q>** -<em>Wayne Gretzky</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
