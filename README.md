@@ -1,4 +1,4 @@
-### **<q>Your happiness is what truly matters most. Do what you have to do in order to be happy.</q>** -<em>Brian Tracy</em>
+### **<q>Words used to attract the dull of wit are not to be relied on.</q>** -<em>Huang Po</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
