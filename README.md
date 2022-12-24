@@ -1,4 +1,4 @@
-### **<q>Successful people are not without problems. They're simply people who've learned to solve their problems.</q>** -<em>Earl Nightingale</em>
+### **<q>I never said it would be easy, I only said it would be worth it.</q>** -<em>Mae West</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
