@@ -1,4 +1,4 @@
-### **<q>It is not as important how we start, but how we finish.</q>** -<em>Joyce Meyer</em>
+### **<q>The sun shines upon good and bad alike.</q>** -<em>Hans Christian Andersen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
