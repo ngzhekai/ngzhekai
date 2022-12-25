@@ -1,4 +1,4 @@
-### **<q>We suffer more often in imagination than in reality.</q>** -<em>Seneca</em>
+### **<q>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
