@@ -1,4 +1,4 @@
-### **<q>Pleasure can be supported by an illusion; but happiness rests upon truth. </q>** -<em>Nicolas Chamfort</em>
+### **<q>I cannot make my days longer so I strive to make them better.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
