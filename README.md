@@ -1,4 +1,4 @@
-### **<q>I never said it would be easy, I only said it would be worth it.</q>** -<em>Mae West</em>
+### **<q>Fools talk, cowards are silent, wise men listen.</q>** -<em>Carlos Ruiz Zafon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
