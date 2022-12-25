@@ -1,4 +1,4 @@
-### **<q>Never let the things you can't do stop you from doing what you can.</q>** -<em>Ronald Reagan</em>
+### **<q>Pleasure can be supported by an illusion; but happiness rests upon truth. </q>** -<em>Nicolas Chamfort</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
