@@ -1,4 +1,4 @@
-### **<q>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</q>** -<em>Theodore Roosevelt</em>
+### **<q>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
