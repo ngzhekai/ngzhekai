@@ -1,4 +1,4 @@
-### **<q>I cannot make my days longer so I strive to make them better.</q>** -<em>Henry David Thoreau</em>
+### **<q>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</q>** -<em>Amelia Earhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
