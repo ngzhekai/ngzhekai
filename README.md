@@ -1,4 +1,4 @@
-### **<q>Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.</q>** -<em>Amelia Earhart</em>
+### **<q>It ain't where you start in life, it's where you end up, and what you did along the way.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
