@@ -1,4 +1,4 @@
-### **<q>Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</q>** -<em>Robin Sharma</em>
+### **<q>Never let the things you can't do stop you from doing what you can.</q>** -<em>Ronald Reagan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
