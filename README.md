@@ -1,4 +1,4 @@
-### **<q>Life is a traveling to the edge of knowledge, then a leap taken.</q>** -<em>D. H. Lawrence</em>
+### **<q>The purpose of life is the life of purpose.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
