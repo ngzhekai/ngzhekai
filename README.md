@@ -1,4 +1,4 @@
-### **<q>Ability is a poor man's wealth.</q>** -<em>John Wooden</em>
+### **<q>Life is the dancer and you are the dance.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
