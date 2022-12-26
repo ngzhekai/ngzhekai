@@ -1,4 +1,4 @@
-### **<q>Life is the dancer and you are the dance.</q>** -<em>Eckhart Tolle</em>
+### **<q>Wealth consists not in having great possessions, but in having few wants.</q>** -<em>Epictetus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
