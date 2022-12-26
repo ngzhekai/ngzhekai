@@ -1,4 +1,4 @@
-### **<q>Always remember that you are absolutely unique. Just like everyone else. </q>** -<em>Margaret Mead</em>
+### **<q>If you want to know what God thinks about money just look at the people He gives it to.</q>** -<em>Alexander Pope</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
