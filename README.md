@@ -1,4 +1,4 @@
-### **<q>Be a master of change rather than a victim of change.</q>** -<em>Brian Tracy</em>
+### **<q>The wiser you get, the less you care to look like a fool.</q>** -<em>Maxime Lagace</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
