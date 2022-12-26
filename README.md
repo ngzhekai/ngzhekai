@@ -1,4 +1,4 @@
-### **<q>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</q>** -<em>Zig Ziglar</em>
+### **<q>Ability is a poor man's wealth.</q>** -<em>John Wooden</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
