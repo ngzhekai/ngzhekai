@@ -1,4 +1,4 @@
-### **<q>The purpose of life is the life of purpose.</q>** -<em>Robin Sharma</em>
+### **<q>A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.</q>** -<em>Bob Proctor</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
