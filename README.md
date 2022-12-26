@@ -1,4 +1,4 @@
-### **<q>If you want to know what God thinks about money just look at the people He gives it to.</q>** -<em>Alexander Pope</em>
+### **<q>Be a master of change rather than a victim of change.</q>** -<em>Brian Tracy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
