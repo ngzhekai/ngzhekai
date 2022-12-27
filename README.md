@@ -1,4 +1,4 @@
-### **<q>Desire is suffering.</q>** -<em>Naval Ravikant</em>
+### **<q>Once you choose hope, anything's possible.</q>** -<em>Christopher Reeve</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
