@@ -1,4 +1,4 @@
-### **<q>The quality, not the longevity, of one's life is what is important.</q>** -<em>Martin Luther King, Jr.</em>
+### **<q>Courage is the price that life exacts for granting peace.</q>** -<em>Amelia Earhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
