@@ -1,4 +1,4 @@
-### **<q>We are all like the bright moon, we still have our darker side. </q>** -<em>Kahlil Gibran</em>
+### **<q>Intense love does not measure, it just gives.</q>** -<em>Mother Teresa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
