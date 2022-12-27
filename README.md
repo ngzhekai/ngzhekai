@@ -1,4 +1,4 @@
-### **<q>It's not about what it is, it's about what it can become.</q>** -<em>Dr. Seuss</em>
+### **<q>Keep your eyes on the stars, but remember to keep your feet on the ground.</q>** -<em>Theodore Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
