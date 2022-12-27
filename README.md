@@ -1,4 +1,4 @@
-### **<q>There is nothing more truly artistic than to love people.</q>** -<em>Vincent van Gogh</em>
+### **<q>Fiction is the truth inside the lie.</q>** -<em>Stephen King</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
