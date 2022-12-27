@@ -1,4 +1,4 @@
-### **<q>It's OK to have your eggs in one basket as long as you control what happens to that basket.</q>** -<em>Elon Musk</em>
+### **<q>Honesty is the first chapter in the book of wisdom.</q>** -<em>Thomas Jefferson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
