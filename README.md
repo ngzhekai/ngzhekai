@@ -1,4 +1,4 @@
-### **<q>Courage is the price that life exacts for granting peace.</q>** -<em>Amelia Earhart</em>
+### **<q>The destiny of man is in his own soul. </q>** -<em>Herodotus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
