@@ -1,4 +1,4 @@
-### **<q>Fiction is the truth inside the lie.</q>** -<em>Stephen King</em>
+### **<q>It's OK to have your eggs in one basket as long as you control what happens to that basket.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
