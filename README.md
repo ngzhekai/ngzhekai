@@ -1,4 +1,4 @@
-### **<q>Intense love does not measure, it just gives.</q>** -<em>Mother Teresa</em>
+### **<q>It's not about what it is, it's about what it can become.</q>** -<em>Dr. Seuss</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
