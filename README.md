@@ -1,4 +1,4 @@
-### **<q>Once you choose hope, anything's possible.</q>** -<em>Christopher Reeve</em>
+### **<q>There is nothing more truly artistic than to love people.</q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
