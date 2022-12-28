@@ -1,4 +1,4 @@
-### **<q>Instead of thinking outside the box, get rid of the box.</q>** -<em>Deepak Chopra</em>
+### **<q>Dreams are for dreamers. Goals are for achievers.</q>** -<em>Arnold Schwarzenegger</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
