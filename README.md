@@ -1,4 +1,4 @@
-### **<q>Dreams are for dreamers. Goals are for achievers.</q>** -<em>Arnold Schwarzenegger</em>
+### **<q>We create the world and ourselves;</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
