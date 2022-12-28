@@ -1,4 +1,4 @@
-### **<q>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</q>** -<em>Carl Jung</em>
+### **<q>Words have no power to impress the mind without the exquisite horror of their reality.</q>** -<em>Edgar Allan Poe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
