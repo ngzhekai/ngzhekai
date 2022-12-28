@@ -1,4 +1,4 @@
-### **<q>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</q>** -<em>Socrates</em>
+### **<q>Instead of thinking outside the box, get rid of the box.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
