@@ -1,4 +1,4 @@
-### **<q>Never buy a thing you do not want, because it is cheap, it will be dear to you.</q>** -<em>Thomas Jefferson</em>
+### **<q>Sometimes a change of perspective is all it takes to see the light.</q>** -<em>Dan Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
