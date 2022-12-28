@@ -1,4 +1,4 @@
-### **<q>What do we live for if not to make life less difficult for each other?</q>** -<em>T.S. Eliot</em>
+### **<q>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
