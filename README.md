@@ -1,4 +1,4 @@
-### **<q>The majority of what you want will come from the minority of what you do.</q>** -<em>Gary Keller</em>
+### **<q>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.</q>** -<em>Socrates</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
