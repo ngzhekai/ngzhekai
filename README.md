@@ -1,4 +1,4 @@
-### **<q>Walk towards the sunshine, and the shadows will fall behind you.</q>** -<em>Mary Engelbreit</em>
+### **<q>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</q>** -<em>Emily Dickinson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
