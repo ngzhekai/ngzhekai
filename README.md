@@ -1,4 +1,4 @@
-### **<q>If you've never eaten while crying you don t know what life tastes like.</q>** -<em>Johann Wolfgang von Goethe</em>
+### **<q>The past has no power over the present moment. </q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
