@@ -1,4 +1,4 @@
-### **<q>What are we doing here, that is the question.</q>** -<em>Samuel Beckett</em>
+### **<q>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
