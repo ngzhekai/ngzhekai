@@ -1,4 +1,4 @@
-### **<q>Respect was invented to cover the empty place where love should be.</q>** -<em>Leo Tolstoy</em>
+### **<q>Never allow someone to be your priority while allowing yourself to be their option.</q>** -<em>Mark Twain</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
