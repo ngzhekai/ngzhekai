@@ -1,4 +1,4 @@
-### **<q>The past has no power over the present moment. </q>** -<em>Eckhart Tolle</em>
+### **<q>Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. </q>** -<em>Steve Jobs</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
