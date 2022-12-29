@@ -1,4 +1,4 @@
-### **<q>It is literally true that you can succeed best and quickest by helping others succeed.</q>** -<em>Napoleon Hill</em>
+### **<q>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</q>** -<em>Charles Darwin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
