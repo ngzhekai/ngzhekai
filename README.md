@@ -1,4 +1,4 @@
-### **<q>Never allow someone to be your priority while allowing yourself to be their option.</q>** -<em>Mark Twain</em>
+### **<q>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</q>** -<em>Henry Ward Beecher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
