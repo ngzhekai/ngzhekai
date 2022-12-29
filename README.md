@@ -1,4 +1,4 @@
-### **<q>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</q>** -<em>Henry Ward Beecher</em>
+### **<q>Walk towards the sunshine, and the shadows will fall behind you.</q>** -<em>Mary Engelbreit</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
