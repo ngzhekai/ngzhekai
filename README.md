@@ -1,4 +1,4 @@
-### **<q>A scientific man ought to have no wishes, no affections, - a mere heart of stone.</q>** -<em>Charles Darwin</em>
+### **<q>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
