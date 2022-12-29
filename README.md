@@ -1,4 +1,4 @@
-### **<q>Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can.</q>** -<em>Norman Vincent Peale</em>
+### **<q>Respect was invented to cover the empty place where love should be.</q>** -<em>Leo Tolstoy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
