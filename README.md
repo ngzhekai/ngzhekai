@@ -1,4 +1,4 @@
-### **<q>Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.</q>** -<em>Elon Musk</em>
+### **<q>If you've never eaten while crying you don t know what life tastes like.</q>** -<em>Johann Wolfgang von Goethe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
