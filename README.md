@@ -1,4 +1,4 @@
-### **<q>It ain't where you start in life, it's where you end up, and what you did along the way.</q>** -<em>Colin Powell</em>
+### **<q>Your business is not to 'get somewhere' - it is to be here.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
