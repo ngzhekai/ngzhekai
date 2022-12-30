@@ -1,4 +1,4 @@
-### **<q>The quieter you become, the more you are able to hear.</q>** -<em>Rumi</em>
+### **<q>Tension is who you think you should be. Relaxation is who you are.</q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
