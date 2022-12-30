@@ -1,4 +1,4 @@
-### **<q>Tension is who you think you should be. Relaxation is who you are.</q>** -<em>Chinese Proverb</em>
+### **<q>It ain't where you start in life, it's where you end up, and what you did along the way.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
