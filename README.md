@@ -1,4 +1,4 @@
-### **<q>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</q>** -<em>Bob Marley</em>
+### **<q>A hero is an ordinary person doing things in an extra ordinary way.</q>** -<em>Christopher Reeve</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
