@@ -1,4 +1,4 @@
-### **<q>Your business is not to 'get somewhere' - it is to be here.</q>** -<em>Dan Millman</em>
+### **<q>A leader is one who knows the way, goes the way, and shows the way.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
