@@ -1,4 +1,4 @@
-### **<q>Our attitude toward life determines life's attitude towards us.</q>** -<em>Earl Nightingale</em>
+### **<q>A wise person should have money in their head, but not in their heart.</q>** -<em>Jonathan Swift</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
