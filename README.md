@@ -1,4 +1,4 @@
-### **<q>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</q>** -<em>Emily Dickinson</em>
+### **<q>The quieter you become, the more you are able to hear.</q>** -<em>Rumi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
