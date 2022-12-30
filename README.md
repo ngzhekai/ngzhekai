@@ -1,4 +1,4 @@
-### **<q>Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.</q>** -<em>Paulo Coelho</em>
+### **<q>Be - don't try to become </q>** -<em>Osho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
