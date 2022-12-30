@@ -1,4 +1,4 @@
-### **<q>Go confidently in the direction of your dreams. Live the life you've imagined.</q>** -<em>Arnold Schwarzenegger</em>
+### **<q>Our attitude toward life determines life's attitude towards us.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
