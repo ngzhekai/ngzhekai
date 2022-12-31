@@ -1,4 +1,4 @@
-### **<q>The real measure of your wealth is how much you'd be worth if you lost all your money.</q>** -<em>Unknown</em>
+### **<q>Originality is the fine art of remembering what you hear but forgetting where you heard it. </q>** -<em>Laurence J. Peter</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
