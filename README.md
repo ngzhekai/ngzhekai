@@ -1,4 +1,4 @@
-### **<q>Experience is a comb which nature gives us when we are bald. </q>** -<em>Chinese Proverb</em>
+### **<q>If you genuinely want something, don't wait for it - teach yourself.</q>** -<em>Gurbaksh Chahal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
