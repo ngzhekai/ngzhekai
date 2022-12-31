@@ -1,4 +1,4 @@
-### **<q>If you genuinely want something, don't wait for it - teach yourself.</q>** -<em>Gurbaksh Chahal</em>
+### **<q>Get busy living, or get busy dying.</q>** -<em>Stephen King</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
