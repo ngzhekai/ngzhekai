@@ -1,4 +1,4 @@
-### **<q>When things go wrong, don't go with them.</q>** -<em>Elvis Presley</em>
+### **<q>Experience is a comb which nature gives us when we are bald. </q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
