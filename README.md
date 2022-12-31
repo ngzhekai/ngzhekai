@@ -1,4 +1,4 @@
-### **<q>Awaken. Take heed, do not squander your life.</q>** -<em>Dogen</em>
+### **<q>Be yourself; everyone else is already taken.</q>** -<em>Oscar Wilde</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
