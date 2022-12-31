@@ -1,4 +1,4 @@
-### **<q>Originality is the fine art of remembering what you hear but forgetting where you heard it. </q>** -<em>Laurence J. Peter</em>
+### **<q>If you change the way you look at things, the things you look at change. </q>** -<em>Wayne Dyer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
