@@ -1,4 +1,4 @@
-### **<q>Never close your lips to those whom you have already opened your heart.</q>** -<em>Charles Dickens</em>
+### **<q>She who loves roses must be patient and not cry out when she is pierced by thorns.</q>** -<em>Kenji Miyazawa</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
