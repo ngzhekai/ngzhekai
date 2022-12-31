@@ -1,4 +1,4 @@
-### **<q>Be - don't try to become </q>** -<em>Osho</em>
+### **<q>When things go wrong, don't go with them.</q>** -<em>Elvis Presley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
