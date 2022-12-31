@@ -1,4 +1,4 @@
-### **<q>She who loves roses must be patient and not cry out when she is pierced by thorns.</q>** -<em>Kenji Miyazawa</em>
+### **<q>If you don't like something change it; if you can't change it, change the way you think about it.</q>** -<em>Mary Engelbreit</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
