@@ -1,4 +1,4 @@
-### **<q>You must either modify your dreams or magnify your skills.</q>** -<em>Jim Rohn</em>
+### **<q>Art is the signature of civilizations. </q>** -<em>Beverly Sills</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
