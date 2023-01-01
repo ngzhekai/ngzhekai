@@ -1,4 +1,4 @@
-### **<q>There are only encounters in history. There are no accidents.</q>** -<em>Pablo Picasso</em>
+### **<q>You must either modify your dreams or magnify your skills.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
