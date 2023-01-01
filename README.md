@@ -1,4 +1,4 @@
-### **<q>When you repeat a mistake, it is not a mistake anymore: it is a decision.</q>** -<em>Paulo Coelho</em>
+### **<q>There are only encounters in history. There are no accidents.</q>** -<em>Pablo Picasso</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
