@@ -1,4 +1,4 @@
-### **<q>If you don't like something change it; if you can't change it, change the way you think about it.</q>** -<em>Mary Engelbreit</em>
+### **<q>The only way out is through.</q>** -<em>Robert Frost</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
