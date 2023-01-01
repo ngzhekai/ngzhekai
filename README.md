@@ -1,4 +1,4 @@
-### **<q>As soon as you trust yourself, you will know how to live.</q>** -<em>Johann Wolfgang von Goethe</em>
+### **<q>When you repeat a mistake, it is not a mistake anymore: it is a decision.</q>** -<em>Paulo Coelho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
