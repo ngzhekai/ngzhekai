@@ -1,4 +1,4 @@
-### **<q>I think self-awareness is probably the most important thing towards being a champion. </q>** -<em>Billie Jean King</em>
+### **<q>I dream my painting and I paint my dream.</q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
