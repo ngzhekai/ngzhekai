@@ -1,4 +1,4 @@
-### **<q>The only way out is through.</q>** -<em>Robert Frost</em>
+### **<q>Lying can never save us from another lie.</q>** -<em>Vaclav Havel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
