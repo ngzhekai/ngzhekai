@@ -1,4 +1,4 @@
-### **<q>I dream my painting and I paint my dream.</q>** -<em>Vincent van Gogh</em>
+### **<q>As soon as you trust yourself, you will know how to live.</q>** -<em>Johann Wolfgang von Goethe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
