@@ -1,4 +1,4 @@
-### **<q>Confidence comes from crossing thresholds.</q>** -<em>Kamal Ravikant</em>
+### **<q>Do not fight with pigs - you will be smeared in mud but the pig will like it.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
