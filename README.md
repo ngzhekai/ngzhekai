@@ -1,4 +1,4 @@
-### **<q>Art is the signature of civilizations. </q>** -<em>Beverly Sills</em>
+### **<q>The very essence of instinct is that it's followed independently of reason.</q>** -<em>Charles Darwin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
