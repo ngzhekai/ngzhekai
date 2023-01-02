@@ -1,4 +1,4 @@
-### **<q>Normal is the average of deviance.</q>** -<em>Rita Mae Brown</em>
+### **<q>Keep your face to the sunshine and you cannot see the shadows.</q>** -<em>Helen Keller</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
