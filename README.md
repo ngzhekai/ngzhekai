@@ -1,4 +1,4 @@
-### **<q>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</q>** -<em>Barack Obama</em>
+### **<q>How you think when you lose determines how long it will be until you win.</q>** -<em>Gilbert Chesterton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
