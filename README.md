@@ -1,4 +1,4 @@
-### **<q>Wealth consists not in having great possessions, but in having few wants.</q>** -<em>Epictetus</em>
+### **<q>The more people you help become successful the more successful you become.</q>** -<em>Steve Harvey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
