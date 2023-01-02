@@ -1,4 +1,4 @@
-### **<q>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</q>** -<em>Judy Garland</em>
+### **<q>Wealth consists not in having great possessions, but in having few wants.</q>** -<em>Epictetus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
