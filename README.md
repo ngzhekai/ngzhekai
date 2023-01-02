@@ -1,4 +1,4 @@
-### **<q>Faith means believing the unbelievable.</q>** -<em>Gilbert Chesterton</em>
+### **<q>A day without laughter is a day wasted.</q>** -<em>Charlie Chaplin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
