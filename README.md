@@ -1,4 +1,4 @@
-### **<q>How you think when you lose determines how long it will be until you win.</q>** -<em>Gilbert Chesterton</em>
+### **<q>To know even one life has breathed easier because you have lived. This is to have succeeded.</q>** -<em>Ralph Waldo Emerson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
