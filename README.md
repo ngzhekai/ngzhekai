@@ -1,4 +1,4 @@
-### **<q>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</q>** -<em>Sun Tzu</em>
+### **<q>If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.</q>** -<em>Barack Obama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
