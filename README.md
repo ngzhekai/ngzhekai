@@ -1,4 +1,4 @@
-### **<q>A day without laughter is a day wasted.</q>** -<em>Charlie Chaplin</em>
+### **<q>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
