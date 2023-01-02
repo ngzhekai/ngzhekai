@@ -1,4 +1,4 @@
-### **<q>Keep your face to the sunshine and you cannot see the shadows.</q>** -<em>Helen Keller</em>
+### **<q>Looking after my health today gives me a better hope for tomorrow. </q>** -<em>Anne Wilson Schaef</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
