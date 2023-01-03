@@ -1,4 +1,4 @@
-### **<q>Write to help yourself, publish to help others.</q>** -<em>Jack Butcher</em>
+### **<q>Disobedience is the true foundation of liberty. The obedient must be slaves.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
