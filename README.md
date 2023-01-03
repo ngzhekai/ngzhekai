@@ -1,4 +1,4 @@
-### **<q>The more people you help become successful the more successful you become.</q>** -<em>Steve Harvey</em>
+### **<q>Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
