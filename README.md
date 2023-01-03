@@ -1,4 +1,4 @@
-### **<q>Only the hand that erases can write the true thing.</q>** -<em>Meister Eckhart</em>
+### **<q>Write to help yourself, publish to help others.</q>** -<em>Jack Butcher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
