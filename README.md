@@ -1,4 +1,4 @@
-### **<q>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</q>** -<em>Denis Waitley</em>
+### **<q>Success is within the reach of just about everyone.</q>** -<em>Lolly Daskal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
