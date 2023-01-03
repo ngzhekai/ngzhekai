@@ -1,4 +1,4 @@
-### **<q>Disobedience is the true foundation of liberty. The obedient must be slaves.</q>** -<em>Henry David Thoreau</em>
+### **<q>Life is the dancer and you are the dance.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
