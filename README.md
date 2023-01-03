@@ -1,4 +1,4 @@
-### **<q>If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you.</q>** -<em>Paramahansa Yogananda</em>
+### **<q>In life you need either inspiration or desperation.</q>** -<em>Tony Robbins</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
