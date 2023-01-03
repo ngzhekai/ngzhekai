@@ -1,4 +1,4 @@
-### **<q>Success is within the reach of just about everyone.</q>** -<em>Lolly Daskal</em>
+### **<q>In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.</q>** -<em>Spencer Johnson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
