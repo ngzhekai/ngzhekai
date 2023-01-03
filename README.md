@@ -1,4 +1,4 @@
-### **<q>In life you need either inspiration or desperation.</q>** -<em>Tony Robbins</em>
+### **<q>Only the hand that erases can write the true thing.</q>** -<em>Meister Eckhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
