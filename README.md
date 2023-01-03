@@ -1,4 +1,4 @@
-### **<q>The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!</q>** -<em>Tony Robbins</em>
+### **<q>There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.</q>** -<em>Denis Waitley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
