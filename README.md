@@ -1,4 +1,4 @@
-### **<q>If you do not get the chills when you set your goal you're not setting big enough goals.</q>** -<em>Bob Proctor</em>
+### **<q>Stop comparing yourself to others and focus on your own improvement.</q>** -<em>Lolly Daskal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
