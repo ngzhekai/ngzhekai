@@ -1,4 +1,4 @@
-### **<q>There are no ordinary moments.</q>** -<em>Dan Millman</em>
+### **<q>Life is a constant series of opportunities.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
