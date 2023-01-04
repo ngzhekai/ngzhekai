@@ -1,4 +1,4 @@
-### **<q>Guilt is perhaps the most painful companion of death.</q>** -<em>Coco Chanel</em>
+### **<q>A moving door hinge never corrodes. Flowing water never grows stagnant.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
