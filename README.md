@@ -1,4 +1,4 @@
-### **<q>Stop being tormented by everyone else's reaction to you.</q>** -<em>Joyce Meyer</em>
+### **<q>If you do not get the chills when you set your goal you're not setting big enough goals.</q>** -<em>Bob Proctor</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
