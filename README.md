@@ -1,4 +1,4 @@
-### **<q>Stop comparing yourself to others and focus on your own improvement.</q>** -<em>Lolly Daskal</em>
+### **<q>Good judgment comes from experience, and experience comes from bad judgment.</q>** -<em>Rita Mae Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
