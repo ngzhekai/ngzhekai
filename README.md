@@ -1,4 +1,4 @@
-### **<q>Good judgment comes from experience, and experience comes from bad judgment.</q>** -<em>Rita Mae Brown</em>
+### **<q>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
