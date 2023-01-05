@@ -1,4 +1,4 @@
-### **<q>Failure is feedback. Learn from it and move on.</q>** -<em>Jack Butcher</em>
+### **<q>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </q>** -<em>Charles Swindoll</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
