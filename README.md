@@ -1,4 +1,4 @@
-### **<q>Until we can manage time, we can manage nothing else.</q>** -<em>Peter Drucker</em>
+### **<q>Focus is a matter of deciding what things you're not going to do.</q>** -<em>John Carmack</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
