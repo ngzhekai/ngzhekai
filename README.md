@@ -1,4 +1,4 @@
-### **<q>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</q>** -<em>Paramahansa Yogananda</em>
+### **<q>It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable.</q>** -<em>Elon Musk</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
