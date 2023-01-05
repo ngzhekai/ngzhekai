@@ -1,4 +1,4 @@
-### **<q>I hear and I forget. I see and I remember. I do and I understand. </q>** -<em>Confucius</em>
+### **<q>Failure is feedback. Learn from it and move on.</q>** -<em>Jack Butcher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
