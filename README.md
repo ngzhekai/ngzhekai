@@ -1,4 +1,4 @@
-### **<q>Focus is a matter of deciding what things you're not going to do.</q>** -<em>John Carmack</em>
+### **<q>I hear and I forget. I see and I remember. I do and I understand. </q>** -<em>Confucius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
