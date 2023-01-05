@@ -1,4 +1,4 @@
-### **<q>Don't worry about being successful, but work toward being significant and the success will naturally follow.</q>** -<em>Oprah Winfrey</em>
+### **<q>When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.</q>** -<em>Paramahansa Yogananda</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
