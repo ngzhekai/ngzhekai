@@ -1,4 +1,4 @@
-### **<q>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</q>** -<em>G.I. Gurdjieff</em>
+### **<q>Until we can manage time, we can manage nothing else.</q>** -<em>Peter Drucker</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
