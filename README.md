@@ -1,4 +1,4 @@
-### **<q>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </q>** -<em>Charles Swindoll</em>
+### **<q>The wise warrior avoids the battle.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
