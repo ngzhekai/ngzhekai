@@ -1,4 +1,4 @@
-### **<q>The wise warrior avoids the battle.</q>** -<em>Sun Tzu</em>
+### **<q>Learning never exhausts the mind. </q>** -<em>Leonardo da Vinci</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
