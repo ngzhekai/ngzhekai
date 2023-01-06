@@ -1,4 +1,4 @@
-### **<q>The difference between treason and patriotism is only a matter of dates.</q>** -<em>Alexandre Dumas</em>
+### **<q>Peaceful is the one who expects nothing.</q>** -<em>Maxime Lagace</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
