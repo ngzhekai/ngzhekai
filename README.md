@@ -1,4 +1,4 @@
-### **<q>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</q>** -<em>Zig Ziglar</em>
+### **<q>The difference between treason and patriotism is only a matter of dates.</q>** -<em>Alexandre Dumas</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
