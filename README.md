@@ -1,4 +1,4 @@
-### **<q>Success is within the reach of just about everyone.</q>** -<em>Lolly Daskal</em>
+### **<q>Where your talents and the needs of the world cross, there lies your vocation.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
