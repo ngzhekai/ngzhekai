@@ -1,4 +1,4 @@
-### **<q>Where your talents and the needs of the world cross, there lies your vocation.</q>** -<em>Aristotle</em>
+### **<q>Don't let your learning lead to knowledge. Let your learning lead to action.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
