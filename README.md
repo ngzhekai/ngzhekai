@@ -1,4 +1,4 @@
-### **<q>The greatest weariness comes from work not done.</q>** -<em>Eric Hoffer</em>
+### **<q>You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
