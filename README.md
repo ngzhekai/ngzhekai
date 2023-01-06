@@ -1,4 +1,4 @@
-### **<q>Peaceful is the one who expects nothing.</q>** -<em>Maxime Lagace</em>
+### **<q>Till it has loved, no man or woman can become itself.</q>** -<em>Emily Dickinson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
