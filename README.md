@@ -1,4 +1,4 @@
-### **<q>The best answer to anger is silence.</q>** -<em>Marcus Aurelius</em>
+### **<q>There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing.</q>** -<em>Morihei Ueshiba</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
