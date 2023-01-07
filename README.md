@@ -1,4 +1,4 @@
-### **<q>Through discipline comes freedom.</q>** -<em>Aristotle</em>
+### **<q>The more you like yourself, the less you are like anyone else, which makes you unique.</q>** -<em>Walt Disney</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
