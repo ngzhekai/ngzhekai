@@ -1,4 +1,4 @@
-### **<q>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</q>** -<em>Seneca</em>
+### **<q>Success does not consist in never making mistakes but in never making the same one a second time.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
