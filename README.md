@@ -1,4 +1,4 @@
-### **<q>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</q>** -<em>Henry Ward Beecher</em>
+### **<q>Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?</q>** -<em>Seneca</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
