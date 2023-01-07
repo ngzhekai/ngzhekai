@@ -1,4 +1,4 @@
-### **<q>Life becomes easier and more beautiful when we can see the good in other people.</q>** -<em>Roy T. Bennett</em>
+### **<q>Every artist dips his brush in his own soul, and paints his own nature into his pictures.</q>** -<em>Henry Ward Beecher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
