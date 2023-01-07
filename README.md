@@ -1,4 +1,4 @@
-### **<q>The more you like yourself, the less you are like anyone else, which makes you unique.</q>** -<em>Walt Disney</em>
+### **<q>Sometimes adversity is what you need to face in order to become successful.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
