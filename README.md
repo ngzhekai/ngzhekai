@@ -1,4 +1,4 @@
-### **<q>Sometimes adversity is what you need to face in order to become successful.</q>** -<em>Zig Ziglar</em>
+### **<q>Life becomes easier and more beautiful when we can see the good in other people.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
