@@ -1,4 +1,4 @@
-### **<q>I will not walk backward in life.</q>** -<em>J.R.R. Tolkien</em>
+### **<q>The joy of life comes from our encounters with new experiences.</q>** -<em>Christopher McCandless</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
