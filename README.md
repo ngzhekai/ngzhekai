@@ -1,4 +1,4 @@
-### **<q>When you know what you want, and you want it bad enough, you will find a way to get it.</q>** -<em>Jim Rohn</em>
+### **<q>All religions, arts and sciences are branches of the same tree. </q>** -<em>Albert Einstein</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
