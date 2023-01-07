@@ -1,4 +1,4 @@
-### **<q>All religions, arts and sciences are branches of the same tree. </q>** -<em>Albert Einstein</em>
+### **<q>The best answer to anger is silence.</q>** -<em>Marcus Aurelius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
