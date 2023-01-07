@@ -1,4 +1,4 @@
-### **<q>Success does not consist in never making mistakes but in never making the same one a second time.</q>** -<em>George Bernard Shaw</em>
+### **<q>When you know what you want, and you want it bad enough, you will find a way to get it.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
