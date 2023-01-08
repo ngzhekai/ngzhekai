@@ -1,4 +1,4 @@
-### **<q>The roots of education are bitter, but the fruit is sweet.</q>** -<em>Aristotle</em>
+### **<q>Live calmly. The time will come when the flowers bloom by themselves.</q>** -<em>Zen Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
