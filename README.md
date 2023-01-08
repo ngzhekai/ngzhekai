@@ -1,4 +1,4 @@
-### **<q>Belief creates the actual fact.</q>** -<em>William James</em>
+### **<q>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
