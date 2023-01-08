@@ -1,4 +1,4 @@
-### **<q>We take care of the future best by taking care of the present now.</q>** -<em>Jon Kabat-Zinn</em>
+### **<q>You can easily judge the character of a man by how he treats those who can do nothing for him.</q>** -<em>Simon Sinek</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
