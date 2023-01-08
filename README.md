@@ -1,4 +1,4 @@
-### **<q>You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.</q>** -<em>James Allen</em>
+### **<q>Creative people are often found either disagreeable or intimidating by mediocrities.</q>** -<em>Criss Jami</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
