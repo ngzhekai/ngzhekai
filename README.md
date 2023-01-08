@@ -1,4 +1,4 @@
-### **<q>Superstars think like superstars long before the fans or the press anoint them.</q>** -<em>John Eliot</em>
+### **<q>Belief creates the actual fact.</q>** -<em>William James</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
