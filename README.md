@@ -1,4 +1,4 @@
-### **<q>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</q>** -<em>Stephen King</em>
+### **<q>We take care of the future best by taking care of the present now.</q>** -<em>Jon Kabat-Zinn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
