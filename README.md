@@ -1,4 +1,4 @@
-### **<q>Creative people are often found either disagreeable or intimidating by mediocrities.</q>** -<em>Criss Jami</em>
+### **<q>The roots of education are bitter, but the fruit is sweet.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
