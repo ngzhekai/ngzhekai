@@ -1,4 +1,4 @@
-### **<q>The soul is neither born, and nor does it die.</q>** -<em>Bhagavad Gita</em>
+### **<q>Always try to be a little kinder than necessary.</q>** -<em>James Matthew Barrie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
