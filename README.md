@@ -1,4 +1,4 @@
-### **<q>Always try to be a little kinder than necessary.</q>** -<em>James Matthew Barrie</em>
+### **<q>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
