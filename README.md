@@ -1,4 +1,4 @@
-### **<q>Meditate. It won't be fun but it will surface what you need to deal with.</q>** -<em>Naval Ravikant</em>
+### **<q>Change is hard at first, messy in the middle and gorgeous at the end.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
