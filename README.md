@@ -1,4 +1,4 @@
-### **<q>Live calmly. The time will come when the flowers bloom by themselves.</q>** -<em>Zen Proverb</em>
+### **<q>The soul is neither born, and nor does it die.</q>** -<em>Bhagavad Gita</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
