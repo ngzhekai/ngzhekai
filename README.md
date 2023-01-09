@@ -1,4 +1,4 @@
-### **<q>Change is hard at first, messy in the middle and gorgeous at the end.</q>** -<em>Robin Sharma</em>
+### **<q>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
