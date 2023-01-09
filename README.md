@@ -1,4 +1,4 @@
-### **<q>Let us rather run the risk of wearing out than rusting out.</q>** -<em>Theodore Roosevelt</em>
+### **<q>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
