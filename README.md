@@ -1,4 +1,4 @@
-### **<q>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</q>** -<em>Ayn Rand</em>
+### **<q>Meditate. It won't be fun but it will surface what you need to deal with.</q>** -<em>Naval Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
