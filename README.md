@@ -1,4 +1,4 @@
-### **<q>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</q>** -<em>Oprah Winfrey</em>
+### **<q>Disobedience is the true foundation of liberty. The obedient must be slaves.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
