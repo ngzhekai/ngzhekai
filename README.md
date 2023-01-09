@@ -1,4 +1,4 @@
-### **<q>Question everything. Learn something. Answer nothing.</q>** -<em>Euripides</em>
+### **<q>We are all born ignorant, but one must work hard to remain stupid.</q>** -<em>Benjamin Franklin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
