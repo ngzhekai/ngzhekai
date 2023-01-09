@@ -1,4 +1,4 @@
-### **<q>We are all born ignorant, but one must work hard to remain stupid.</q>** -<em>Benjamin Franklin</em>
+### **<q>Let us rather run the risk of wearing out than rusting out.</q>** -<em>Theodore Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
