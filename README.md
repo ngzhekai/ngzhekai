@@ -1,4 +1,4 @@
-### **<q>Knowing your own darkness is the best method for dealing with the darknesses of other people.</q>** -<em>Carl Jung</em>
+### **<q>Question everything. Learn something. Answer nothing.</q>** -<em>Euripides</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
