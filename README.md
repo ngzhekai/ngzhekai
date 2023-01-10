@@ -1,4 +1,4 @@
-### **<q>The most important thing is to enjoy your life, to be happy, it's all that matters.</q>** -<em>Audrey Hepburn</em>
+### **<q>We become what we believe.</q>** -<em>Lolly Daskal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
