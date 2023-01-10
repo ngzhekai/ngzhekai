@@ -1,4 +1,4 @@
-### **<q>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</q>** -<em>Celestine Chua</em>
+### **<q>The goal is not to show how great you are to others, but how vulnerable you are to yourself.</q>** -<em>Maxime Lagace</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
