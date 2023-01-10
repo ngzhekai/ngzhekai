@@ -1,4 +1,4 @@
-### **<q>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</q>** -<em>Robert Greene</em>
+### **<q>Wealth is the product of man's capacity to think.</q>** -<em>Ayn Rand</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
