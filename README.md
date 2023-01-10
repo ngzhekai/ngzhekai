@@ -1,4 +1,4 @@
-### **<q>Men are disturbed not by things, but by the view which they take of them.</q>** -<em>Epictetus</em>
+### **<q>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
