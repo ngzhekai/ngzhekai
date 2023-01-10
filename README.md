@@ -1,4 +1,4 @@
-### **<q>Wealth is the product of man's capacity to think.</q>** -<em>Ayn Rand</em>
+### **<q>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
