@@ -1,4 +1,4 @@
-### **<q>He who permits himself to tell a lie once, finds it much easier to do it the second time.</q>** -<em>Thomas Jefferson</em>
+### **<q>Life is love and love is life.</q>** -<em>Elvis Presley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
