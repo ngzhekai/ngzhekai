@@ -1,4 +1,4 @@
-### **<q>Life happens in the river, not the shore.</q>** -<em>Maxime Lagace</em>
+### **<q>To some degree, you control your life by controlling your time.</q>** -<em>Conrad Hilton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
