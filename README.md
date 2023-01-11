@@ -1,4 +1,4 @@
-### **<q>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</q>** -<em>Naval Ravikant</em>
+### **<q>Acknowledging the good that you already have in your life is the foundation for all abundance.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
