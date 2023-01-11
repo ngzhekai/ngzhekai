@@ -1,4 +1,4 @@
-### **<q>Realistic people do not accomplish extraordinary things.</q>** -<em>John Eliot</em>
+### **<q>Always keep your eyes open. Keep watching. Because whatever you see can inspire you.</q>** -<em>Grace Coddington</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
