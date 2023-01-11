@@ -1,4 +1,4 @@
-### **<q>Acknowledging the good that you already have in your life is the foundation for all abundance.</q>** -<em>Eckhart Tolle</em>
+### **<q>You are free, and that is why you are lost. </q>** -<em>Franz Kafka</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
