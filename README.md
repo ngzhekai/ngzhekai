@@ -1,4 +1,4 @@
-### **<q>You have power over your mind - not outside events. Realize this, and you will find strength.</q>** -<em>Marcus Aurelius</em>
+### **<q>Our truest life is when we are in dreams awake.</q>** -<em>Henry David Thoreau</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
