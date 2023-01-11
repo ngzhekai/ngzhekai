@@ -1,4 +1,4 @@
-### **<q>A moving door hinge never corrodes. Flowing water never grows stagnant.</q>** -<em>Ming-Dao Deng</em>
+### **<q>Creative endeavors are by their nature uncertain.</q>** -<em>Robert Greene</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
