@@ -1,4 +1,4 @@
-### **<q>Difficulties strengthen the mind, as labor does the body. </q>** -<em>Seneca</em>
+### **<q>Give more than you think you can, trusting that you are richer than you think.</q>** -<em>Jon Kabat-Zinn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
