@@ -1,4 +1,4 @@
-### **<q>Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.</q>** -<em>Charles Dickens</em>
+### **<q>The art of being wise is knowing what to overlook.</q>** -<em>William James</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
