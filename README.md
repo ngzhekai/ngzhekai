@@ -1,4 +1,4 @@
-### **<q>If there's a definition of freedom, I think it's this: living life on your terms.</q>** -<em>Kamal Ravikant</em>
+### **<q>Great things are not done by impulse, but by a series of small things brought together.</q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
