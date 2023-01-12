@@ -1,4 +1,4 @@
-### **<q>Make your life a mission - not an intermission.</q>** -<em>Unknown</em>
+### **<q>If there's a definition of freedom, I think it's this: living life on your terms.</q>** -<em>Kamal Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
