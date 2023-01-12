@@ -1,4 +1,4 @@
-### **<q>Life belongs to the living, and he who lives must be prepared for changes.</q>** -<em>Johann Wolfgang von Goethe</em>
+### **<q>Loyalty and friendship are the most precious possessions a man can have.</q>** -<em>Herbert Hoover</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
