@@ -1,4 +1,4 @@
-### **<q>Give more than you think you can, trusting that you are richer than you think.</q>** -<em>Jon Kabat-Zinn</em>
+### **<q>Life belongs to the living, and he who lives must be prepared for changes.</q>** -<em>Johann Wolfgang von Goethe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
