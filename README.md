@@ -1,4 +1,4 @@
-### **<q>You can only be afraid of what you think you know.</q>** -<em>Jiddu Krishnamurti</em>
+### **<q>Youth has no age.</q>** -<em>Pablo Picasso</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
