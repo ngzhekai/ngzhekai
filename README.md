@@ -1,4 +1,4 @@
-### **<q>Make improvements, not excuses. Seek respect, not attention.</q>** -<em>Roy T. Bennett</em>
+### **<q>The golden opportunity you are seeking is within yourself.</q>** -<em>Mary Engelbreit</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
