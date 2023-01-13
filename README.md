@@ -1,4 +1,4 @@
-### **<q>Love your enemies, for they tell you your faults.</q>** -<em>Benjamin Franklin</em>
+### **<q>The heart that gives, gathers.</q>** -<em>Lao Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
