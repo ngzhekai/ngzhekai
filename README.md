@@ -1,4 +1,4 @@
-### **<q>The golden opportunity you are seeking is within yourself.</q>** -<em>Mary Engelbreit</em>
+### **<q>The more you give, the more comes back to you.</q>** -<em>Napoleon Hill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
