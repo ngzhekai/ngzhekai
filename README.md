@@ -1,4 +1,4 @@
-### **<q>You have to give up some of the old so that you can make room for the new.</q>** -<em>Yanni</em>
+### **<q>Enthusiasm makes up for a host of deficiencies.</q>** -<em>Barack Obama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
