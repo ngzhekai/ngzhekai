@@ -1,4 +1,4 @@
-### **<q>Enthusiasm makes up for a host of deficiencies.</q>** -<em>Barack Obama</em>
+### **<q>Make improvements, not excuses. Seek respect, not attention.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
