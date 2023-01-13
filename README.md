@@ -1,4 +1,4 @@
-### **<q>Be who you are and say what you feel because those who mind don't matter and those who matter don't mind.</q>** -<em>Dr. Seuss</em>
+### **<q>You have to give up some of the old so that you can make room for the new.</q>** -<em>Yanni</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
