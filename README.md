@@ -1,4 +1,4 @@
-### **<q>Just because something isn't a lie does not mean that it isn't deceptive.</q>** -<em>Criss Jami</em>
+### **<q>Experience is a comb which nature gives us when we are bald. </q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
