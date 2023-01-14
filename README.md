@@ -1,4 +1,4 @@
-### **<q>Some people feel the rain. Others just get wet. </q>** -<em>Bob Dylan</em>
+### **<q>Your problem isn't the problem. Your reaction is the problem.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
