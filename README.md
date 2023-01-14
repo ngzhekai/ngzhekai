@@ -1,4 +1,4 @@
-### **<q>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</q>** -<em>Steve Jobs</em>
+### **<q>The most tragic thing in the world is a man of genius who is not a man of honor.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
