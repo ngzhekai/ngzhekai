@@ -1,4 +1,4 @@
-### **<q>Experience is a comb which nature gives us when we are bald. </q>** -<em>Chinese Proverb</em>
+### **<q>You win more from losing than winning.</q>** -<em>Morgan Wootten</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
