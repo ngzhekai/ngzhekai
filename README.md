@@ -1,4 +1,4 @@
-### **<q>The more you give, the more comes back to you.</q>** -<em>Napoleon Hill</em>
+### **<q>One never does wrong by doing right.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
