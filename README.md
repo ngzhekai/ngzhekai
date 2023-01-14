@@ -1,4 +1,4 @@
-### **<q>One never does wrong by doing right.</q>** -<em>Norman Vincent Peale</em>
+### **<q>The future is the worst thing about the present.</q>** -<em>Gustave Flaubert</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
