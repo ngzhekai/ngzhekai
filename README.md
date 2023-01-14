@@ -1,4 +1,4 @@
-### **<q>Your success and happiness lie in you.</q>** -<em>Helen Keller</em>
+### **<q>Some people feel the rain. Others just get wet. </q>** -<em>Bob Dylan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
