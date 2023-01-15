@@ -1,4 +1,4 @@
-### **<q>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</q>** -<em>Eleanor Roosevelt</em>
+### **<q>If you are going to achieve excellence in big things, you develop the habit in little matters.</q>** -<em>Colin Powell</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
