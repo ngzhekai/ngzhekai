@@ -1,4 +1,4 @@
-### **<q>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</q>** -<em>Steve Jobs</em>
+### **<q>Changing minds is harder than finding people who already agree.</q>** -<em>Jack Butcher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
