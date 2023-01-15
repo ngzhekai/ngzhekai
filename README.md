@@ -1,4 +1,4 @@
-### **<q>A leader is one who knows the way, goes the way, and shows the way.</q>** -<em>Unknown</em>
+### **<q>Talk sense to a fool and he calls you foolish.</q>** -<em>Euripides</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
