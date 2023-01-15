@@ -1,4 +1,4 @@
-### **<q>Problems remain as problems because people are busy defending them rather than finding solutions.</q>** -<em>Celestine Chua</em>
+### **<q>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
