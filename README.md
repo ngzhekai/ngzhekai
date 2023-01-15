@@ -1,4 +1,4 @@
-### **<q>To forgive means pardoning the unpardonable.</q>** -<em>Gilbert Chesterton</em>
+### **<q>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</q>** -<em>Thich Nhat Hanh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
