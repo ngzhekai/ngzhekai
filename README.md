@@ -1,4 +1,4 @@
-### **<q>Life is a gift. Never forget to enjoy and bask in every moment you are in.</q>** -<em>Celestine Chua</em>
+### **<q>Problems remain as problems because people are busy defending them rather than finding solutions.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
