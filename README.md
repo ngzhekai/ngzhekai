@@ -1,4 +1,4 @@
-### **<q>Just throw away all thoughts of imaginary things, and stand firm in that which you are.</q>** -<em>Kabir</em>
+### **<q>There is no fear for one whose mind is not filled with desires.</q>** -<em>Buddha</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
