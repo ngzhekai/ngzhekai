@@ -1,4 +1,4 @@
-### **<q>Every day may not be good, but there's something good in every day.</q>** -<em>Unknown</em>
+### **<q>A leader is one who knows the way, goes the way, and shows the way.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
