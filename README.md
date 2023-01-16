@@ -1,4 +1,4 @@
-### **<q>Life is not meant to be easy my child, but take courage: it can be delightful.</q>** -<em>George Bernard Shaw</em>
+### **<q>Good things aren't supposed to just fall into your lap.</q>** -<em>Audrey Hepburn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
