@@ -1,4 +1,4 @@
-### **<q>The danger of an adventure is worth a thousand days of ease and comfort.</q>** -<em>Paulo Coelho</em>
+### **<q>Life is not meant to be easy my child, but take courage: it can be delightful.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
