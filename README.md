@@ -1,4 +1,4 @@
-### **<q>Life would be tragic if it weren't funny.</q>** -<em>Stephen Hawking</em>
+### **<q>A Rolling Stone Gathers No Moss.</q>** -<em>Publilius Syrus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
