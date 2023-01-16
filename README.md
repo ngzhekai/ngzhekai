@@ -1,4 +1,4 @@
-### **<q>We have a choice everyday regarding the attitude we will embrace for that day.</q>** -<em>Charles Swindoll</em>
+### **<q>Life is too short to waste your time on people who don't respect, appreciate, and value you.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
