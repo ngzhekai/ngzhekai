@@ -1,4 +1,4 @@
-### **<q>Life is too short to waste your time on people who don't respect, appreciate, and value you.</q>** -<em>Roy T. Bennett</em>
+### **<q>If you don't break your ropes while you're alive, do you think ghosts will do it after?</q>** -<em>Kabir</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
