@@ -1,4 +1,4 @@
-### **<q>Presents are made for the pleasure of who gives them, not the merits of who receives them.</q>** -<em>Carlos Ruiz Zafon</em>
+### **<q>Great minds are always feared by lesser minds.</q>** -<em>Dan Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
