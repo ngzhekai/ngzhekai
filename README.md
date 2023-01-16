@@ -1,4 +1,4 @@
-### **<q>The most courageous act is still to think for yourself. Aloud.</q>** -<em>Coco Chanel</em>
+### **<q>Life would be tragic if it weren't funny.</q>** -<em>Stephen Hawking</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
