@@ -1,4 +1,4 @@
-### **<q>Great minds are always feared by lesser minds.</q>** -<em>Dan Brown</em>
+### **<q>We have a choice everyday regarding the attitude we will embrace for that day.</q>** -<em>Charles Swindoll</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
