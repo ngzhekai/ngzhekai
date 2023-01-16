@@ -1,4 +1,4 @@
-### **<q>If you don't break your ropes while you're alive, do you think ghosts will do it after?</q>** -<em>Kabir</em>
+### **<q>The most courageous act is still to think for yourself. Aloud.</q>** -<em>Coco Chanel</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
