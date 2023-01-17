@@ -1,4 +1,4 @@
-### **<q>Never settle for the crumbs of life.</q>** -<em>Og Mandino</em>
+### **<q>Dreams have only one owner at a time. That's why dreamers are lonely.</q>** -<em>William Faulkner</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
