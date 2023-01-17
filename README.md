@@ -1,4 +1,4 @@
-### **<q>Dreams have only one owner at a time. That's why dreamers are lonely.</q>** -<em>William Faulkner</em>
+### **<q>The journey is what brings us happiness not the destination.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
