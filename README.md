@@ -1,4 +1,4 @@
-### **<q>Everything eaten is killed. Every meal is a sacrifice.</q>** -<em>Adi Da Samraj</em>
+### **<q>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</q>** -<em>Nicolas Chamfort</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
