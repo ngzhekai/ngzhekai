@@ -1,4 +1,4 @@
-### **<q>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</q>** -<em>Steve Jobs</em>
+### **<q>Everything eaten is killed. Every meal is a sacrifice.</q>** -<em>Adi Da Samraj</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
