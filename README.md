@@ -1,4 +1,4 @@
-### **<q>A moving door hinge never corrodes. Flowing water never grows stagnant.</q>** -<em>Ming-Dao Deng</em>
+### **<q>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</q>** -<em>Bette Midler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
