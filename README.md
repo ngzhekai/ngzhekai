@@ -1,4 +1,4 @@
-### **<q>Forget safety. Live where you fear to live.</q>** -<em>Rumi</em>
+### **<q>Never settle for the crumbs of life.</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
