@@ -1,4 +1,4 @@
-### **<q>Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.</q>** -<em>Nicolas Chamfort</em>
+### **<q>A moving door hinge never corrodes. Flowing water never grows stagnant.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
