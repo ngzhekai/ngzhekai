@@ -1,4 +1,4 @@
-### **<q>Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.</q>** -<em>Thich Nhat Hanh</em>
+### **<q>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</q>** -<em>William James</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
