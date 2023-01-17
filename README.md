@@ -1,4 +1,4 @@
-### **<q>You will succeed because most people are lazy.</q>** -<em>Shahir Zag</em>
+### **<q>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</q>** -<em>Steve Jobs</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
