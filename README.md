@@ -1,4 +1,4 @@
-### **<q>Just do what must be done. This may not be happiness but it is greatness.</q>** -<em>George Bernard Shaw</em>
+### **<q>Forget safety. Live where you fear to live.</q>** -<em>Rumi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
