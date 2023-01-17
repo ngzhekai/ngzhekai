@@ -1,4 +1,4 @@
-### **<q>Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</q>** -<em>William James</em>
+### **<q>Just do what must be done. This may not be happiness but it is greatness.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
