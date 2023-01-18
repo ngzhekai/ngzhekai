@@ -1,4 +1,4 @@
-### **<q>Strive for excellence, not perfection, because we don't live in a perfect world.</q>** -<em>Joyce Meyer</em>
+### **<q>Life is much more successfully looked at from a single window.</q>** -<em>F. Scott Fitzgerald</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
