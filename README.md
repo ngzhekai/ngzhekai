@@ -1,4 +1,4 @@
-### **<q>Cherish forever what makes you unique, cuz you're really a yawn if it goes.</q>** -<em>Bette Midler</em>
+### **<q>The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</q>** -<em>Morihei Ueshiba</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
