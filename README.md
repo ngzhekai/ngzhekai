@@ -1,4 +1,4 @@
-### **<q>It's the little things done consistently over time, straight from your heart, that have the greatest impact.</q>** -<em>Unknown</em>
+### **<q>Live, travel, adventure, bless, and don't be sorry. </q>** -<em>Jack Kerouac</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
