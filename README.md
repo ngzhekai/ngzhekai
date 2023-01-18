@@ -1,4 +1,4 @@
-### **<q>Live, travel, adventure, bless, and don't be sorry. </q>** -<em>Jack Kerouac</em>
+### **<q>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </q>** -<em>St. Jerome</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
