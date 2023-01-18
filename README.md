@@ -1,4 +1,4 @@
-### **<q>All power is from within and therefore under our control.</q>** -<em>Robert Collier</em>
+### **<q>We are all in the gutter, but some of us are looking at the stars. </q>** -<em>Oscar Wilde</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
