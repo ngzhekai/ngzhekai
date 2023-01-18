@@ -1,4 +1,4 @@
-### **<q>Life is much more successfully looked at from a single window.</q>** -<em>F. Scott Fitzgerald</em>
+### **<q>All power is from within and therefore under our control.</q>** -<em>Robert Collier</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
