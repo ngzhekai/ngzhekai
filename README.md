@@ -1,4 +1,4 @@
-### **<q>If what you're doing is not your passion, you have nothing to lose.</q>** -<em>Celestine Chua</em>
+### **<q>Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</q>** -<em>Sigmund Freud</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
