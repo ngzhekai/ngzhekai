@@ -1,4 +1,4 @@
-### **<q>Thought is so cunning, so clever, that it distorts everything for its own convenience.</q>** -<em>Jiddu Krishnamurti</em>
+### **<q>Strive for excellence, not perfection, because we don't live in a perfect world.</q>** -<em>Joyce Meyer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
