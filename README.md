@@ -1,4 +1,4 @@
-### **<q>I put my heart and soul into my work, and I have lost my mind in the process.</q>** -<em>Vincent van Gogh</em>
+### **<q>How to get more opportunity: Create more opportunity for others.</q>** -<em>Jack Butcher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
