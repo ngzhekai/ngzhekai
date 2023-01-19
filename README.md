@@ -1,4 +1,4 @@
-### **<q>Little minds have little worries, big minds have no time for worries.</q>** -<em>Ralph Waldo Emerson</em>
+### **<q>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</q>** -<em>Norman Vincent Peale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
