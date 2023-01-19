@@ -1,4 +1,4 @@
-### **<q>True love stories never have endings.</q>** -<em>Richard Bach</em>
+### **<q>Maybe you are searching among the branches, for what only appears in the roots.</q>** -<em>Rumi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
