@@ -1,4 +1,4 @@
-### **<q>Instead of worrying about what you cannot control, shift your energy to what you can create.</q>** -<em>Roy T. Bennett</em>
+### **<q>A man is literally what he thinks.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
