@@ -1,4 +1,4 @@
-### **<q>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</q>** -<em>T.S. Eliot</em>
+### **<q>Instead of worrying about what you cannot control, shift your energy to what you can create.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
