@@ -1,4 +1,4 @@
-### **<q>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</q>** -<em>Norman Vincent Peale</em>
+### **<q>True love stories never have endings.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
