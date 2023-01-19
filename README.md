@@ -1,4 +1,4 @@
-### **<q>Good, better, best. Never let it rest. 'Til your good is better and your better is best. </q>** -<em>St. Jerome</em>
+### **<q>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</q>** -<em>T.S. Eliot</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
