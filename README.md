@@ -1,4 +1,4 @@
-### **<q>Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away.</q>** -<em>John Lennon</em>
+### **<q>Life is the dancer and you are the dance.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
