@@ -1,4 +1,4 @@
-### **<q>The power to make and break habits and learning how to do that is really important.</q>** -<em>Naval Ravikant</em>
+### **<q>Everything has its beauty, but not everyone sees it. </q>** -<em>Confucius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
