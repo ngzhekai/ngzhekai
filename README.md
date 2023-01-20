@@ -1,4 +1,4 @@
-### **<q>They say love is the best investment; the more you give, the more you get in return.</q>** -<em>Audrey Hepburn</em>
+### **<q>People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind.</q>** -<em>Eckhart Tolle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
