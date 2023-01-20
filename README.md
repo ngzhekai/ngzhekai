@@ -1,4 +1,4 @@
-### **<q>Success does not consist in never making mistakes but in never making the same one a second time.</q>** -<em>George Bernard Shaw</em>
+### **<q>The power to make and break habits and learning how to do that is really important.</q>** -<em>Naval Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
