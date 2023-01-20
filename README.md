@@ -1,4 +1,4 @@
-### **<q>It is the power of thought that gives man power over nature.</q>** -<em>Hans Christian Andersen</em>
+### **<q>They say love is the best investment; the more you give, the more you get in return.</q>** -<em>Audrey Hepburn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
