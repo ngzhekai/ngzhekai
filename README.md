@@ -1,4 +1,4 @@
-### **<q>The significance of life is living.</q>** -<em>Jiddu Krishnamurti</em>
+### **<q>My sun sets to rise again.</q>** -<em>Robert Browning</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
