@@ -1,4 +1,4 @@
-### **<q>In order to control myself I must first accept myself by going with and not against my nature.</q>** -<em>Bruce Lee</em>
+### **<q>You only live once, but if you do it right, once is enough.</q>** -<em>Mae West</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
