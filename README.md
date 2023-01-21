@@ -1,4 +1,4 @@
-### **<q>In the long run, the sharpest weapon of all is a kind and gentle spirit.</q>** -<em>Anne Frank</em>
+### **<q>We tend to live up to our expectations.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
