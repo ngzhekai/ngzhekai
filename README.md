@@ -1,4 +1,4 @@
-### **<q>You only live once, but if you do it right, once is enough.</q>** -<em>Mae West</em>
+### **<q>Instead of worrying about what you cannot control, shift your energy to what you can create.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
