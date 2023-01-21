@@ -1,4 +1,4 @@
-### **<q>Don't wait for the right opportunity: create it.</q>** -<em>George Bernard Shaw</em>
+### **<q>In the long run, the sharpest weapon of all is a kind and gentle spirit.</q>** -<em>Anne Frank</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
