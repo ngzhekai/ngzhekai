@@ -1,4 +1,4 @@
-### **<q>Instead of worrying about what you cannot control, shift your energy to what you can create.</q>** -<em>Roy T. Bennett</em>
+### **<q>Don't wait for the right opportunity: create it.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
