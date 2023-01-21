@@ -1,4 +1,4 @@
-### **<q>You are the average of the five people you spend the most time with.</q>** -<em>Jim Rohn</em>
+### **<q>We tend to live up to our expectations.</q>** -<em>Earl Nightingale</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
