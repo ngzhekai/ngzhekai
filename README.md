@@ -1,4 +1,4 @@
-### **<q>We tend to live up to our expectations.</q>** -<em>Earl Nightingale</em>
+### **<q>As you think, you travel, and as you love, you attract.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
