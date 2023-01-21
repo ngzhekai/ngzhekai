@@ -1,4 +1,4 @@
-### **<q>We tend to live up to our expectations.</q>** -<em>Earl Nightingale</em>
+### **<q>In order to control myself I must first accept myself by going with and not against my nature.</q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
