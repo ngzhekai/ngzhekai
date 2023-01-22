@@ -1,4 +1,4 @@
-### **<q>There is an essence of when you are fearless, you become more creative.</q>** -<em>Gurbaksh Chahal</em>
+### **<q>If you're waiting until you feel talented enough to make it, you'll never make it.</q>** -<em>Criss Jami</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
