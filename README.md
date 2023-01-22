@@ -1,4 +1,4 @@
-### **<q>If you're waiting until you feel talented enough to make it, you'll never make it.</q>** -<em>Criss Jami</em>
+### **<q>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</q>** -<em>Woody Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
