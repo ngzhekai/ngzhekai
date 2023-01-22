@@ -1,4 +1,4 @@
-### **<q>You may think I'm small, but I have a universe inside my mind.</q>** -<em>Yoko Ono</em>
+### **<q>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</q>** -<em>Deepak Chopra</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
