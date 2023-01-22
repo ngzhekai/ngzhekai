@@ -1,4 +1,4 @@
-### **<q>Be - don't try to become </q>** -<em>Osho</em>
+### **<q>There is an essence of when you are fearless, you become more creative.</q>** -<em>Gurbaksh Chahal</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
