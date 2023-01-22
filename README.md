@@ -1,4 +1,4 @@
-### **<q>To succeed takes more than the desire to win. It also takes the acceptance that we could fail.</q>** -<em>Simon Sinek</em>
+### **<q>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </q>** -<em>Herodotus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
