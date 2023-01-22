@@ -1,4 +1,4 @@
-### **<q>Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?</q>** -<em>Eckhart Tolle</em>
+### **<q>The future is not a gift. It is an achievement.</q>** -<em>Robert F. Kennedy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
