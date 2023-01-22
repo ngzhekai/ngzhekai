@@ -1,4 +1,4 @@
-### **<q>You are your best thing.</q>** -<em>Toni Morrison</em>
+### **<q>Be - don't try to become </q>** -<em>Osho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
