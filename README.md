@@ -1,4 +1,4 @@
-### **<q>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </q>** -<em>Herodotus</em>
+### **<q>Everything flows, nothing stands still.</q>** -<em>Heraclitus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
