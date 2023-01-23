@@ -1,4 +1,4 @@
-### **<q>We can know only that we know nothing. And that is the highest degree of human wisdom.</q>** -<em>Leo Tolstoy</em>
+### **<q>He who has overcome his fears will truly be free.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
