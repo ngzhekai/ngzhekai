@@ -1,4 +1,4 @@
-### **<q>Live and act within the limit of your knowledge and keep expanding it to the limit of your life.</q>** -<em>Ayn Rand</em>
+### **<q>Believe and you're halfway there.</q>** -<em>Harry S. Truman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
