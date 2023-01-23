@@ -1,4 +1,4 @@
-### **<q>The only thing worse than being blind is having sight but no vision.</q>** -<em>Helen Keller</em>
+### **<q>We can know only that we know nothing. And that is the highest degree of human wisdom.</q>** -<em>Leo Tolstoy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
