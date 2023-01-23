@@ -1,4 +1,4 @@
-### **<q>Either you run the day or the day runs you.</q>** -<em>Jim Rohn</em>
+### **<q>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</q>** -<em>Barack Obama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
