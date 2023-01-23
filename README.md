@@ -1,4 +1,4 @@
-### **<q>To live is the rarest thing in the world. Most people exist, that is all. </q>** -<em>Oscar Wilde</em>
+### **<q>The only thing worse than being blind is having sight but no vision.</q>** -<em>Helen Keller</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
