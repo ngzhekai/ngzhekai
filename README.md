@@ -1,4 +1,4 @@
-### **<q>Few things are more deceptive than memories.</q>** -<em>Carlos Ruiz Zafon</em>
+### **<q>Either you run the day or the day runs you.</q>** -<em>Jim Rohn</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
