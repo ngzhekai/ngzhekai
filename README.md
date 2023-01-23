@@ -1,4 +1,4 @@
-### **<q>The single most powerful asset we all have is our mind.</q>** -<em>Robert Kiyosaki</em>
+### **<q>Try to be a rainbow in someone's cloud.</q>** -<em>Maya Angelou</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
