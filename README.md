@@ -1,4 +1,4 @@
-### **<q>Everybody's life is either rewarding or an example.</q>** -<em>Tony Robbins</em>
+### **<q>Everyone thinks of changing the world, but no one thinks of changing himself.</q>** -<em>Leo Tolstoy</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
