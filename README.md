@@ -1,4 +1,4 @@
-### **<q>Don't worry about being successful, but work toward being significant and the success will naturally follow.</q>** -<em>Oprah Winfrey</em>
+### **<q>If you have to be in a soap opera try not to be cast in the worst role.</q>** -<em>Judy Garland</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
