@@ -1,4 +1,4 @@
-### **<q>If you have to be in a soap opera try not to be cast in the worst role.</q>** -<em>Judy Garland</em>
+### **<q>Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.</q>** -<em>Alfred Adler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
