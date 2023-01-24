@@ -1,4 +1,4 @@
-### **<q>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</q>** -<em>Samuel Butler</em>
+### **<q>I like the dreams of the future better than the history of the past.</q>** -<em>Thomas Jefferson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
