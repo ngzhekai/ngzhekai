@@ -1,4 +1,4 @@
-### **<q>To be of use to the world is the only way to be happy.</q>** -<em>Hans Christian Andersen</em>
+### **<q>Big people don't make people feel small.</q>** -<em>Robin Sharma</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
