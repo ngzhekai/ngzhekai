@@ -1,4 +1,4 @@
-### **<q>Everyone thinks of changing the world, but no one thinks of changing himself.</q>** -<em>Leo Tolstoy</em>
+### **<q>To be of use to the world is the only way to be happy.</q>** -<em>Hans Christian Andersen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
