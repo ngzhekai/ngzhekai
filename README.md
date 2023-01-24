@@ -1,4 +1,4 @@
-### **<q>There is a big difference between being centered and being self-centered.</q>** -<em>Lolly Daskal</em>
+### **<q>A day wasted on others is not wasted on one's self.</q>** -<em>Charles Dickens</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
