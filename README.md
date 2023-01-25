@@ -1,4 +1,4 @@
-### **<q>Always be a first rate version of yourself and not a second rate version of someone else.</q>** -<em>Judy Garland</em>
+### **<q>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</q>** -<em>Abraham Lincoln</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
