@@ -1,4 +1,4 @@
-### **<q>Anger begins with folly, and ends with repentance. </q>** -<em>Beverly Sills</em>
+### **<q>If you try, you might get exactly what you want. If you don't, you don't.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
