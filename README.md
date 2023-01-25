@@ -1,4 +1,4 @@
-### **<q>Older men declare war. But it is youth that must fight and die.</q>** -<em>Herbert Hoover</em>
+### **<q>Until you change how you get things done, you'll never know what works best.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
