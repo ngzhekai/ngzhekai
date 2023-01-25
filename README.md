@@ -1,4 +1,4 @@
-### **<q>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</q>** -<em>Josh Waitzkin</em>
+### **<q>Art, like morality, consists of drawing the line somewhere.</q>** -<em>Gilbert Chesterton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
