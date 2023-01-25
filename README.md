@@ -1,4 +1,4 @@
-### **<q>A little impatience will spoil great plans.</q>** -<em>Chinese Proverb</em>
+### **<q>Older men declare war. But it is youth that must fight and die.</q>** -<em>Herbert Hoover</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
