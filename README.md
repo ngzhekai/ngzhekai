@@ -1,4 +1,4 @@
-### **<q>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</q>** -<em>Abraham Lincoln</em>
+### **<q>Better a diamond with a flaw than a pebble without one.</q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
