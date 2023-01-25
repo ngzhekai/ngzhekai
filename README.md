@@ -1,4 +1,4 @@
-### **<q>If you try, you might get exactly what you want. If you don't, you don't.</q>** -<em>Unknown</em>
+### **<q>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</q>** -<em>Josh Waitzkin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
