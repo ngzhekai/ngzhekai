@@ -1,4 +1,4 @@
-### **<q>If I can stop one heart from breaking, I shall not live in vain.</q>** -<em>Emily Dickinson</em>
+### **<q>Anger begins with folly, and ends with repentance. </q>** -<em>Beverly Sills</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
