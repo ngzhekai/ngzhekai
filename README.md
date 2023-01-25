@@ -1,4 +1,4 @@
-### **<q>Big people don't make people feel small.</q>** -<em>Robin Sharma</em>
+### **<q>A little impatience will spoil great plans.</q>** -<em>Chinese Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
