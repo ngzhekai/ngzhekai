@@ -1,4 +1,4 @@
-### **<q>Art, like morality, consists of drawing the line somewhere.</q>** -<em>Gilbert Chesterton</em>
+### **<q>Every saint has a past, and every sinner has a future.</q>** -<em>Oscar Wilde</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
