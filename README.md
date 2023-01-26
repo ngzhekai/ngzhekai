@@ -1,4 +1,4 @@
-### **<q>I must also have a dark side if I am to be whole.</q>** -<em>Carl Jung</em>
+### **<q>Once you learn to quit, it becomes a habit.</q>** -<em>Vince Lombardi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
