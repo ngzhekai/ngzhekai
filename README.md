@@ -1,4 +1,4 @@
-### **<q>Not why the addiction but why the pain.</q>** -<em>Gabor Mate</em>
+### **<q>Without the rain there would be no rainbow.</q>** -<em>Gilbert Chesterton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
