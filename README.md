@@ -1,4 +1,4 @@
-### **<q>The Truth is realized in an instant; the Act is practiced step by step.</q>** -<em>Seungsahn</em>
+### **<q>Common sense is not so common. </q>** -<em>Voltaire</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
