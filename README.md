@@ -1,4 +1,4 @@
-### **<q>Death walks faster than the wind and never returns what he has taken.</q>** -<em>Hans Christian Andersen</em>
+### **<q>The dream is free, but the hustle is sold separately.</q>** -<em>Steve Harvey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
