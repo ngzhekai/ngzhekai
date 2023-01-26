@@ -1,4 +1,4 @@
-### **<q>The harder you work, the harder it is to surrender.</q>** -<em>Vince Lombardi</em>
+### **<q>Nature is pleased with simplicity. And nature is no dummy.</q>** -<em>Isaac Newton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
