@@ -1,4 +1,4 @@
-### **<q>Nature is pleased with simplicity. And nature is no dummy.</q>** -<em>Isaac Newton</em>
+### **<q>Death walks faster than the wind and never returns what he has taken.</q>** -<em>Hans Christian Andersen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
