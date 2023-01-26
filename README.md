@@ -1,4 +1,4 @@
-### **<q>Better a diamond with a flaw than a pebble without one.</q>** -<em>Chinese Proverb</em>
+### **<q>I must also have a dark side if I am to be whole.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
