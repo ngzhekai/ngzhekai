@@ -1,4 +1,4 @@
-### **<q>Without the rain there would be no rainbow.</q>** -<em>Gilbert Chesterton</em>
+### **<q>In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
