@@ -1,4 +1,4 @@
-### **<q>Once you learn to quit, it becomes a habit.</q>** -<em>Vince Lombardi</em>
+### **<q>Not why the addiction but why the pain.</q>** -<em>Gabor Mate</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
