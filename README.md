@@ -1,4 +1,4 @@
-### **<q>The dream is free, but the hustle is sold separately.</q>** -<em>Steve Harvey</em>
+### **<q>When you have a dream, you've got to grab it and never let go.</q>** -<em>Carol Burnett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
