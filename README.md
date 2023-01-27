@@ -1,4 +1,4 @@
-### **<q>We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences </q>** -<em>Nikola Tesla</em>
+### **<q>Difficult roads often lead to beautiful destinations.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
