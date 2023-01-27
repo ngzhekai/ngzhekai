@@ -1,4 +1,4 @@
-### **<q>A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.</q>** -<em>James Allen</em>
+### **<q>Be strong. Be confident. Be the star of your own life.</q>** -<em>Estee Lauder</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
