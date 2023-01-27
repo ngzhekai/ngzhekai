@@ -1,4 +1,4 @@
-### **<q>I learned the value of hard work by working hard. </q>** -<em>Margaret Mead</em>
+### **<q>Far more crucial than what we know or do not know is what we do not want to know.</q>** -<em>Eric Hoffer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
