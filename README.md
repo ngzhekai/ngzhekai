@@ -1,4 +1,4 @@
-### **<q>Be strong. Be confident. Be the star of your own life.</q>** -<em>Estee Lauder</em>
+### **<q>The quieter you become, the more you are able to hear.</q>** -<em>Rumi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
