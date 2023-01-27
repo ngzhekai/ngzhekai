@@ -1,4 +1,4 @@
-### **<q>Difficult roads often lead to beautiful destinations.</q>** -<em>Unknown</em>
+### **<q>I learned the value of hard work by working hard. </q>** -<em>Margaret Mead</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
