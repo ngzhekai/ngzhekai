@@ -1,4 +1,4 @@
-### **<q>Wise men speak because they have something to say; Fools because they have to say something.</q>** -<em>Plato</em>
+### **<q>Most people get ahead during the time that others waste.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
