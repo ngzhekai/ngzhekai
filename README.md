@@ -1,4 +1,4 @@
-### **<q>The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts. Let it go. It is not serving you.</q>** -<em>Sonia Ricotti</em>
+### **<q>Silence is a source of great strength.</q>** -<em>Lao Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
