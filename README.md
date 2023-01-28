@@ -1,4 +1,4 @@
-### **<q>Silence is a source of great strength.</q>** -<em>Lao Tzu</em>
+### **<q>As a matter of fact is an expression that precedes many an expression that isn't.</q>** -<em>Laurence J. Peter</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
