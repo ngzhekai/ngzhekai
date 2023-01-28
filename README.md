@@ -1,4 +1,4 @@
-### **<q>Most people get ahead during the time that others waste.</q>** -<em>Henry Ford</em>
+### **<q>We never know the love of a parent till we become parents ourselves.</q>** -<em>Henry Ward Beecher</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
