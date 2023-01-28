@@ -1,4 +1,4 @@
-### **<q>We become brave by doing brave acts.</q>** -<em>Aristotle</em>
+### **<q>What we dwell on is who we become.</q>** -<em>Oprah Winfrey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
