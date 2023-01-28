@@ -1,4 +1,4 @@
-### **<q>What we dwell on is who we become.</q>** -<em>Oprah Winfrey</em>
+### **<q>Choose to be optimistic, it feels better.</q>** -<em>Dalai Lama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
