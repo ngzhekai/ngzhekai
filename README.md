@@ -1,4 +1,4 @@
-### **<q>If what you're doing is not your passion, you have nothing to lose.</q>** -<em>Celestine Chua</em>
+### **<q>Turn your face to the sun, as flowers know how to do.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
