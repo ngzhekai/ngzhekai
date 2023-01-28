@@ -1,4 +1,4 @@
-### **<q>We never know the love of a parent till we become parents ourselves.</q>** -<em>Henry Ward Beecher</em>
+### **<q>We become brave by doing brave acts.</q>** -<em>Aristotle</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
