@@ -1,4 +1,4 @@
-### **<q>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</q>** -<em>Robert Greene</em>
+### **<q>Loyalty and friendship are the most precious possessions a man can have.</q>** -<em>Herbert Hoover</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
