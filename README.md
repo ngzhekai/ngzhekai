@@ -1,4 +1,4 @@
-### **<q>The people who succeed are irrationally passionate about something.</q>** -<em>Naval Ravikant</em>
+### **<q>Do something worth remembering.</q>** -<em>Elvis Presley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
