@@ -1,4 +1,4 @@
-### **<q>You live by what you thrill to, and there's the end of it.</q>** -<em>D. H. Lawrence</em>
+### **<q>If your happiness depends on what somebody else does, I guess you do have a problem.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
