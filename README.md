@@ -1,4 +1,4 @@
-### **<q>Talk to someone about themselves and they'll listen for hours.</q>** -<em>Dale Carnegie</em>
+### **<q>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </q>** -<em>George Washington</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
