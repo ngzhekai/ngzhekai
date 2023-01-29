@@ -1,4 +1,4 @@
-### **<q>A man with outward courage dares to die: a man with inner courage dares to live.</q>** -<em>Lao Tzu</em>
+### **<q>You live by what you thrill to, and there's the end of it.</q>** -<em>D. H. Lawrence</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
