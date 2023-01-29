@@ -1,4 +1,4 @@
-### **<q>If your happiness depends on what somebody else does, I guess you do have a problem.</q>** -<em>Richard Bach</em>
+### **<q>Be approximately right rather than exactly wrong.</q>** -<em>John Tukey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
