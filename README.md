@@ -1,4 +1,4 @@
-### **<q>Loyalty and friendship are the most precious possessions a man can have.</q>** -<em>Herbert Hoover</em>
+### **<q>The people who succeed are irrationally passionate about something.</q>** -<em>Naval Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
