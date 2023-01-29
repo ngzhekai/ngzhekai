@@ -1,4 +1,4 @@
-### **<q>Knowing your own darkness is the best method for dealing with the darknesses of other people.</q>** -<em>Carl Jung</em>
+### **<q>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</q>** -<em>Robert Greene</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
