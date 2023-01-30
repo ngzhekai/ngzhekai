@@ -1,4 +1,4 @@
-### **<q>Dreams are for dreamers. Goals are for achievers.</q>** -<em>Arnold Schwarzenegger</em>
+### **<q>Do not use life to give life to death. Do not use death to bring death to life.</q>** -<em>Zhuangzi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
