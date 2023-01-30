@@ -1,4 +1,4 @@
-### **<q>One small positive thought can change your whole day.</q>** -<em>Zig Ziglar</em>
+### **<q>Give a girl the right shoes, and she can conquer the world.</q>** -<em>Bette Midler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
