@@ -1,4 +1,4 @@
-### **<q>There is no such thing as a great talent without great willpower.</q>** -<em>Honore de Balzac</em>
+### **<q>Emancipate yourself from mental slavery, none but ourselves can free our mind.</q>** -<em>Bob Marley</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
