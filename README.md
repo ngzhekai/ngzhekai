@@ -1,4 +1,4 @@
-### **<q>Do not use life to give life to death. Do not use death to bring death to life.</q>** -<em>Zhuangzi</em>
+### **<q>You are what you believe yourself to be.</q>** -<em>Paulo Coelho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
