@@ -1,4 +1,4 @@
-### **<q>The grass is greener where you water it.</q>** -<em>Neil Barringham</em>
+### **<q>To a mind that is still, the entire universe surrenders.</q>** -<em>Zhuangzi</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
