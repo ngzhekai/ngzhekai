@@ -1,4 +1,4 @@
-### **<q>Give a girl the right shoes, and she can conquer the world.</q>** -<em>Bette Midler</em>
+### **<q>Words, once they are printed, have a life of their own.</q>** -<em>Carol Burnett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
