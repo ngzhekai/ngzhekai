@@ -1,4 +1,4 @@
-### **<q>Be approximately right rather than exactly wrong.</q>** -<em>John Tukey</em>
+### **<q>One small positive thought can change your whole day.</q>** -<em>Zig Ziglar</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
