@@ -1,4 +1,4 @@
-### **<q>The secret of happiness is not in doing what you like but in liking what you have to do.</q>** -<em>Sathya Sai Baba</em>
+### **<q>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. </q>** -<em>Martin Luther</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
