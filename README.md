@@ -1,4 +1,4 @@
-### **<q>A mistake is only an error, it becomes a mistake when you fail to correct it.</q>** -<em>John Lennon</em>
+### **<q>We lie the loudest when we lie to ourselves.</q>** -<em>Eric Hoffer</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
