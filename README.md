@@ -1,4 +1,4 @@
-### **<q>Adventure is not outside man; it is within.</q>** -<em>George Eliot</em>
+### **<q>Whatever is begun in anger, ends in shame.</q>** -<em>Benjamin Franklin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
