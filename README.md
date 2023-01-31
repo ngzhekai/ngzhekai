@@ -1,4 +1,4 @@
-### **<q>We lie the loudest when we lie to ourselves.</q>** -<em>Eric Hoffer</em>
+### **<q>If we all did the things we are capable of doing, we would literally astound ourselves.</q>** -<em>Thomas Edison</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
