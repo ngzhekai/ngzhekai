@@ -1,4 +1,4 @@
-### **<q>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</q>** -<em>Charles Darwin</em>
+### **<q>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</q>** -<em>Ronald Reagan</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
