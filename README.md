@@ -1,4 +1,4 @@
-### **<q>Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.</q>** -<em>Ronald Reagan</em>
+### **<q>The secret of happiness is not in doing what you like but in liking what you have to do.</q>** -<em>Sathya Sai Baba</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
