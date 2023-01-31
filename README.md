@@ -1,4 +1,4 @@
-### **<q>A goal is a dream with a deadline.</q>** -<em>Napoleon Hill</em>
+### **<q>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</q>** -<em>Charles Darwin</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
