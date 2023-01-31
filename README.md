@@ -1,4 +1,4 @@
-### **<q>Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.</q>** -<em>John Wooden</em>
+### **<q>A goal is a dream with a deadline.</q>** -<em>Napoleon Hill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
