@@ -1,4 +1,4 @@
-### **<q>You are what you believe yourself to be.</q>** -<em>Paulo Coelho</em>
+### **<q>A mistake is only an error, it becomes a mistake when you fail to correct it.</q>** -<em>John Lennon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
