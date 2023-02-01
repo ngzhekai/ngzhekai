@@ -1,4 +1,4 @@
-### **<q>Deliberately seek the company of people who influence you to think and act on building the life you desire.</q>** -<em>Napoleon Hill</em>
+### **<q>A man sees in the world what he carries in his heart.</q>** -<em>Johann Wolfgang von Goethe</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
