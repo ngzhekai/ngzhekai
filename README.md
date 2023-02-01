@@ -1,4 +1,4 @@
-### **<q>A man sees in the world what he carries in his heart.</q>** -<em>Johann Wolfgang von Goethe</em>
+### **<q>Growth is in a series of mistakes. That's the only way you learn.</q>** -<em>Steve Harvey</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
