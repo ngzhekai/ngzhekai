@@ -1,4 +1,4 @@
-### **<q>The time is now, the place is here. Stay in the present.</q>** -<em>Dan Millman</em>
+### **<q>Deliberately seek the company of people who influence you to think and act on building the life you desire.</q>** -<em>Napoleon Hill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
