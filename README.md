@@ -1,4 +1,4 @@
-### **<q>The ones who are crazy enough to think they can change the world, are the ones that do.</q>** -<em>Steve Jobs</em>
+### **<q>Help others achieve their dreams and you will achieve yours.</q>** -<em>Les Brown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
