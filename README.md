@@ -1,4 +1,4 @@
-### **<q>Whatever is begun in anger, ends in shame.</q>** -<em>Benjamin Franklin</em>
+### **<q>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
