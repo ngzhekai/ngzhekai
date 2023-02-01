@@ -1,4 +1,4 @@
-### **<q>Growth is in a series of mistakes. That's the only way you learn.</q>** -<em>Steve Harvey</em>
+### **<q>The ones who are crazy enough to think they can change the world, are the ones that do.</q>** -<em>Steve Jobs</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
