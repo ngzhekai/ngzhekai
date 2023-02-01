@@ -1,4 +1,4 @@
-### **<q>Most people spend more time and energy going around problems than in trying to solve them. </q>** -<em>Henry Ford</em>
+### **<q>The time is now, the place is here. Stay in the present.</q>** -<em>Dan Millman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
