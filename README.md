@@ -1,4 +1,4 @@
-### **<q>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</q>** -<em>Celestine Chua</em>
+### **<q>Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.</q>** -<em>Margaret Mead</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
