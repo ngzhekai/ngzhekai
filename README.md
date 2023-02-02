@@ -1,4 +1,4 @@
-### **<q>If you try, you might get exactly what you want. If you don't, you don't.</q>** -<em>Unknown</em>
+### **<q>No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
