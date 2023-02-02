@@ -1,4 +1,4 @@
-### **<q>All power is from within and therefore under our control.</q>** -<em>Robert Collier</em>
+### **<q>Re-examine all that you have been told... dismiss that which insults your soul.</q>** -<em>Walt Whitman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
