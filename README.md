@@ -1,4 +1,4 @@
-### **<q>Re-examine all that you have been told... dismiss that which insults your soul.</q>** -<em>Walt Whitman</em>
+### **<q>Absorb what is useful, discard what is not, add what is uniquely your own.</q>** -<em>Bruce Lee</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
