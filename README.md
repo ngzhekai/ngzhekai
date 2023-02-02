@@ -1,4 +1,4 @@
-### **<q>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</q>** -<em>Steve Maraboli</em>
+### **<q>Men trust their ears less than their eyes.</q>** -<em>Herodotus</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
