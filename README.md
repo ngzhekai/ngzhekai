@@ -1,4 +1,4 @@
-### **<q>Time is a game played beautifully by children.</q>** -<em>Heraclitus</em>
+### **<q>Thoughts become things. If you see it in your mind, you will hold it in your hand.</q>** -<em>Bob Proctor</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
