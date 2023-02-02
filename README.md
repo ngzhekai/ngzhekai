@@ -1,4 +1,4 @@
-### **<q>Help others achieve their dreams and you will achieve yours.</q>** -<em>Les Brown</em>
+### **<q>I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.</q>** -<em>Steve Maraboli</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
