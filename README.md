@@ -1,4 +1,4 @@
-### **<q>Absorb what is useful, discard what is not, add what is uniquely your own.</q>** -<em>Bruce Lee</em>
+### **<q>it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.</q>** -<em>Barack Obama</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
