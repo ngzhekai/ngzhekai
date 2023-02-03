@@ -1,4 +1,4 @@
-### **<q>Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.</q>** -<em>Andrew Carnegie</em>
+### **<q>Do what is right, not what is easy, nor what is popular.</q>** -<em>Roy T. Bennett</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
