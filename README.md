@@ -1,4 +1,4 @@
-### **<q>Be true to yourself, help others, make each day your masterpiece</q>** -<em>John Wooden</em>
+### **<q>Those who attain the middle Dominate the whole.</q>** -<em>Ming-Dao Deng</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
