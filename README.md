@@ -1,4 +1,4 @@
-### **<q>You can, you should, and if you're brave enough to start, you will.</q>** -<em>Stephen King</em>
+### **<q>Today will never happen again. Don't waste it with a false start or no start at all.</q>** -<em>Og Mandino</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
