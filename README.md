@@ -1,4 +1,4 @@
-### **<q>Those who attain the middle Dominate the whole.</q>** -<em>Ming-Dao Deng</em>
+### **<q>Not all readers are leaders, but all leaders are readers.</q>** -<em>Harry S. Truman</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
