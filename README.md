@@ -1,4 +1,4 @@
-### **<q>The energy of the mind is the essence of life.</q>** -<em>Aristotle</em>
+### **<q>Be true to yourself, help others, make each day your masterpiece</q>** -<em>John Wooden</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
