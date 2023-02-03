@@ -1,4 +1,4 @@
-### **<q>Today will never happen again. Don't waste it with a false start or no start at all.</q>** -<em>Og Mandino</em>
+### **<q>A wise person should have money in their head, but not in their heart.</q>** -<em>Jonathan Swift</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
