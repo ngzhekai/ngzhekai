@@ -1,4 +1,4 @@
-### **<q>A wise person should have money in their head, but not in their heart.</q>** -<em>Jonathan Swift</em>
+### **<q>Wheresoever you go, go with all your heart.</q>** -<em>Confucius</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
