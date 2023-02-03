@@ -1,4 +1,4 @@
-### **<q>Not all readers are leaders, but all leaders are readers.</q>** -<em>Harry S. Truman</em>
+### **<q>You are the sky. Everything else - it's just the weather.</q>** -<em>Pema Chodron</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
