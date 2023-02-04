@@ -1,4 +1,4 @@
-### **<q>Sometimes you will never know the value of something, until it becomes a memory.</q>** -<em>Dr. Seuss</em>
+### **<q>To create more positive results in your life, replace 'if only' with 'next time'.</q>** -<em>Celestine Chua</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
