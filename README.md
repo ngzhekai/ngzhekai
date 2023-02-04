@@ -1,4 +1,4 @@
-### **<q>Anything becomes interesting if you look at it long enough..</q>** -<em>Gustave Flaubert</em>
+### **<q>To live is the rarest thing in the world. Most people exist, that is all. </q>** -<em>Oscar Wilde</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
