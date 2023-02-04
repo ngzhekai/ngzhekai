@@ -1,4 +1,4 @@
-### **<q>The best way out is always through.</q>** -<em>Robert Frost</em>
+### **<q>Anything becomes interesting if you look at it long enough..</q>** -<em>Gustave Flaubert</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
