@@ -1,4 +1,4 @@
-### **<q>To create more positive results in your life, replace 'if only' with 'next time'.</q>** -<em>Celestine Chua</em>
+### **<q>You're only given a little spark of madness. You mustn't lose it.</q>** -<em>Robin Williams</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
