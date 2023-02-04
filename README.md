@@ -1,4 +1,4 @@
-### **<q>Wheresoever you go, go with all your heart.</q>** -<em>Confucius</em>
+### **<q>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</q>** -<em>Naval Ravikant</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
