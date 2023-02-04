@@ -1,4 +1,4 @@
-### **<q>There are only encounters in history. There are no accidents.</q>** -<em>Pablo Picasso</em>
+### **<q>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</q>** -<em>Richard Bach</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
