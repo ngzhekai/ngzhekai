@@ -1,4 +1,4 @@
-### **<q>You're only given a little spark of madness. You mustn't lose it.</q>** -<em>Robin Williams</em>
+### **<q>Don't learn to do, but learn in doing.</q>** -<em>Samuel Butler</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
