@@ -1,4 +1,4 @@
-### **<q>Don't learn to do, but learn in doing.</q>** -<em>Samuel Butler</em>
+### **<q>The best way to understanding is a few good examples.</q>** -<em>Isaac Newton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
