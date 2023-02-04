@@ -1,4 +1,4 @@
-### **<q>To live is the rarest thing in the world. Most people exist, that is all. </q>** -<em>Oscar Wilde</em>
+### **<q>Do not be so open-minded that your brains fall out.</q>** -<em>Gilbert Chesterton</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
