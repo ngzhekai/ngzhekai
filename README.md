@@ -1,4 +1,4 @@
-### **<q>The most important thing in communication is to hear what isn't being said.</q>** -<em>Peter Drucker</em>
+### **<q>Life is like riding a bicycle. To keep your balance you must keep moving.</q>** -<em>Albert Einstein</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
