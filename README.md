@@ -1,4 +1,4 @@
-### **<q>The only reason to be alive is to enjoy it.</q>** -<em>Rita Mae Brown</em>
+### **<q>To avoid criticism, do nothing, say nothing, and be nothing.</q>** -<em>Elbert Hubbard</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
