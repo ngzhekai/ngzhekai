@@ -1,4 +1,4 @@
-### **<q>You will succeed because most people are lazy.</q>** -<em>Shahir Zag</em>
+### **<q>Turn the pain into power.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
