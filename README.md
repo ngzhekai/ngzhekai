@@ -1,4 +1,4 @@
-### **<q>Do not be so open-minded that your brains fall out.</q>** -<em>Gilbert Chesterton</em>
+### **<q>The best teacher is experience and not through someone's distorted point of view.</q>** -<em>Jack Kerouac</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
