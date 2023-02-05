@@ -1,4 +1,4 @@
-### **<q>He who cheats the earth will be cheated by the earth.</q>** -<em>Chinese Proverb</em>
+### **<q>You will succeed because most people are lazy.</q>** -<em>Shahir Zag</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
