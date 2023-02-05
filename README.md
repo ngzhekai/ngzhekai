@@ -1,4 +1,4 @@
-### **<q>Life is like riding a bicycle. To keep your balance you must keep moving.</q>** -<em>Albert Einstein</em>
+### **<q>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</q>** -<em>George Bernard Shaw</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
