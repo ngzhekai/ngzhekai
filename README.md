@@ -1,4 +1,4 @@
-### **<q>The best teacher is experience and not through someone's distorted point of view.</q>** -<em>Jack Kerouac</em>
+### **<q>There are as many opinions as there are experts.</q>** -<em>Franklin D. Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
