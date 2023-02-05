@@ -1,4 +1,4 @@
-### **<q>To avoid criticism, do nothing, say nothing, and be nothing.</q>** -<em>Elbert Hubbard</em>
+### **<q>Experience is simply the name we give our mistakes. </q>** -<em>Oscar Wilde</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
