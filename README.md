@@ -1,4 +1,4 @@
-### **<q>Fortunate are those who take the first steps.</q>** -<em>Paulo Coelho</em>
+### **<q>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</q>** -<em>Henry Ford</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
