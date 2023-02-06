@@ -1,4 +1,4 @@
-### **<q>Enlightenment is intimacy with all things.</q>** -<em>Dogen</em>
+### **<q>The shoe that fits one person pinches another; there is no recipe for living that suits all cases.</q>** -<em>Carl Jung</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
