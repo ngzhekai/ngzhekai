@@ -1,4 +1,4 @@
-### **<q>We build too many walls and not enough bridges.</q>** -<em>Isaac Newton</em>
+### **<q>It's easier to lose than to win. </q>** -<em>Wayne Gretzky</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
