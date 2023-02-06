@@ -1,4 +1,4 @@
-### **<q>Learn to sit back and observe, not everything needs a reaction.</q>** -<em>Unknown</em>
+### **<q>Fortunate are those who take the first steps.</q>** -<em>Paulo Coelho</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
