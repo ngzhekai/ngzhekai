@@ -1,4 +1,4 @@
-### **<q>Watch what you say, and whatever you say, practice it.</q>** -<em>Soyen Shaku</em>
+### **<q>Someday death will take us to another star.</q>** -<em>Vincent van Gogh</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
