@@ -1,4 +1,4 @@
-### **<q>You must be willing to do what others won't do, to have what others won't have.</q>** -<em>Les Brown</em>
+### **<q>Be brave enough to suck at something new.</q>** -<em>Unknown</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
