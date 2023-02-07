@@ -1,4 +1,4 @@
-### **<q>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</q>** -<em>Charles Spurgeon</em>
+### **<q>The man who moved the mountain was the one who began carrying away the smallest stones.</q>** -<em>Zen Proverb</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
