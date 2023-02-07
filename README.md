@@ -1,4 +1,4 @@
-### **<q>There's more to life than being a passenger.</q>** -<em>Amelia Earhart</em>
+### **<q>All life is an experiment. The more experiments you make, the better.</q>** -<em>Ralph Waldo Emerson</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
