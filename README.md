@@ -1,4 +1,4 @@
-### **<q>Be brave enough to suck at something new.</q>** -<em>Unknown</em>
+### **<q>Happiness is not a goal...it's a by-product of a life well lived.</q>** -<em>Eleanor Roosevelt</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
