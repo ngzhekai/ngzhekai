@@ -1,4 +1,4 @@
-### **<q>Happiness is not a goal...it's a by-product of a life well lived.</q>** -<em>Eleanor Roosevelt</em>
+### **<q>No matter what happens, always be yourself.</q>** -<em>Dale Carnegie</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
