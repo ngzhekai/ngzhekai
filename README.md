@@ -1,4 +1,4 @@
-### **<q>Rest and be kind, you don't have to prove anything.</q>** -<em>Jack Kerouac</em>
+### **<q>Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.</q>** -<em>Charles Spurgeon</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
