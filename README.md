@@ -1,4 +1,4 @@
-### **<q>A man is literally what he thinks.</q>** -<em>James Allen</em>
+### **<q>What the mind can conceive, it can achieve.</q>** -<em>Napoleon Hill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
