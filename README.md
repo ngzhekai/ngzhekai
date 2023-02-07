@@ -1,4 +1,4 @@
-### **<q>No matter what happens, always be yourself.</q>** -<em>Dale Carnegie</em>
+### **<q>Keep your friends close, and your enemies closer.</q>** -<em>Sun Tzu</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
