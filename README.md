@@ -1,4 +1,4 @@
-### **<q>Keep your friends close, and your enemies closer.</q>** -<em>Sun Tzu</em>
+### **<q>Rest and be kind, you don't have to prove anything.</q>** -<em>Jack Kerouac</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
