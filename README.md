@@ -1,4 +1,4 @@
-### **<q>The man who moved the mountain was the one who began carrying away the smallest stones.</q>** -<em>Zen Proverb</em>
+### **<q>A man is literally what he thinks.</q>** -<em>James Allen</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
