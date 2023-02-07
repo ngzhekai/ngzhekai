@@ -1,4 +1,4 @@
-### **<q>You have a brain and mind of your own. Use it, and reach your own decisions.</q>** -<em>Napoleon Hill</em>
+### **<q>There's more to life than being a passenger.</q>** -<em>Amelia Earhart</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
