@@ -1,4 +1,4 @@
-### **<q>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</q>** -<em>Morihei Ueshiba</em>
+### **<q>You have a brain and mind of your own. Use it, and reach your own decisions.</q>** -<em>Napoleon Hill</em>
 > The Quote above will be updated on a frequency basis of 2-3 hours~
 
 Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
