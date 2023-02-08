@@ -1,5 +1,5 @@
-### **<q>Discipline is the bridge between goals and accomplishment.</q>** -<em>Jim Rohn</em>
-> Updated on 08/02/2023 - (UTC) 02:59:33
+### **<q>The river that flows in you also flows in me.</q>** -<em>Kabir</em>
+> Updated on 08/02/2023 - (UTC) 03:04:39
 
 
 ## About Me
