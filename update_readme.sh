@@ -26,7 +26,7 @@ status_2="- 🌱 I’m currently learning **about life**"
 # status_3="- 📫 How to reach me <a href="mailto:ngzhekai@pm.me">**ngzhekai@pm.me**</a>"
 status_4="- ⚡ Fun fact :arrow_right:  **Nothing in here, yet.**"
 # url="Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)"
-stats="<div><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight\" /><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight\" /></div>"
+stats="<div><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight\" /><img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight\" /></div>"
 
 
 echo $quote > README.md
