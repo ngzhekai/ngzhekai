@@ -19,7 +19,7 @@ title="## About Me"
 output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）**"
 blank_space=""
 quote="### **<q>${quote}</q>** -<em>${author}</em>"
-note="> Updated on $dates - (UTC)$time"
+note="> Updated on $dates - (UTC) $time"
 status="### Status [自分の情報]✅"
 status_1="- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)"
 status_2="- 🌱 I’m currently learning **about life**"
@@ -42,10 +42,3 @@ echo $status_1 >> README.md
 echo $status_2 >> README.md
 echo $status_3 >> README.md
 echo $blank_space >> README.md
-
-
-
-# git config --local user.email "ngzhekai@gmail.com"
-# git config --local user.name "Ng Zhe Kai"
-# git commit -am "Updated on ($dates) - $time (UTC) Time Zone" 
-
