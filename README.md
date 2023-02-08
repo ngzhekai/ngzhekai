@@ -1,5 +1,5 @@
-### **<q>Nothing has any power over me other than that which I give it through my conscious thoughts.</q>** -<em>Tony Robbins</em>
-> Updated on 08/02/2023 - (UTC) 15:40:32
+### **<q>Make each day a new horizon.</q>** -<em>Christopher McCandless</em>
+> Updated on 08/02/2023 - (UTC) 15:41:39
 
 
 ## About Me
@@ -12,5 +12,5 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 - 🌱 I’m currently learning **about life**
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
 
