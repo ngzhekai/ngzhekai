@@ -1,5 +1,5 @@
-### **<q>If you want something new, you have to stop doing something old.</q>** -<em>Peter Drucker</em>
-> Updated on 08/02/2023 - (UTC) 03:10:50
+### **<q>Life is the art of drawing sufficient conclusions from insufficient premises.</q>** -<em>Samuel Butler</em>
+> Updated on 08/02/2023 - (UTC) 10:18:36
 
 
 ## About Me
