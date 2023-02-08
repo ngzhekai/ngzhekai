@@ -1,5 +1,5 @@
-### **<q>The river that flows in you also flows in me.</q>** -<em>Kabir</em>
-> Updated on 08/02/2023 - (UTC) 03:04:39
+### **<q>Life goes by fast. Enjoy it. Calm down. It's all funny.</q>** -<em>Joan Rivers</em>
+> Updated on 08/02/2023 - (UTC) 03:07:52
 
 
 ## About Me
