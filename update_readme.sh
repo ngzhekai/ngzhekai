@@ -16,7 +16,7 @@ time="$(date +'%T')"
 
 # Concatenate the string
 title="## About Me"
-output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）**"
+output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）"
 blank_space=""
 quote="### **<q>${quote}</q>** -<em>${author}</em>"
 note="> Updated on $dates - (UTC) $time"
