@@ -1,7 +1,6 @@
-### **<q>Walk slowly but never walk backward.</q>** -<em>Unknown</em>
-> The Quote above will be updated on a frequency basis of 2-3 hours~
+### **<q>The hardest arithmetic to master is that which enables us to count our blessings.</q>** -<em>Eric Hoffer</em>
+> The Quote above is updated on 08/02/2023 - 02:52:12 (UTC) Time Zone
 
-Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)
 
 ## About Me
 
@@ -11,5 +10,5 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）*
 
 - 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
 - 🌱 I’m currently learning **about life**
-- ⚡ Fun fact :arrow_right: **Nothing in here, yet.**
+
 
