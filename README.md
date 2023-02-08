@@ -1,5 +1,5 @@
-### **<q>The hardest arithmetic to master is that which enables us to count our blessings.</q>** -<em>Eric Hoffer</em>
-> The Quote above is updated on 08/02/2023 - 02:52:12 (UTC) Time Zone
+### **<q>The weak can never forgive. Forgiveness is the attribute of the strong.</q>** -<em>Mahatma Gandhi</em>
+> The Quote above is updated on 08/02/2023 - 02:53:52 (UTC) Time Zone
 
 
 ## About Me
