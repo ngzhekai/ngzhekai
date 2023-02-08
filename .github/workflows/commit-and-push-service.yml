@@ -23,6 +23,17 @@ jobs:
           chmod +x ./update_readme.sh
           ./update_readme.sh
           
+      - name: Get time
+        run: |
+          dates="$(date +'%d/%m/%Y')"
+          time="$(date +'%T')"
+          
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commmit -a -m "Updated on $dates - $time (UTC) Time Zone"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
