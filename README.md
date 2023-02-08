@@ -1,5 +1,5 @@
-### **<q>A single dream is more powerful than a thousand realities.</q>** -<em>J.R.R. Tolkien</em>
-> Updated on 08/02/2023 - (UTC)02:55:31
+### **<q>Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</q>** -<em>Robert Kiyosaki</em>
+> Updated on 08/02/2023 - (UTC) 02:56:24
 
 
 ## About Me
