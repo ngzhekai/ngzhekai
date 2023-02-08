@@ -1,5 +1,5 @@
-### **<q>The price of inaction is far greater than the cost of making a mistake.</q>** -<em>Meister Eckhart</em>
-> Updated on 08/02/2023 - (UTC) 15:38:56
+### **<q>Nothing has any power over me other than that which I give it through my conscious thoughts.</q>** -<em>Tony Robbins</em>
+> Updated on 08/02/2023 - (UTC) 15:40:32
 
 
 ## About Me
@@ -12,5 +12,5 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 - 🌱 I’m currently learning **about life**
 
 
-
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
 
