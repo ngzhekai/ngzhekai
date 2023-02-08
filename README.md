@@ -1,5 +1,5 @@
-### **<q>You'll see it when you believe it. </q>** -<em>Wayne Dyer</em>
-> Updated on 08/02/2023 - (UTC) 15:42:15
+### **<q>Life has no limitations except the ones you make.</q>** -<em>Les Brown</em>
+> Updated on 08/02/2023 - (UTC) 15:43:02
 
 
 ## About Me
@@ -12,5 +12,5 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 - 🌱 I’m currently learning **about life**
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
 
