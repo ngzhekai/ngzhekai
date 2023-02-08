@@ -12,5 +12,5 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 - 🌱 I’m currently learning **about life**
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="left" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight" /></div>
 
