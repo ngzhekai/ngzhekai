@@ -1,5 +1,5 @@
-### **<q>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</q>** -<em>Thomas Jefferson</em>
-> Updated on 08/02/2023 - (UTC) 15:31:55
+### **<q>The price of inaction is far greater than the cost of making a mistake.</q>** -<em>Meister Eckhart</em>
+> Updated on 08/02/2023 - (UTC) 15:38:56
 
 
 ## About Me
@@ -12,7 +12,5 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 - 🌱 I’m currently learning **about life**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight)
 
-![Gilbert's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight)
 
