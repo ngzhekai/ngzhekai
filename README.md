@@ -1,5 +1,5 @@
-### **<q>It is the power of the mind to be unconquerable.</q>** -<em>Seneca</em>
-> Updated on 08/02/2023 - (UTC) 15:17:15
+### **<q>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</q>** -<em>Thomas Jefferson</em>
+> Updated on 08/02/2023 - (UTC) 15:31:55
 
 
 ## About Me
@@ -12,7 +12,7 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 - 🌱 I’m currently learning **about life**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight)
 
-[![Gilbert's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![Gilbert's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight)
 
