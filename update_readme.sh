@@ -27,7 +27,8 @@ status_2="- 🌱 I’m currently learning **about life**"
 status_4="- ⚡ Fun fact :arrow_right:  **Nothing in here, yet.**"
 # url="Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)"
 stats="<div><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&hide_border=true\" /><img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight&hide_border=true\" /></div>"
-
+stats_1="![](https://www.codewars.com/users/Giruba/badges/large)"
+stats_2="![](https://www.gif-vif.com/media/Hackerman.gif)"
 
 echo $quote > README.md
 echo $note >> README.md
@@ -45,4 +46,8 @@ echo $status_2 >> README.md
 echo $status_3 >> README.md
 echo $blank_space >> README.md
 echo $stats >> README.md
+echo $blank_space >> README.md
+echo $stats_1 >> README.md
+echo $blank_space >> README.md
+echo $stats_2 >> README.md
 echo $blank_space >> README.md
