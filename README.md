@@ -1,5 +1,5 @@
-### **<q>The weak can never forgive. Forgiveness is the attribute of the strong.</q>** -<em>Mahatma Gandhi</em>
-> The Quote above is updated on 08/02/2023 - 02:53:52 (UTC) Time Zone
+### **<q>A single dream is more powerful than a thousand realities.</q>** -<em>J.R.R. Tolkien</em>
+> Updated on 08/02/2023 - (UTC)02:55:31
 
 
 ## About Me
