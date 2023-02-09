@@ -1,5 +1,5 @@
-### **<q>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</q>** -<em>Brian Tracy</em>
-> Updated on 09/02/2023 - (UTC) 15:33:20
+### **<q>I like the dreams of the future better than the history of the past.</q>** -<em>Thomas Jefferson</em>
+> Updated on 09/02/2023 - (UTC) 15:36:24
 
 ## About Me
 
@@ -9,6 +9,8 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 |:-----:|:-----:|
 
 ### Status [自分の情報]✅
+
+<a href="https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?rainbow=true"><source media="(prefers-color-scheme: light)" srcset="https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?rainbow=true&theme=dark"><img alt="Shows an real-time spotify now-playing widget white-theme in light mode and dark-theme in dark mode." src="https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?rainbow=true"></picture></a>
 
 
 - 🌱 I’m currently learning **about life**
