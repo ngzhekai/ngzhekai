@@ -21,19 +21,15 @@ blank_space=""
 quote="### **<q>${quote}</q>** -<em>${author}</em>"
 note="> Updated on $dates - (UTC) $time"
 status="### Status [自分の情報]✅"
-status_1="- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)"
+# status_1="- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)"
 status_2="- 🌱 I’m currently learning **about life**"
-# status_3="- 📫 How to reach me <a href="mailto:ngzhekai@pm.me">**ngzhekai@pm.me**</a>"
-status_4="- ⚡ Fun fact :arrow_right:  **Nothing in here, yet.**"
-# url="Implemented from this [Repo](https://github.com/ngzhekai/Green-Commit-Quotes)"
-stats="<div><img align=\"left\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&hide_border=true\" /><img align=\"center\" src=\"https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight&hide_border=true\" /></div>"
-stats_1="![](https://www.codewars.com/users/Giruba/badges/large)"
-stats_2="![](https://www.gif-vif.com/media/Hackerman.gif)"
+stats="| ![Most Used Languages](https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages) | ![GitHub Stats](https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=material-palenight&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics) |"
+stats_1="|:-----:|:-----:|"
+stats_2="![](https://www.codewars.com/users/Giruba/badges/large)"
+stats_3="![](https://www.gif-vif.com/media/Hackerman.gif)"
 
 echo $quote > README.md
 echo $note >> README.md
-echo $blank_space >> README.md
-# echo $url >> README.md
 echo $blank_space >> README.md
 echo $title >> README.md
 echo $blank_space >> README.md
@@ -43,11 +39,11 @@ echo $status >> README.md
 echo $blank_space >> README.md
 echo $status_1 >> README.md
 echo $status_2 >> README.md
-echo $status_3 >> README.md
 echo $blank_space >> README.md
 echo $stats >> README.md
-echo $blank_space >> README.md
 echo $stats_1 >> README.md
 echo $blank_space >> README.md
 echo $stats_2 >> README.md
+echo $blank_space >> README.md
+echo $stats_3 >> README.md
 echo $blank_space >> README.md
