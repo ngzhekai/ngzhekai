@@ -1,7 +1,9 @@
-### **<q>Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. </q>** -<em>Lao Tzu</em>
-> Updated on 09/02/2023 - (UTC) 15:59:54
 
-## About Me
+---
+### **<q>If you don't like something, change it. If you can't change it, change your attitude.</q>** -<em>Maya Angelou</em>
+> Updated on 09/02/2023 - (UTC) 16:03:26
+---
+
 
 Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 
