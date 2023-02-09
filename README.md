@@ -1,5 +1,5 @@
-### **<q>Here is the test to find whether your mission on earth is finished. If you're alive, it isn't.</q>** -<em>Richard Bach</em>
-> Updated on 08/02/2023 - (UTC) 16:34:03
+### **<q>The right thing to do and the hard thing to do are usually the same.</q>** -<em>Steve Maraboli</em>
+> Updated on 09/02/2023 - (UTC) 00:27:36
 
 
 ## About Me
