@@ -1,6 +1,5 @@
-### **<q>Guilt is perhaps the most painful companion of death.</q>** -<em>Coco Chanel</em>
-> Updated on 09/02/2023 - (UTC) 10:16:07
-
+### **<q>By perseverance the snail reached the ark.</q>** -<em>Charles Spurgeon</em>
+> Updated on 09/02/2023 - (UTC) 10:49:39
 
 ## About Me
 
@@ -8,11 +7,11 @@ Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 
 ### Status [自分の情報]✅
 
-- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)
+
 - 🌱 I’m currently learning **about life**
 
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=ngzhekai&show_icons=true&theme=material-palenight&hide_border=true" /></div>
+| ![Most Used Languages](https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages) | ![GitHub Stats](https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=material-palenight&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics) |
+|:-----:|:-----:|
 
 ![](https://www.codewars.com/users/Giruba/badges/large)
 
