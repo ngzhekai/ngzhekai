@@ -1,5 +1,5 @@
-### **<q>The right thing to do and the hard thing to do are usually the same.</q>** -<em>Steve Maraboli</em>
-> Updated on 09/02/2023 - (UTC) 00:27:36
+### **<q>Guilt is perhaps the most painful companion of death.</q>** -<em>Coco Chanel</em>
+> Updated on 09/02/2023 - (UTC) 10:16:07
 
 
 ## About Me
