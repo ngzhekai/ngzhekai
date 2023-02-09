@@ -41,6 +41,8 @@ echo $stats_1 >> README.md
 echo $blank_space >> README.md
 echo $status >> README.md
 echo $blank_space >> README.md
+echo $spotify >> README.md
+echo $blank_space >> README.md
 echo $status_1 >> README.md
 echo $status_2 >> README.md
 echo $blank_space >> README.md
