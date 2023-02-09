@@ -27,6 +27,7 @@ stats="| ![Most Used Languages](https://github-readme-stats-eniocvy92-ngzhekai.v
 stats_1="|:-----:|:-----:|"
 stats_2="![](https://www.codewars.com/users/Giruba/badges/large)"
 stats_3="![](https://www.gif-vif.com/media/Hackerman.gif)"
+spotify="<a href=\"https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl\" target=\"_blank\" rel=\"noopener noreferrer\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?rainbow=true\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?rainbow=true&theme=dark\"><img alt=\"Shows an real-time spotify now-playing widget white-theme in light mode and dark-theme in dark mode.\" src=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?rainbow=true\"></picture></a>"
 
 echo $quote > README.md
 echo $note >> README.md
@@ -35,13 +36,13 @@ echo $title >> README.md
 echo $blank_space >> README.md
 echo $output >> README.md
 echo $blank_space >> README.md
+echo $stats >> README.md
+echo $stats_1 >> README.md
+echo $blank_space >> README.md
 echo $status >> README.md
 echo $blank_space >> README.md
 echo $status_1 >> README.md
 echo $status_2 >> README.md
-echo $blank_space >> README.md
-echo $stats >> README.md
-echo $stats_1 >> README.md
 echo $blank_space >> README.md
 echo $stats_2 >> README.md
 echo $blank_space >> README.md
