@@ -34,10 +34,9 @@ echo $quote >> README.md
 echo $note >> README.md
 echo $line_space >> README.md
 echo $blank_space >> README.md
+echo $github_stats >> README.md
 echo $blank_space >> README.md
 echo $output >> README.md
-echo $blank_space >> README.md
-echo $github_stats >> README.md
 echo $blank_space >> README.md
 echo $status >> README.md
 echo $blank_space >> README.md
