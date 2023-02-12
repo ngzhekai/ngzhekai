@@ -1,12 +1,10 @@
 
 ---
-### **<q>Truth is the offspring of silence and meditation.</q>** -<em>Isaac Newton</em>
-> Updated on 12/02/2023 - (UTC) 00:31:13
+### **<q>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</q>** -<em>William Faulkner</em>
+> Updated on 12/02/2023 - (UTC) 04:02:19
 ---
 
 <table><tr><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=buefy&hide_border=true&custom_title=Most+Used+Programming+Languages"><img alt="GitHub Top Language stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=material-palenight&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"></picture></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=material-palenight&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=buefy&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><img alt="GitHub Stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=material-palenight&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"></picture></td></tr></table>
-
-Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）
 
 ### My Status [自分の情報]✅
 
