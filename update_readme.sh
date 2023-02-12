@@ -15,7 +15,7 @@ dates="$(date +'%d/%m/%Y')"
 time="$(date +'%T')"
 
 # Concatenate the string
-output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）"
+# output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）"
 line_space="---"
 blank_space=""
 quote="### **<q>${quote}</q>** -<em>${author}</em>"
@@ -36,8 +36,8 @@ echo $line_space >> README.md
 echo $blank_space >> README.md
 echo $github_stats >> README.md
 echo $blank_space >> README.md
-echo $output >> README.md
-echo $blank_space >> README.md
+# echo $output >> README.md
+# echo $blank_space >> README.md
 echo $status >> README.md
 echo $blank_space >> README.md
 echo $spotify >> README.md
