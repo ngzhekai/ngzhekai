@@ -27,9 +27,9 @@ stats_2="![](https://www.codewars.com/users/Giruba/badges/large)"
 stats_3="![](https://www.gif-vif.com/media/Hackerman.gif)"
 spotify="
 <a
-  href="https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl"
-  target="_blank"
-  rel="noopener noreferrer"
+  href='https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl'
+  target='_blank'
+  rel='noopener noreferrer'
 >
   <picture>
     <source media=\"(prefers-color-scheme: dark)\"
