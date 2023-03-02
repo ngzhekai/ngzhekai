@@ -25,28 +25,19 @@ status="### My Status [自分の情報]✅"
 # status_2="- 🌱 I’m currently learning **about life**"
 stats_2="![](https://www.codewars.com/users/Giruba/badges/large)"
 stats_3="![](https://www.gif-vif.com/media/Hackerman.gif)"
-spotify="<a
-  href=\"https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl\"
-  target=\"_blank\"
-  rel=\"noopener noreferrer\"
+spotify="
+<a
+  href="https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl"
+  target="_blank"
 >
   <picture>
-    <source
-      media=\"(prefers-color-scheme: dark)\"
-      srcset=\"
-        https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?theme=dark&spin=true
-      \"
-    />
-    <source
-      media=\"(prefers-color-scheme: light)\"
-      srcset=\"
-        https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?spin=true
-      \"
-    />
-    <img
-      alt=\"Shows an real-time spotify now-playing widget white-theme in light mode and dark-theme in dark mode.\"
-      src=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?spin=true\"
-    />
+    <source media=\"(prefers-color-scheme: dark)\"
+    srcset=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?theme=dark&spin=true\"/>
+    <source media=\"(prefers-color-scheme: light)\"
+    srcset=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?spin=true\"/>
+    <img alt=\"Shows an real-time spotify now-playing widget white-theme in
+    light mode and dark-theme in dark mode.\"
+    src=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?theme=dark&spin=true\"/>
   </picture>
 </a>
 "
