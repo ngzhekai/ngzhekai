@@ -1,7 +1,7 @@
 
 ---
-### **<q>Enthusiasm is a vital element toward the individual success of every man or woman.</q>** -<em>Conrad Hilton</em>
-> Updated on 19/03/2023 - (UTC) 00:31:01
+### **<q>Inner peace is when you realize that, in the end, nothing matters.</q>** -<em>Maxime Lagace</em>
+> Updated on 19/03/2023 - (UTC) 10:15:24
 ---
 
 <table> <tr> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&hide_border=true&custom_title=Most+Used+Programming+Languages"><img alt="GitHub Top Language stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"></picture > </td> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><img alt="GitHub Stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"></picture > </td> </tr> </table>
