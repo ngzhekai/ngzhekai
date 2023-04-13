@@ -2,8 +2,8 @@
 <table> <tr> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&hide_border=true&custom_title=Most+Used+Programming+Languages"><img alt="GitHub Top Language stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"></picture > </td> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><img alt="GitHub Stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"></picture > </td> </tr> </table>
 
 ---
-### **<q>Absorb what is useful, discard what is not, add what is uniquely your own.</q>** -<em>Bruce Lee</em>
-> Updated on 13/04/2023 - (UTC) 00:24:28
+### **<q>Only the hand that erases can write the true thing.</q>** -<em>Meister Eckhart</em>
+> Updated on 13/04/2023 - (UTC) 10:15:02
 ---
 
 ### My Status [自分の情報]✅
