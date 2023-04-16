@@ -2,8 +2,8 @@
 <table> <tr> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&hide_border=true&custom_title=Most+Used+Programming+Languages"><img alt="GitHub Top Language stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"></picture > </td> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><img alt="GitHub Stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"></picture > </td> </tr> </table>
 
 ---
-### **<q>TEAMWORK: the fuel that allows common people attain uncommon results.</q>** -<em>Andrew Carnegie</em>
-> Updated on 15/04/2023 - (UTC) 10:14:01
+### **<q>Tragedy is a tool for the living to gain wisdom, not a guide by which to live.</q>** -<em>Robert F. Kennedy</em>
+> Updated on 16/04/2023 - (UTC) 00:27:03
 ---
 
 ### My Status [自分の情報]✅
