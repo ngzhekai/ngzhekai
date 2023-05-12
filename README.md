@@ -2,8 +2,8 @@
 <table> <tr> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&hide_border=true&custom_title=Most+Used+Programming+Languages"><img alt="GitHub Top Language stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"></picture > </td> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><source media="(prefers-color-scheme: light)"srcset="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><img alt="GitHub Stats" src="https://github-readme-stats-eniocvy92-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"></picture > </td> </tr> </table>
 
 ---
-### **<q>Chop your own wood and it will warm you twice. </q>** -<em>Henry Ford</em>
-> Updated on 11/05/2023 - (UTC) 10:14:58
+### **<q>Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before.</q>** -<em>Alexander Graham Bell</em>
+> Updated on 12/05/2023 - (UTC) 00:25:34
 ---
 
 ### My Status [自分の情報]✅
