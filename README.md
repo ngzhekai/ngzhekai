@@ -2,8 +2,8 @@
 <table> <tr> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"><source media="(prefers-color-scheme: light)" srcset="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&hide_border=true&custom_title=Most+Used+Programming+Languages"><img alt="GitHub Top Language stats" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&custom_title=Most+Used+Programming+Languages"></picture > </td> <td> <picture ><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><source media="(prefers-color-scheme: light)"srcset="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"><img alt="GitHub Stats" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&hide_border=true&line_height=33&custom_title=Zhe+Kai's+GitHub+Statistics"></picture > </td> </tr> </table>
 
 ---
-### **<q>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</q>** -<em>George Bernard Shaw</em>
-> Updated on 26/06/2023 - (UTC) 00:34:33
+### **<q>Death is not sad; the sad thing is that most people don't really live at all.</q>** -<em>Dan Millman</em>
+> Updated on 26/06/2023 - (UTC) 10:17:30
 ---
 
 ### My Status [自分の情報]✅
