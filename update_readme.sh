@@ -1,37 +1,49 @@
 #!/bin/bash
+
 # ++++++++++++++++++++++++++++++++++
-#  README.md by ngzhekai
-#  Imported from Green-Commit-Quotes
-# ++++++++++++++++++++++++++++++++++ 
+
+# README.md by ngzhekai
+
+# Imported from Green-Commit-Quotes
+
+# ++++++++++++++++++++++++++++++++++
 
 source=$(curl https://zenquotes.io/api/random)
 
 # Get the Quote and Author
+
 quote=$(echo $source | jq -r .[].q)
 author=$(echo $source | jq -r .[].a)
 
 # Get the Date and Time
+
 dates="$(date +'%d/%m/%Y')"
 time="$(date +'%T')"
 
 # Concatenate the string
-# output="Howdy! 👋 I am *Gilbert Ng*（JP: ぎるばって呼んでいいよ ✌️）"
+
+# output="Howdy! 👋 I am _Gilbert Ng_（JP: ぎるばって呼んでいいよ ✌️）"
+
 line_space="---"
 blank_space=""
 quote="### **<q>${quote}</q>** -<em>${author}</em>"
 note="> Updated on $dates - (UTC) $time"
 status="### My Status [自分の情報]✅"
+
 # status_1="- 🙍‍♂️ Data Communication & Networking Student (Multimedia University Melaka)"
+
 # status_2="- 🌱 I’m currently learning **about life**"
+
 stats_2="![](https://www.codewars.com/users/Giruba/badges/large)"
 stats_3="![](https://www.gif-vif.com/media/Hackerman.gif)"
 spotify="
 <a
-  href='https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl'
-  target='_blank'
-  rel='noopener noreferrer'
->
-  <picture>
+href='https://open.spotify.com/user/flxv095c8u53mlz4cjvagkgzl'
+target='\_blank'
+rel='noopener noreferrer'
+
+>   <picture>
+
     <source media=\"(prefers-color-scheme: dark)\"
     srcset=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?theme=dark&spin=true\"/>
     <source media=\"(prefers-color-scheme: light)\"
@@ -39,6 +51,7 @@ spotify="
     <img alt=\"Shows an real-time spotify now-playing widget white-theme in
     light mode and dark-theme in dark mode.\"
     src=\"https://spotify-readme-ofldzkxst-ngzhekai.vercel.app/api?theme=dark&spin=true\"/>
+
   </picture>
 </a>
 "
@@ -70,45 +83,45 @@ github_stats="
 "
 tech_stack='
 <table>
-  <td colspan=\"5\">
-    <h3 align=\"center\">Languages and Tools</h3>
+  <td colspan="5">
+    <h3 align="center">Languages and Tools</h3>
   </td>
   <tr>
     <td>
-      <h4 align=\"center\">Frontend</h4>
+      <h4 align="center">Frontend</h4>
     </td>
     <td>
-      <h4 align=\"center\">Backend</h4>
+      <h4 align="center">Backend</h4>
     </td>
     <td>
-      <h4 align=\"center\">Framework</h4>
+      <h4 align="center">Framework</h4>
     </td>
     <td>
-      <h4 align=\"center\">Languages</h4>
+      <h4 align="center">Languages</h4>
     </td>
     <td>
-      <h4 align=\"center\">Others</h4>
+      <h4 align="center">Others</h4>
     </td>
   </tr>
   <tr>
     <td>
-      <p align=\"center\">
-        <a href=\"https://skillicons.dev\">
-          <img src=\"https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=2\" />
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=2" />
         </a>
       </p>
     </td>
     <td>
-      <p align=\"center\">
-        <a href=\"https://skillicons.dev\">
-          <img src=\"https://skillicons.dev/icons?i=postgres,mysql,sqlite,nodejs,vercel&perline=3\" />
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,nodejs,vercel&perline=3" />
         </a>
       </p>
     </td>
     <td>
-      <p align=\"center\">
-        <a href=\"https://skillicons.dev\">
-          <img src=\"https://skillicons.dev/icons?i=threejs,nextjs,fastapi&perline=3\" />
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=threejs,nextjs,fastapi&perline=3" />
         </a>
       </p>
     </td>
@@ -147,9 +160,13 @@ echo $spotify >> README.md
 echo $blank_space >> README.md
 
 # echo $output >> README.md
+
 # echo $blank_space >> README.md
 
 # echo $stats_2 >> README.md
+
 # echo $blank_space >> README.md
+
 # echo $stats_3 >> README.md
+
 # echo $blank_space >> README.md
