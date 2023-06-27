@@ -68,6 +68,67 @@ github_stats="
   </tr>
 </table>
 "
+tech_stack='
+<table>
+  <td colspan=\"5\">
+    <h3 align=\"center\">Languages and Tools</h3>
+  </td>
+  <tr>
+    <td>
+      <h4 align=\"center\">Frontend</h4>
+    </td>
+    <td>
+      <h4 align=\"center\">Backend</h4>
+    </td>
+    <td>
+      <h4 align=\"center\">Framework</h4>
+    </td>
+    <td>
+      <h4 align=\"center\">Languages</h4>
+    </td>
+    <td>
+      <h4 align=\"center\">Others</h4>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align=\"center\">
+        <a href=\"https://skillicons.dev\">
+          <img src=\"https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=2\" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align=\"center\">
+        <a href=\"https://skillicons.dev\">
+          <img src=\"https://skillicons.dev/icons?i=postgres,mysql,sqlite,nodejs,vercel&perline=3\" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align=\"center\">
+        <a href=\"https://skillicons.dev\">
+          <img src=\"https://skillicons.dev/icons?i=threejs,nextjs,fastapi&perline=3\" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,py,java,c,cpp&perline=3" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=androidstudio,linux,postman,git,neovim,githubactions&perline=3" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+'
 
 echo $blank_space > README.md
 echo $github_stats >> README.md
@@ -75,6 +136,9 @@ echo $blank_space >> README.md
 echo $line_space >> README.md
 echo $quote >> README.md
 echo $note >> README.md
+echo $line_space >> README.md
+echo $blank_space >> README.md
+echo $tech_stack >> README.md
 echo $line_space >> README.md
 echo $blank_space >> README.md
 echo $status >> README.md
