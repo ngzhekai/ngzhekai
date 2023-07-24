@@ -63,38 +63,12 @@ new_github_stats="
 </a>
 "
 
-github_stats="
-<table>
-  <tr>
-    <td>
-      <picture>
-      <source 
-        srcset=\"https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true\"
-        media=\"(prefers-color-scheme: dark)\"
-        />
-        <source 
-        srcset=\"https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true\"
-        media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\"
-        />
-        <img src=\"https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true\">
-        </picture>
-    </td>
-    <td>
-    <picture>
-      <source 
-        srcset=\"https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true\"
-        media=\"(prefers-color-scheme: dark)\"
-        />
-        <source
-        srcset=\"https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true\"
-        media=\"(prefers-color-scheme: light)\"
-        />
-        <img src=\"https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true\">
-    </picture>
-    </td>
-  </tr>
-</table>
+new_tech_stack="
+<p align=\"center\">
+  <img src=\"https://skillicons.dev/icons?i=js,py,java,c,cpp,html,css,bootstrap,react,postgres,mysql,sqlite,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions\" />
+</p>
 "
+
 tech_stack='
 <table>
   <td colspan="5">
@@ -164,5 +138,5 @@ echo $quote >>README.md
 echo $note >>README.md
 echo $line_space >>README.md
 echo $blank_space >>README.md
-echo $tech_stack >>README.md
+echo $new_tech_stack >>README.md
 echo $blank_space >>README.md
