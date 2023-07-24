@@ -54,7 +54,7 @@ status="### My Status [自分の情報]✅"
 # </a>
 # "
 
-new_github_stat="
+new_github_stats="
 <a href=\"https://github.com/ngzhekai/github-readme-stats/\">
   <img height=200 align=\"center\" src=\"https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true\" />
 </a>
