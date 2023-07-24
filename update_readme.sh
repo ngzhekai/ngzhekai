@@ -65,7 +65,7 @@ new_github_stats="
 
 new_tech_stack="
 <p align=\"center\">
-  <img src=\"https://skillicons.dev/icons?i=js,py,java,c,cpp,html,css,bootstrap,react,postgres,mysql,sqlite,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions\" />
+  <img src=\"https://skillicons.dev/icons?i=js,py,java,c,cpp,html,css,bootstrap,react,postgres,mysql,sqlite,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions&perline=11\" />
 </p>
 "
 
