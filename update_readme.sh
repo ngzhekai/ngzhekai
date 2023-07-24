@@ -42,6 +42,7 @@ echo $blank_space >README.md
 echo $new_github_stats >>README.md
 echo $blank_space >>README.md
 echo $new_quote >>README.md
+echo $blank_space >>README.md
 echo $line_space >>README.md
 echo $blank_space >>README.md
 echo $new_tech_stack >>README.md
