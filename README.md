@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Definiteness of purpose is the starting point of all achievement. </q></b> -<em>W. Clement Stone</em> </h3> <div align=center> <blockquote> Updated on 25/07/2023 - (UTC) 00:30:28</blockquote> </div>
+<h3 align=center> <b><q>No tree, it is said, can grow to heaven unless its roots reach down to hell.</q></b> -<em>Carl Jung</em> </h3> <div align=center> <blockquote> Updated on 25/07/2023 - (UTC) 10:15:23</blockquote> </div>
 
 ---
 
