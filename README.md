@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>From the errors of others, a wise man corrects his own.</q></b> -<em>Publilius Syrus</em> </h3> <div align=center> <blockquote> Updated on 01/08/2023 - (UTC) 10:14:35</blockquote> </div>
+<h3 align=center> <b><q>The way of success is the way of continuous pursuit of knowledge.</q></b> -<em>Napoleon Hill</em> </h3> <div align=center> <blockquote> Updated on 02/08/2023 - (UTC) 00:29:05</blockquote> </div>
 
 ---
 
