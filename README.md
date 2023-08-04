@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>To affect the quality of the day, that is the highest of arts.</q></b> -<em>Henry David Thoreau</em> </h3> <div align=center> <blockquote> Updated on 03/08/2023 - (UTC) 10:14:03</blockquote> </div>
+<h3 align=center> <b><q>In the end, it's not the years in your life that count. It's the life in your years.</q></b> -<em>Abraham Lincoln</em> </h3> <div align=center> <blockquote> Updated on 04/08/2023 - (UTC) 00:28:43</blockquote> </div>
 
 ---
 
