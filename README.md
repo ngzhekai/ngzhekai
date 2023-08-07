@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Your problem isn't the problem. Your reaction is the problem.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 07/08/2023 - (UTC) 00:30:00</blockquote> </div>
+<h3 align=center> <b><q>We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities.</q></b> -<em>Josh Waitzkin</em> </h3> <div align=center> <blockquote> Updated on 07/08/2023 - (UTC) 10:15:00</blockquote> </div>
 
 ---
 
