@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Your neighbor is the man who needs you.</q></b> -<em>Elbert Hubbard</em> </h3> <div align=center> <blockquote> Updated on 18/08/2023 - (UTC) 10:13:37</blockquote> </div>
+<h3 align=center> <b><q>It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 19/08/2023 - (UTC) 00:22:02</blockquote> </div>
 
 ---
 
