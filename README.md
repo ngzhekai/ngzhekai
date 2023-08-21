@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>No man is more cheated than the selfish man.</q></b> -<em>Henry Ward Beecher</em> </h3> <div align=center> <blockquote> Updated on 20/08/2023 - (UTC) 10:12:24</blockquote> </div>
+<h3 align=center> <b><q>Do not use life to give life to death. Do not use death to bring death to life.</q></b> -<em>Zhuangzi</em> </h3> <div align=center> <blockquote> Updated on 21/08/2023 - (UTC) 00:23:34</blockquote> </div>
 
 ---
 
