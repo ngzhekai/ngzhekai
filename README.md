@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</q></b> -<em>Paramahansa Yogananda</em> </h3> <div align=center> <blockquote> Updated on 23/08/2023 - (UTC) 10:13:53</blockquote> </div>
+<h3 align=center> <b><q>We have a duty to maintain the light of consciousness to make sure it continues into the future.</q></b> -<em>Elon Musk</em> </h3> <div align=center> <blockquote> Updated on 24/08/2023 - (UTC) 00:22:57</blockquote> </div>
 
 ---
 
