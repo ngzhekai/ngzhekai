@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Success is not to be pursued, it is to be attracted by the person you become.</q></b> -<em>Jim Rohn</em> </h3> <div align=center> <blockquote> Updated on 25/08/2023 - (UTC) 10:13:59</blockquote> </div>
+<h3 align=center> <b><q>Make yourself so useful to other people, that they think you are irreplaceable.</q></b> -<em>Og Mandino</em> </h3> <div align=center> <blockquote> Updated on 26/08/2023 - (UTC) 00:22:17</blockquote> </div>
 
 ---
 
