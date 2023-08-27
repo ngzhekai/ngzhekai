@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</q></b> -<em>Robert Kiyosaki</em> </h3> <div align=center> <blockquote> Updated on 26/08/2023 - (UTC) 10:13:00</blockquote> </div>
+<h3 align=center> <b><q>The purpose of life is the life of purpose.</q></b> -<em>Robin Sharma</em> </h3> <div align=center> <blockquote> Updated on 27/08/2023 - (UTC) 00:25:32</blockquote> </div>
 
 ---
 
