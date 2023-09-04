@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</q></b> -<em>Samuel Butler</em> </h3> <div align=center> <blockquote> Updated on 03/09/2023 - (UTC) 10:12:50</blockquote> </div>
+<h3 align=center> <b><q>Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.</q></b> -<em>Gary Keller</em> </h3> <div align=center> <blockquote> Updated on 04/09/2023 - (UTC) 00:24:40</blockquote> </div>
 
 ---
 
