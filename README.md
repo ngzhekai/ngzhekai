@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The more one judges, the less one loves.</q></b> -<em>Honore de Balzac</em> </h3> <div align=center> <blockquote> Updated on 06/09/2023 - (UTC) 10:14:33</blockquote> </div>
+<h3 align=center> <b><q>Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</q></b> -<em>Abraham Lincoln</em> </h3> <div align=center> <blockquote> Updated on 07/09/2023 - (UTC) 00:23:35</blockquote> </div>
 
 ---
 
