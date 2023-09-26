@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Exceptional thinkers ignore their critics and go about their business making history.</q></b> -<em>John Eliot</em> </h3> <div align=center> <blockquote> Updated on 25/09/2023 - (UTC) 10:15:12</blockquote> </div>
+<h3 align=center> <b><q>Do it with passion, or not at all.</q></b> -<em>Rosa Nouchette Carey</em> </h3> <div align=center> <blockquote> Updated on 26/09/2023 - (UTC) 00:25:07</blockquote> </div>
 
 ---
 
