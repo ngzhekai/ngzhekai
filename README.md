@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.</q></b> -<em>Steve Jobs</em> </h3> <div align=center> <blockquote> Updated on 15/10/2023 - (UTC) 10:13:15</blockquote> </div>
+<h3 align=center> <b><q>Never fear quarrels, but seek hazardous adventures.</q></b> -<em>Alexandre Dumas</em> </h3> <div align=center> <blockquote> Updated on 16/10/2023 - (UTC) 00:25:52</blockquote> </div>
 
 ---
 
