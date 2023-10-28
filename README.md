@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.</q></b> -<em>Nelson Mandela</em> </h3> <div align=center> <blockquote> Updated on 27/10/2023 - (UTC) 10:14:28</blockquote> </div>
+<h3 align=center> <b><q>Trying to define yourself is like trying to bite your own teeth.</q></b> -<em>Zen Proverb</em> </h3> <div align=center> <blockquote> Updated on 28/10/2023 - (UTC) 00:23:30</blockquote> </div>
 
 ---
 
