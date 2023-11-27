@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>What most people need to learn in life is how to love people and use things instead of using people and loving things.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 26/11/2023 - (UTC) 10:13:35</blockquote> </div>
+<h3 align=center> <b><q>Silence is the great teacher and to learn its lessons you must pay attention to it.</q></b> -<em>Deepak Chopra</em> </h3> <div align=center> <blockquote> Updated on 27/11/2023 - (UTC) 00:26:59</blockquote> </div>
 
 ---
 
