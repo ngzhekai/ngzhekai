@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</q></b> -<em>Eckhart Tolle</em> </h3> <div align=center> <blockquote> Updated on 29/11/2023 - (UTC) 10:15:57</blockquote> </div>
+<h3 align=center> <b><q>In matters of style, swim with the current; in matters of principle, stand like a rock.</q></b> -<em>Thomas Jefferson</em> </h3> <div align=center> <blockquote> Updated on 30/11/2023 - (UTC) 00:26:50</blockquote> </div>
 
 ---
 
