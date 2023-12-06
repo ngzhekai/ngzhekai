@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</q></b> -<em>Thomas Jefferson</em> </h3> <div align=center> <blockquote> Updated on 06/12/2023 - (UTC) 00:27:07</blockquote> </div>
+<h3 align=center> <b><q>One of the most difficult things is not to change society - but to change yourself.</q></b> -<em>Nelson Mandela</em> </h3> <div align=center> <blockquote> Updated on 06/12/2023 - (UTC) 10:15:37</blockquote> </div>
 
 ---
 
