@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board.</q></b> -<em>D. H. Lawrence</em> </h3> <div align=center> <blockquote> Updated on 09/12/2023 - (UTC) 00:26:31</blockquote> </div>
+<h3 align=center> <b><q>The time is always right to do what is right.</q></b> -<em>Martin Luther King, Jr.</em> </h3> <div align=center> <blockquote> Updated on 09/12/2023 - (UTC) 10:13:49</blockquote> </div>
 
 ---
 
