@@ -34,7 +34,8 @@ new_github_stats="
 "
 new_tech_stack="
 <p align=\"center\">
-  <img src=\"https://skillicons.dev/icons?i=js,ts,java,py,cpp,html,css,bootstrap,react,postgres,mysql,tailwind,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions&perline=11\" />
+  <img src=\"https://skillicons.dev/icons?i=js,ts,svelte,py,cpp,html,css,bootstrap,react,postgres,mysql,tailwind,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions&perline=11\" />
+  <img src=\"./doc/leetcode.png\" alt=\"Leetcode Badge\" width=\"60%\"/></p>
 </p>
 "
 
