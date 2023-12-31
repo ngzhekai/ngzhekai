@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you.</q></b> -<em>Criss Jami</em> </h3> <div align=center> <blockquote> Updated on 31/12/2023 - (UTC) 00:29:16</blockquote> </div>
+<h3 align=center> <b><q>From morning till night, we should never rely on a single thing.</q></b> -<em>Huang Po</em> </h3> <div align=center> <blockquote> Updated on 31/12/2023 - (UTC) 10:13:53</blockquote> </div>
 
 ---
 
