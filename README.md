@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Be strong. Be confident. Be the star of your own life.</q></b> -<em>Estee Lauder</em> </h3> <div align=center> <blockquote> Updated on 05/01/2024 - (UTC) 10:15:27</blockquote> </div>
+<h3 align=center> <b><q>We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.</q></b> -<em>Gabor Mate</em> </h3> <div align=center> <blockquote> Updated on 06/01/2024 - (UTC) 00:26:27</blockquote> </div>
 
 ---
 
