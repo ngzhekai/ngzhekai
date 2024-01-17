@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</q></b> -<em>Deepak Chopra</em> </h3> <div align=center> <blockquote> Updated on 17/01/2024 - (UTC) 00:27:29</blockquote> </div>
+<h3 align=center> <b><q>You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</q></b> -<em>Norman Vincent Peale</em> </h3> <div align=center> <blockquote> Updated on 17/01/2024 - (UTC) 10:16:06</blockquote> </div>
 
 ---
 
