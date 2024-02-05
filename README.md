@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>No one is useless in this world who lightens the burdens of another.</q></b> -<em>Charles Dickens</em> </h3> <div align=center> <blockquote> Updated on 05/02/2024 - (UTC) 00:26:57</blockquote> </div>
+<h3 align=center> <b><q>The positive thinker sees the invisible, feels the intangible, and achieves the impossible.</q></b> -<em>Winston Churchill</em> </h3> <div align=center> <blockquote> Updated on 05/02/2024 - (UTC) 10:15:12</blockquote> </div>
 
 ---
 
