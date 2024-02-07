@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Fallacies do not cease to be fallacies because they become fashions.</q></b> -<em>Gilbert Chesterton</em> </h3> <div align=center> <blockquote> Updated on 07/02/2024 - (UTC) 00:23:54</blockquote> </div>
+<h3 align=center> <b><q>To be totally at leisure for one day is to be immortal for one day. </q></b> -<em>Chinese Proverb</em> </h3> <div align=center> <blockquote> Updated on 07/02/2024 - (UTC) 10:15:03</blockquote> </div>
 
 ---
 
