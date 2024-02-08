@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The pursuit of mastery bears gifts. </q></b> -<em>Gary Keller</em> </h3> <div align=center> <blockquote> Updated on 08/02/2024 - (UTC) 00:25:33</blockquote> </div>
+<h3 align=center> <b><q>The only time you run out of chances is when you stop taking them.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 08/02/2024 - (UTC) 10:14:14</blockquote> </div>
 
 ---
 
