@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If it is not right, do not do it, if it is not true, do not say it.</q></b> -<em>Marcus Aurelius</em> </h3> <div align=center> <blockquote> Updated on 12/02/2024 - (UTC) 00:26:21</blockquote> </div>
+<h3 align=center> <b><q>Optimism is the one quality more associated with success and happiness than any other.</q></b> -<em>Brian Tracy</em> </h3> <div align=center> <blockquote> Updated on 12/02/2024 - (UTC) 10:16:51</blockquote> </div>
 
 ---
 
