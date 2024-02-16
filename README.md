@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists.</q></b> -<em>Spencer Johnson</em> </h3> <div align=center> <blockquote> Updated on 15/02/2024 - (UTC) 10:15:14</blockquote> </div>
+<h3 align=center> <b><q>Every saint has a past, and every sinner has a future.</q></b> -<em>Oscar Wilde</em> </h3> <div align=center> <blockquote> Updated on 16/02/2024 - (UTC) 00:24:58</blockquote> </div>
 
 ---
 
