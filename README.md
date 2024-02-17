@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Man must use what he has, not hope for what is not.</q></b> -<em>G.I. Gurdjieff</em> </h3> <div align=center> <blockquote> Updated on 17/02/2024 - (UTC) 00:25:03</blockquote> </div>
+<h3 align=center> <b><q>Duty makes us do things well, but love makes us do them beautifully. </q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 17/02/2024 - (UTC) 10:13:08</blockquote> </div>
 
 ---
 
