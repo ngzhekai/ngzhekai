@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Most people spend more time and energy going around problems than in trying to solve them. </q></b> -<em>Henry Ford</em> </h3> <div align=center> <blockquote> Updated on 19/02/2024 - (UTC) 00:26:43</blockquote> </div>
+<h3 align=center> <b><q>Hope is not a strategy. Luck is not a factor. Fear is not an option.</q></b> -<em>James Cameron</em> </h3> <div align=center> <blockquote> Updated on 19/02/2024 - (UTC) 10:15:16</blockquote> </div>
 
 ---
 
