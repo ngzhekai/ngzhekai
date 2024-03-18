@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.</q></b> -<em>Ming-Dao Deng</em> </h3> <div align=center> <blockquote> Updated on 18/03/2024 - (UTC) 00:27:00</blockquote> </div>
+<h3 align=center> <b><q>At the center of your being you have the answer; you know who you are and you know what you want.</q></b> -<em>Lao Tzu</em> </h3> <div align=center> <blockquote> Updated on 18/03/2024 - (UTC) 10:15:11</blockquote> </div>
 
 ---
 
