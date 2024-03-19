@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Problems remain as problems because people are busy defending them rather than finding solutions.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 19/03/2024 - (UTC) 00:25:46</blockquote> </div>
+<h3 align=center> <b><q>It is ignorance that causes most mistakes.</q></b> -<em>Harry S. Truman</em> </h3> <div align=center> <blockquote> Updated on 19/03/2024 - (UTC) 10:14:35</blockquote> </div>
 
 ---
 
