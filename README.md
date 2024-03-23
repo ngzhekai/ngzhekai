@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Those who are possessed by nothing possess everything.</q></b> -<em>Morihei Ueshiba</em> </h3> <div align=center> <blockquote> Updated on 22/03/2024 - (UTC) 10:15:17</blockquote> </div>
+<h3 align=center> <b><q>The ladder of success is best climbed by stepping on the rungs of opportunity.</q></b> -<em>Ayn Rand</em> </h3> <div align=center> <blockquote> Updated on 23/03/2024 - (UTC) 00:25:10</blockquote> </div>
 
 ---
 
