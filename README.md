@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The chief danger in life is that you may take too many precautions.</q></b> -<em>Alfred Adler</em> </h3> <div align=center> <blockquote> Updated on 02/04/2024 - (UTC) 10:15:55</blockquote> </div>
+<h3 align=center> <b><q>It is never too late to be what you might have been.</q></b> -<em>George Eliot</em> </h3> <div align=center> <blockquote> Updated on 03/04/2024 - (UTC) 00:25:50</blockquote> </div>
 
 ---
 
