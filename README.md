@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The people who succeed are irrationally passionate about something.</q></b> -<em>Naval Ravikant</em> </h3> <div align=center> <blockquote> Updated on 03/04/2024 - (UTC) 10:15:40</blockquote> </div>
+<h3 align=center> <b><q>If anything is worth doing, do it with all your heart.</q></b> -<em>Buddha</em> </h3> <div align=center> <blockquote> Updated on 04/04/2024 - (UTC) 00:27:05</blockquote> </div>
 
 ---
 
