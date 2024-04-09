@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>It's easy to be a critic, but being a doer requires effort, risk, and change. </q></b> -<em>Wayne Dyer</em> </h3> <div align=center> <blockquote> Updated on 08/04/2024 - (UTC) 10:17:28</blockquote> </div>
+<h3 align=center> <b><q>At the center of your being you have the answer; you know who you are and you know what you want.</q></b> -<em>Lao Tzu</em> </h3> <div align=center> <blockquote> Updated on 09/04/2024 - (UTC) 00:26:21</blockquote> </div>
 
 ---
 
