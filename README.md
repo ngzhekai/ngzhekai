@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you think adventure is dangerous, try routine; it is lethal.</q></b> -<em>Paulo Coelho</em> </h3> <div align=center> <blockquote> Updated on 11/04/2024 - (UTC) 10:15:44</blockquote> </div>
+<h3 align=center> <b><q>Silence is the great teacher and to learn its lessons you must pay attention to it.</q></b> -<em>Deepak Chopra</em> </h3> <div align=center> <blockquote> Updated on 12/04/2024 - (UTC) 00:26:52</blockquote> </div>
 
 ---
 
