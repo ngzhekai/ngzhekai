@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</q></b> -<em>Dr. Seuss</em> </h3> <div align=center> <blockquote> Updated on 08/05/2024 - (UTC) 00:21:54</blockquote> </div>
+<h3 align=center> <b><q>Insanity is relative. It depends on who has who locked in what cage. </q></b> -<em>Ray Bradbury</em> </h3> <div align=center> <blockquote> Updated on 08/05/2024 - (UTC) 10:16:35</blockquote> </div>
 
 ---
 
