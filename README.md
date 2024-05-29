@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you can't, you must. If you must, you can.</q></b> -<em>Tony Robbins</em> </h3> <div align=center> <blockquote> Updated on 28/05/2024 - (UTC) 10:16:17</blockquote> </div>
+<h3 align=center> <b><q>Rest in reason; move in passion.</q></b> -<em>Kahlil Gibran</em> </h3> <div align=center> <blockquote> Updated on 29/05/2024 - (UTC) 00:29:06</blockquote> </div>
 
 ---
 
