@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.</q></b> -<em>Samuel Butler</em> </h3> <div align=center> <blockquote> Updated on 10/06/2024 - (UTC) 00:29:56</blockquote> </div>
+<h3 align=center> <b><q>Men are equal; it is not birth but virtue that makes the difference.</q></b> -<em>Voltaire</em> </h3> <div align=center> <blockquote> Updated on 10/06/2024 - (UTC) 10:17:33</blockquote> </div>
 
 ---
 
