@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Your heart is full of fertile seeds, waiting to sprout.</q></b> -<em>Morihei Ueshiba</em> </h3> <div align=center> <blockquote> Updated on 16/06/2024 - (UTC) 00:31:45</blockquote> </div>
+<h3 align=center> <b><q>You can only lose something that you have, but you cannot lose something that you are.</q></b> -<em>Eckhart Tolle</em> </h3> <div align=center> <blockquote> Updated on 16/06/2024 - (UTC) 10:16:10</blockquote> </div>
 
 ---
 
