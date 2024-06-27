@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The only time you run out of chances is when you stop taking them.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 27/06/2024 - (UTC) 04:55:49</blockquote> </div>
+<h3 align=center> <b><q>The ladder of success is best climbed by stepping on the rungs of opportunity.</q></b> -<em>Ayn Rand</em> </h3> <div align=center> <blockquote> Updated on 27/06/2024 - (UTC) 10:18:21</blockquote> </div>
 
 ---
 
