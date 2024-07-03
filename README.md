@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Any game becomes important when you know and love the players.</q></b> -<em>W.P. Kinsella</em> </h3> <div align=center> <blockquote> Updated on 03/07/2024 - (UTC) 00:29:02</blockquote> </div>
+<h3 align=center> <b><q>Even though you are on the right track - you will get run over if you just sit there.</q></b> -<em>Will Rogers</em> </h3> <div align=center> <blockquote> Updated on 03/07/2024 - (UTC) 10:17:21</blockquote> </div>
 
 ---
 
