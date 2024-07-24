@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.</q></b> -<em>Betty White</em> </h3> <div align=center> <blockquote> Updated on 24/07/2024 - (UTC) 00:30:38</blockquote> </div>
+<h3 align=center> <b><q>Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments.</q></b> -<em>Ming-Dao Deng</em> </h3> <div align=center> <blockquote> Updated on 24/07/2024 - (UTC) 10:18:47</blockquote> </div>
 
 ---
 
