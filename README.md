@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Your only limitations are those you set up in your mind or permit others to set up for you.</q></b> -<em>Og Mandino</em> </h3> <div align=center> <blockquote> Updated on 04/08/2024 - (UTC) 10:15:24</blockquote> </div>
+<h3 align=center> <b><q>Shoot for the moon. Even if you miss, you'll land among the stars.</q></b> -<em>Norman Vincent Peale</em> </h3> <div align=center> <blockquote> Updated on 05/08/2024 - (UTC) 00:32:00</blockquote> </div>
 
 ---
 
