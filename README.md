@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Success is a consequence and must not be a goal.</q></b> -<em>Gustave Flaubert</em> </h3> <div align=center> <blockquote> Updated on 11/08/2024 - (UTC) 00:34:03</blockquote> </div>
+<h3 align=center> <b><q>Stop being tormented by everyone else's reaction to you.</q></b> -<em>Joyce Meyer</em> </h3> <div align=center> <blockquote> Updated on 11/08/2024 - (UTC) 10:15:54</blockquote> </div>
 
 ---
 
