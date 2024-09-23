@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Stress happens when the mind resists what is.</q></b> -<em>Dan Millman</em> </h3> <div align=center> <blockquote> Updated on 22/09/2024 - (UTC) 10:16:58</blockquote> </div>
+<h3 align=center> <b><q>Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.</q></b> -<em>Peter Drucker</em> </h3> <div align=center> <blockquote> Updated on 23/09/2024 - (UTC) 00:35:10</blockquote> </div>
 
 ---
 
