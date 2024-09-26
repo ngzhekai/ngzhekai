@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</q></b> -<em>Steve Maraboli</em> </h3> <div align=center> <blockquote> Updated on 25/09/2024 - (UTC) 10:19:46</blockquote> </div>
+<h3 align=center> <b><q>Remain calm. Be kind.</q></b> -<em>Colin Powell</em> </h3> <div align=center> <blockquote> Updated on 26/09/2024 - (UTC) 00:33:53</blockquote> </div>
 
 ---
 
