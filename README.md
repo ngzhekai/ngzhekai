@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</q></b> -<em>Pema Chodron</em> </h3> <div align=center> <blockquote> Updated on 27/09/2024 - (UTC) 10:19:04</blockquote> </div>
+<h3 align=center> <b><q>Goodness is the only investment that never fails.</q></b> -<em>Henry David Thoreau</em> </h3> <div align=center> <blockquote> Updated on 28/09/2024 - (UTC) 00:34:06</blockquote> </div>
 
 ---
 
