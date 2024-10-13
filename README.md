@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Nothing we see or hear is perfect. But right there in the imperfection is perfect reality.</q></b> -<em>Shunryu Suzuki</em> </h3> <div align=center> <blockquote> Updated on 12/10/2024 - (UTC) 10:16:45</blockquote> </div>
+<h3 align=center> <b><q>Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 13/10/2024 - (UTC) 00:37:44</blockquote> </div>
 
 ---
 
