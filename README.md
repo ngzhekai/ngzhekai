@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Once you learn to quit, it becomes a habit.</q></b> -<em>Vince Lombardi</em> </h3> <div align=center> <blockquote> Updated on 15/10/2024 - (UTC) 00:35:15</blockquote> </div>
+<h3 align=center> <b><q>The only lost cause is one we give up on before we enter the struggle.</q></b> -<em>Vaclav Havel</em> </h3> <div align=center> <blockquote> Updated on 15/10/2024 - (UTC) 10:20:21</blockquote> </div>
 
 ---
 
