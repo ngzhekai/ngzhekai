@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>When a man is penalized for honesty he learns to lie.</q></b> -<em>Criss Jami</em> </h3> <div align=center> <blockquote> Updated on 28/10/2024 - (UTC) 00:37:21</blockquote> </div>
+<h3 align=center> <b><q>The most important thing is to enjoy your life, to be happy, it's all that matters.</q></b> -<em>Audrey Hepburn</em> </h3> <div align=center> <blockquote> Updated on 28/10/2024 - (UTC) 10:20:04</blockquote> </div>
 
 ---
 
