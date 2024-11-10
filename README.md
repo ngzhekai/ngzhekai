@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>To handle yourself, use your head; to handle others, use your heart.</q></b> -<em>Eleanor Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 10/11/2024 - (UTC) 00:37:16</blockquote> </div>
+<h3 align=center> <b><q>Anger begins with folly, and ends with repentance. </q></b> -<em>Beverly Sills</em> </h3> <div align=center> <blockquote> Updated on 10/11/2024 - (UTC) 10:16:32</blockquote> </div>
 
 ---
 
