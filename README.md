@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.</q></b> -<em>Henry Ward Beecher</em> </h3> <div align=center> <blockquote> Updated on 16/11/2024 - (UTC) 00:36:18</blockquote> </div>
+<h3 align=center> <b><q>The less you talk about your shame, the more of it you have.</q></b> -<em>Mark Manson</em> </h3> <div align=center> <blockquote> Updated on 16/11/2024 - (UTC) 10:17:29</blockquote> </div>
 
 ---
 
