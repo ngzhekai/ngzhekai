@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </q></b> -<em>Denis Waitley</em> </h3> <div align=center> <blockquote> Updated on 22/11/2024 - (UTC) 10:19:40</blockquote> </div>
+<h3 align=center> <b><q>Focused, hard work is the real key to success.</q></b> -<em>John Carmack</em> </h3> <div align=center> <blockquote> Updated on 23/11/2024 - (UTC) 00:36:46</blockquote> </div>
 
 ---
 
