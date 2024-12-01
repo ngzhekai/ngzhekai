@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The greatest weariness comes from work not done.</q></b> -<em>Eric Hoffer</em> </h3> <div align=center> <blockquote> Updated on 01/12/2024 - (UTC) 00:45:37</blockquote> </div>
+<h3 align=center> <b><q>Life is a succession of lessons, which must be lived to be understood.</q></b> -<em>Ralph Waldo Emerson</em> </h3> <div align=center> <blockquote> Updated on 01/12/2024 - (UTC) 10:18:43</blockquote> </div>
 
 ---
 
