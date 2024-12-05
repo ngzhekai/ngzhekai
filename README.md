@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Sorrow is how we learn to love.</q></b> -<em>Rita Mae Brown</em> </h3> <div align=center> <blockquote> Updated on 05/12/2024 - (UTC) 00:38:30</blockquote> </div>
+<h3 align=center> <b><q>To the mind that is still, the whole universe surrenders.</q></b> -<em>Lao Tzu</em> </h3> <div align=center> <blockquote> Updated on 05/12/2024 - (UTC) 10:20:45</blockquote> </div>
 
 ---
 
