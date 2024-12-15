@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Some people dream of success, while others wake up and work hard at it.</q></b> -<em>Napoleon Hill</em> </h3> <div align=center> <blockquote> Updated on 15/12/2024 - (UTC) 00:42:19</blockquote> </div>
+<h3 align=center> <b><q>Art is the signature of civilizations. </q></b> -<em>Beverly Sills</em> </h3> <div align=center> <blockquote> Updated on 15/12/2024 - (UTC) 10:19:06</blockquote> </div>
 
 ---
 
