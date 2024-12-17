@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Remember the entrance to the sanctuary is inside you.</q></b> -<em>Rumi</em> </h3> <div align=center> <blockquote> Updated on 17/12/2024 - (UTC) 00:38:25</blockquote> </div>
+<h3 align=center> <b><q>Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</q></b> -<em>Og Mandino</em> </h3> <div align=center> <blockquote> Updated on 17/12/2024 - (UTC) 10:20:26</blockquote> </div>
 
 ---
 
