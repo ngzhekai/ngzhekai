@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Those who are possessed by nothing possess everything.</q></b> -<em>Morihei Ueshiba</em> </h3> <div align=center> <blockquote> Updated on 21/12/2024 - (UTC) 10:16:31</blockquote> </div>
+<h3 align=center> <b><q>There is a big difference between being centered and being self-centered.</q></b> -<em>Lolly Daskal</em> </h3> <div align=center> <blockquote> Updated on 22/12/2024 - (UTC) 00:41:31</blockquote> </div>
 
 ---
 
