@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Always be a first-rate version of yourself, instead of a second-rate version of someone else.</q></b> -<em>Judy Garland</em> </h3> <div align=center> <blockquote> Updated on 24/12/2024 - (UTC) 10:18:04</blockquote> </div>
+<h3 align=center> <b><q>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</q></b> -<em>Sun Tzu</em> </h3> <div align=center> <blockquote> Updated on 25/12/2024 - (UTC) 00:34:44</blockquote> </div>
 
 ---
 
