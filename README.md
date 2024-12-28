@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Study logic and math, because once you've mastered them, you won't fear any book.</q></b> -<em>Naval Ravikant</em> </h3> <div align=center> <blockquote> Updated on 27/12/2024 - (UTC) 10:17:46</blockquote> </div>
+<h3 align=center> <b><q>If ever you feel like an animal among men, be a lion.</q></b> -<em>Criss Jami</em> </h3> <div align=center> <blockquote> Updated on 28/12/2024 - (UTC) 00:37:56</blockquote> </div>
 
 ---
 
