@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.</q></b> -<em>Carlos Ruiz Zafon</em> </h3> <div align=center> <blockquote> Updated on 08/01/2025 - (UTC) 10:19:09</blockquote> </div>
+<h3 align=center> <b><q>A real friend is one who walks in when the rest of the world walks out.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 09/01/2025 - (UTC) 00:35:42</blockquote> </div>
 
 ---
 
