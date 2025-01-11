@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Loyalty and friendship are the most precious possessions a man can have.</q></b> -<em>Herbert Hoover</em> </h3> <div align=center> <blockquote> Updated on 10/01/2025 - (UTC) 10:19:13</blockquote> </div>
+<h3 align=center> <b><q>Give more than you think you can, trusting that you are richer than you think.</q></b> -<em>Jon Kabat-Zinn</em> </h3> <div align=center> <blockquote> Updated on 11/01/2025 - (UTC) 00:35:34</blockquote> </div>
 
 ---
 
