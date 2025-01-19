@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The key to success is action.</q></b> -<em>Brian Tracy</em> </h3> <div align=center> <blockquote> Updated on 18/01/2025 - (UTC) 10:16:24</blockquote> </div>
+<h3 align=center> <b><q>Among the things you can give and still keep are your word, a smile, and a grateful heart.</q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 19/01/2025 - (UTC) 00:37:31</blockquote> </div>
 
 ---
 
