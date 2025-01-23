@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Excellence is not a skill. It is an attitude. </q></b> -<em>Ralph Marston</em> </h3> <div align=center> <blockquote> Updated on 22/01/2025 - (UTC) 10:16:33</blockquote> </div>
+<h3 align=center> <b><q>When you know what you want, and want it bad enough, you will find a way to get it.</q></b> -<em>Jim Rohn</em> </h3> <div align=center> <blockquote> Updated on 23/01/2025 - (UTC) 00:34:46</blockquote> </div>
 
 ---
 
