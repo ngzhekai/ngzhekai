@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</q></b> -<em>Dalai Lama</em> </h3> <div align=center> <blockquote> Updated on 24/01/2025 - (UTC) 10:18:44</blockquote> </div>
+<h3 align=center> <b><q>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</q></b> -<em>John Wooden</em> </h3> <div align=center> <blockquote> Updated on 25/01/2025 - (UTC) 00:33:48</blockquote> </div>
 
 ---
 
