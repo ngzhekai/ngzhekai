@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Talent is luck. The important thing in life is courage.</q></b> -<em>Woody Allen</em> </h3> <div align=center> <blockquote> Updated on 29/01/2025 - (UTC) 10:18:09</blockquote> </div>
+<h3 align=center> <b><q>Take care of your body. It's the only place you have to live.</q></b> -<em>Jim Rohn</em> </h3> <div align=center> <blockquote> Updated on 30/01/2025 - (UTC) 00:33:57</blockquote> </div>
 
 ---
 
