@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Life is growth. If we stop growing, technically and spiritually, we are as good as dead.</q></b> -<em>Morihei Ueshiba</em> </h3> <div align=center> <blockquote> Updated on 03/02/2025 - (UTC) 10:18:34</blockquote> </div>
+<h3 align=center> <b><q>You're on earth. There's no cure for that.</q></b> -<em>Samuel Beckett</em> </h3> <div align=center> <blockquote> Updated on 04/02/2025 - (UTC) 00:34:57</blockquote> </div>
 
 ---
 
