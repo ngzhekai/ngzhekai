@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.</q></b> -<em>Mark Twain</em> </h3> <div align=center> <blockquote> Updated on 12/02/2025 - (UTC) 00:35:16</blockquote> </div>
+<h3 align=center> <b><q>Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.</q></b> -<em>Dale Carnegie</em> </h3> <div align=center> <blockquote> Updated on 12/02/2025 - (UTC) 10:18:37</blockquote> </div>
 
 ---
 
