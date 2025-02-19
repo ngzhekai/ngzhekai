@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>People think you're crazy if you talk about things they don't understand.</q></b> -<em>Elvis Presley</em> </h3> <div align=center> <blockquote> Updated on 19/02/2025 - (UTC) 00:35:40</blockquote> </div>
+<h3 align=center> <b><q>Success comes from knowing that you did your best to become the best that you are capable of becoming.</q></b> -<em>John Wooden</em> </h3> <div align=center> <blockquote> Updated on 19/02/2025 - (UTC) 10:19:04</blockquote> </div>
 
 ---
 
