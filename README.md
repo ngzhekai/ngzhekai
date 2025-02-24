@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Every saint has a past, and every sinner has a future.</q></b> -<em>Oscar Wilde</em> </h3> <div align=center> <blockquote> Updated on 24/02/2025 - (UTC) 00:37:21</blockquote> </div>
+<h3 align=center> <b><q>We can have more than we've got because we can become more than we are.</q></b> -<em>Jim Rohn</em> </h3> <div align=center> <blockquote> Updated on 24/02/2025 - (UTC) 10:19:53</blockquote> </div>
 
 ---
 
