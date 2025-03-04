@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Don't settle, and don't struggle.</q></b> -<em>Naval Ravikant</em> </h3> <div align=center> <blockquote> Updated on 04/03/2025 - (UTC) 00:37:07</blockquote> </div>
+<h3 align=center> <b><q>The mind can calculate, but the spirit yearns, and the heart wants what the heart wants.</q></b> -<em>Stephen King</em> </h3> <div align=center> <blockquote> Updated on 04/03/2025 - (UTC) 10:20:15</blockquote> </div>
 
 ---
 
