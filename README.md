@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>We can change our lives. We can do, have, and be exactly what we wish.</q></b> -<em>Tony Robbins</em> </h3> <div align=center> <blockquote> Updated on 05/03/2025 - (UTC) 00:37:09</blockquote> </div>
+<h3 align=center> <b><q>Do not pray for an easy life, pray for the strength to endure a difficult one. </q></b> -<em>Bruce Lee</em> </h3> <div align=center> <blockquote> Updated on 05/03/2025 - (UTC) 10:19:48</blockquote> </div>
 
 ---
 
