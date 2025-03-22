@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.</q></b> -<em>Ralph Marston</em> </h3> <div align=center> <blockquote> Updated on 22/03/2025 - (UTC) 00:36:39</blockquote> </div>
+<h3 align=center> <b><q>Trust in dreams, for in them is the hidden gate to eternity. </q></b> -<em>Kahlil Gibran</em> </h3> <div align=center> <blockquote> Updated on 22/03/2025 - (UTC) 10:18:50</blockquote> </div>
 
 ---
 
