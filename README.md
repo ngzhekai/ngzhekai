@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Problems remain as problems because people are busy defending them rather than finding solutions.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 26/03/2025 - (UTC) 00:37:43</blockquote> </div>
+<h3 align=center> <b><q>Success is not how high you have climbed, but how you make a positive difference to the world.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 26/03/2025 - (UTC) 10:20:19</blockquote> </div>
 
 ---
 
