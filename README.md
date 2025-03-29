@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>To avoid criticism, do nothing, say nothing, and be nothing.</q></b> -<em>Elbert Hubbard</em> </h3> <div align=center> <blockquote> Updated on 28/03/2025 - (UTC) 10:19:48</blockquote> </div>
+<h3 align=center> <b><q>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. </q></b> -<em>Lao Tzu</em> </h3> <div align=center> <blockquote> Updated on 29/03/2025 - (UTC) 00:37:39</blockquote> </div>
 
 ---
 
