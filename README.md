@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>You give but little when you give of your possessions. It is when you give of yourself that you truly give.</q></b> -<em>Kahlil Gibran</em> </h3> <div align=center> <blockquote> Updated on 30/03/2025 - (UTC) 00:41:47</blockquote> </div>
+<h3 align=center> <b><q>Do not bite at the bait of pleasure, till you know there is no hook beneath it.</q></b> -<em>Thomas Jefferson</em> </h3> <div align=center> <blockquote> Updated on 30/03/2025 - (UTC) 10:18:08</blockquote> </div>
 
 ---
 
