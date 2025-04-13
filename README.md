@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Don't blame others. it won't make you a better person.</q></b> -<em>Lolly Daskal</em> </h3> <div align=center> <blockquote> Updated on 12/04/2025 - (UTC) 10:17:52</blockquote> </div>
+<h3 align=center> <b><q>Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 13/04/2025 - (UTC) 02:05:51</blockquote> </div>
 
 ---
 
