@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>People spend too much time doing and not enough time thinking about what they should be doing.</q></b> -<em>Naval Ravikant</em> </h3> <div align=center> <blockquote> Updated on 14/04/2025 - (UTC) 00:41:54</blockquote> </div>
+<h3 align=center> <b><q>There are no accidents... there is only some purpose that we haven't yet understood.</q></b> -<em>Deepak Chopra</em> </h3> <div align=center> <blockquote> Updated on 14/04/2025 - (UTC) 10:22:05</blockquote> </div>
 
 ---
 
