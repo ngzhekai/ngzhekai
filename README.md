@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>A dream doesn't become reality through magic it takes sweat, determination and hard work.</q></b> -<em>Colin Powell</em> </h3> <div align=center> <blockquote> Updated on 16/04/2025 - (UTC) 00:39:50</blockquote> </div>
+<h3 align=center> <b><q>Only those who dare to fail greatly can ever achieve greatly.</q></b> -<em>Robert F. Kennedy</em> </h3> <div align=center> <blockquote> Updated on 16/04/2025 - (UTC) 10:21:40</blockquote> </div>
 
 ---
 
