@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Decide what your truth is. Then live it.</q></b> -<em>Kamal Ravikant</em> </h3> <div align=center> <blockquote> Updated on 17/04/2025 - (UTC) 00:38:54</blockquote> </div>
+<h3 align=center> <b><q>Once a decision was made, I didn't worry about it afterward.</q></b> -<em>Harry S. Truman</em> </h3> <div align=center> <blockquote> Updated on 17/04/2025 - (UTC) 10:21:12</blockquote> </div>
 
 ---
 
