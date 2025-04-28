@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>I defeat my enemies when I make them my friends.</q></b> -<em>Dalai Lama</em> </h3> <div align=center> <blockquote> Updated on 28/04/2025 - (UTC) 00:41:34</blockquote> </div>
+<h3 align=center> <b><q>Success is the sum of small efforts, repeated day in and day out.</q></b> -<em>Robert Collier</em> </h3> <div align=center> <blockquote> Updated on 28/04/2025 - (UTC) 11:05:45</blockquote> </div>
 
 ---
 
