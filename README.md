@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>All animals except man know that the principal business of life is to enjoy it.</q></b> -<em>Samuel Butler</em> </h3> <div align=center> <blockquote> Updated on 30/04/2025 - (UTC) 10:20:55</blockquote> </div>
+<h3 align=center> <b><q>The only place success comes before work is in the dictionary.</q></b> -<em>Vince Lombardi</em> </h3> <div align=center> <blockquote> Updated on 01/05/2025 - (UTC) 00:44:54</blockquote> </div>
 
 ---
 
