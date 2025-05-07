@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>How many times do you have to get hit over the head until you figure out who's hitting you?</q></b> -<em>Harry S. Truman</em> </h3> <div align=center> <blockquote> Updated on 07/05/2025 - (UTC) 00:40:30</blockquote> </div>
+<h3 align=center> <b><q>You get in life what you have the courage to ask for.</q></b> -<em>Oprah Winfrey</em> </h3> <div align=center> <blockquote> Updated on 07/05/2025 - (UTC) 10:22:09</blockquote> </div>
 
 ---
 
