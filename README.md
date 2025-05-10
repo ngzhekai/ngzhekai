@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>You drown not by falling into a river, but by staying submerged in it.</q></b> -<em>Paulo Coelho</em> </h3> <div align=center> <blockquote> Updated on 09/05/2025 - (UTC) 10:21:04</blockquote> </div>
+<h3 align=center> <b><q>People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine.</q></b> -<em>Brian Tracy</em> </h3> <div align=center> <blockquote> Updated on 10/05/2025 - (UTC) 00:38:28</blockquote> </div>
 
 ---
 
