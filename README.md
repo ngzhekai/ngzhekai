@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Character is doing what you don't want to do but know you should do.</q></b> -<em>Joyce Meyer</em> </h3> <div align=center> <blockquote> Updated on 12/05/2025 - (UTC) 00:43:08</blockquote> </div>
+<h3 align=center> <b><q>To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.</q></b> -<em>Criss Jami</em> </h3> <div align=center> <blockquote> Updated on 12/05/2025 - (UTC) 10:22:59</blockquote> </div>
 
 ---
 
