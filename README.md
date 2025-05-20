@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Success in any endeavor depends on the degree to which it is an expression of your true self. </q></b> -<em>Ralph Marston</em> </h3> <div align=center> <blockquote> Updated on 19/05/2025 - (UTC) 10:22:43</blockquote> </div>
+<h3 align=center> <b><q>Don't be afraid to see what you see.</q></b> -<em>Ronald Reagan</em> </h3> <div align=center> <blockquote> Updated on 20/05/2025 - (UTC) 00:42:01</blockquote> </div>
 
 ---
 
