@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The best time to plant a tree was 20 years ago. The second best time is now.</q></b> -<em>Zen Proverb</em> </h3> <div align=center> <blockquote> Updated on 27/05/2025 - (UTC) 10:22:40</blockquote> </div>
+<h3 align=center> <b><q>Change yourself - you are in control.</q></b> -<em>Mahatma Gandhi</em> </h3> <div align=center> <blockquote> Updated on 28/05/2025 - (UTC) 00:41:22</blockquote> </div>
 
 ---
 
