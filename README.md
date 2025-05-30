@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</q></b> -<em>Theodore Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 29/05/2025 - (UTC) 10:22:51</blockquote> </div>
+<h3 align=center> <b><q>Circumstances do not make the man, they reveal him.</q></b> -<em>James Allen</em> </h3> <div align=center> <blockquote> Updated on 30/05/2025 - (UTC) 00:41:13</blockquote> </div>
 
 ---
 
