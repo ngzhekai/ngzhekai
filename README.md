@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The people who succeed are irrationally passionate about something.</q></b> -<em>Naval Ravikant</em> </h3> <div align=center> <blockquote> Updated on 09/06/2025 - (UTC) 00:44:41</blockquote> </div>
+<h3 align=center> <b><q>Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful. </q></b> -<em>Estee Lauder</em> </h3> <div align=center> <blockquote> Updated on 09/06/2025 - (UTC) 10:23:03</blockquote> </div>
 
 ---
 
