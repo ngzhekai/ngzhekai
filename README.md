@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.</q></b> -<em>Mark Twain</em> </h3> <div align=center> <blockquote> Updated on 15/06/2025 - (UTC) 00:47:44</blockquote> </div>
+<h3 align=center> <b><q>Hope and fear come from feeling that we lack something; they come from a sense of poverty.</q></b> -<em>Pema Chodron</em> </h3> <div align=center> <blockquote> Updated on 15/06/2025 - (UTC) 10:21:39</blockquote> </div>
 
 ---
 
