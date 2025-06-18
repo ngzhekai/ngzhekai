@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>In youth we run into difficulties. In old age difficulties run into us. </q></b> -<em>Beverly Sills</em> </h3> <div align=center> <blockquote> Updated on 17/06/2025 - (UTC) 10:22:54</blockquote> </div>
+<h3 align=center> <b><q>The Only Thing That Is Constant Is Change</q></b> -<em>Heraclitus</em> </h3> <div align=center> <blockquote> Updated on 18/06/2025 - (UTC) 00:42:16</blockquote> </div>
 
 ---
 
