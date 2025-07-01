@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Whatever you believe with feeling becomes your reality. </q></b> -<em>Brian Tracy</em> </h3> <div align=center> <blockquote> Updated on 01/07/2025 - (UTC) 00:49:58</blockquote> </div>
+<h3 align=center> <b><q>A man that flies from his fear may find that he has only taken a short cut to meet it.</q></b> -<em>J.R.R. Tolkien</em> </h3> <div align=center> <blockquote> Updated on 01/07/2025 - (UTC) 10:23:34</blockquote> </div>
 
 ---
 
