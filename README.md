@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Happiness is pretty simple: someone to love, something to do, something to look forward to.</q></b> -<em>Rita Mae Brown</em> </h3> <div align=center> <blockquote> Updated on 30/06/2025 - (UTC) 10:23:22</blockquote> </div>
+<h3 align=center> <b><q>Whatever you believe with feeling becomes your reality. </q></b> -<em>Brian Tracy</em> </h3> <div align=center> <blockquote> Updated on 01/07/2025 - (UTC) 00:49:58</blockquote> </div>
 
 ---
 
