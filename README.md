@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.</q></b> -<em>Nelson Mandela</em> </h3> <div align=center> <blockquote> Updated on 13/07/2025 - (UTC) 10:22:54</blockquote> </div>
+<h3 align=center> <b><q>Only by attracting the best people will you accomplish great deeds.</q></b> -<em>Colin Powell</em> </h3> <div align=center> <blockquote> Updated on 14/07/2025 - (UTC) 00:47:03</blockquote> </div>
 
 ---
 
