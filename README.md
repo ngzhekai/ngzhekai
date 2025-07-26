@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you try, you might get exactly what you want. If you don't, you don't.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 26/07/2025 - (UTC) 00:43:18</blockquote> </div>
+<h3 align=center> <b><q>Every failure brings with it the seed of an equivalent success.</q></b> -<em>Napoleon Hill</em> </h3> <div align=center> <blockquote> Updated on 26/07/2025 - (UTC) 10:21:33</blockquote> </div>
 
 ---
 
