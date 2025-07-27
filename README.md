@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</q></b> -<em>Carlos Ruiz Zafon</em> </h3> <div align=center> <blockquote> Updated on 27/07/2025 - (UTC) 00:51:18</blockquote> </div>
+<h3 align=center> <b><q>You know the more one does the more one can do.</q></b> -<em>Amelia Earhart</em> </h3> <div align=center> <blockquote> Updated on 27/07/2025 - (UTC) 10:22:04</blockquote> </div>
 
 ---
 
