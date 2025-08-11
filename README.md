@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The sun shines upon good and bad alike.</q></b> -<em>Hans Christian Andersen</em> </h3> <div align=center> <blockquote> Updated on 10/08/2025 - (UTC) 10:21:39</blockquote> </div>
+<h3 align=center> <b><q>Instead of being intimidated by the limitations, be inspired to find new ways around them.</q></b> -<em>Ralph Marston</em> </h3> <div align=center> <blockquote> Updated on 11/08/2025 - (UTC) 00:48:19</blockquote> </div>
 
 ---
 
