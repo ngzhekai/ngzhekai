@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>A self that goes on changing is a self that goes on living.</q></b> -<em>Virginia Woolf</em> </h3> <div align=center> <blockquote> Updated on 13/08/2025 - (UTC) 00:43:09</blockquote> </div>
+<h3 align=center> <b><q>Peace is not the absence of conflict, but the ability to cope with it.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 13/08/2025 - (UTC) 10:23:44</blockquote> </div>
 
 ---
 
