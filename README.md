@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The only difference between success and failure is the ability to take action.</q></b> -<em>Alexander Graham Bell</em> </h3> <div align=center> <blockquote> Updated on 15/08/2025 - (UTC) 10:22:03</blockquote> </div>
+<h3 align=center> <b><q>An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.</q></b> -<em>Ayn Rand</em> </h3> <div align=center> <blockquote> Updated on 16/08/2025 - (UTC) 00:40:20</blockquote> </div>
 
 ---
 
