@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>You cannot change your destination overnight but you can change your direction overnight.</q></b> -<em>Jim Rohn</em> </h3> <div align=center> <blockquote> Updated on 19/08/2025 - (UTC) 00:41:31</blockquote> </div>
+<h3 align=center> <b><q>FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.</q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 19/08/2025 - (UTC) 10:21:52</blockquote> </div>
 
 ---
 
