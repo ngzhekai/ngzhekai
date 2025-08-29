@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Quiet people have the loudest minds.</q></b> -<em>Stephen King</em> </h3> <div align=center> <blockquote> Updated on 28/08/2025 - (UTC) 10:21:00</blockquote> </div>
+<h3 align=center> <b><q>A fool sees himself as another, but a wise man sees others as himself.</q></b> -<em>Dogen</em> </h3> <div align=center> <blockquote> Updated on 29/08/2025 - (UTC) 00:39:08</blockquote> </div>
 
 ---
 
