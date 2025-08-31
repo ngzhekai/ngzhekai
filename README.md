@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The more you praise and celebrate your life, the more there is in life to celebrate. </q></b> -<em>Oprah Winfrey</em> </h3> <div align=center> <blockquote> Updated on 31/08/2025 - (UTC) 00:42:34</blockquote> </div>
+<h3 align=center> <b><q>Success is not to be pursued, it is to be attracted by the person you become.</q></b> -<em>Jim Rohn</em> </h3> <div align=center> <blockquote> Updated on 31/08/2025 - (UTC) 10:18:04</blockquote> </div>
 
 ---
 
