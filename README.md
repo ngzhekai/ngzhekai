@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Today will never happen again. Don't waste it with a false start or no start at all.</q></b> -<em>Og Mandino</em> </h3> <div align=center> <blockquote> Updated on 01/09/2025 - (UTC) 00:49:22</blockquote> </div>
+<h3 align=center> <b><q>Treat everyone with politeness and kindness, not because they are nice, but because you are.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 01/09/2025 - (UTC) 10:22:05</blockquote> </div>
 
 ---
 
