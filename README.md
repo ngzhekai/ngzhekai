@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Only those who dare to fail greatly can ever achieve greatly.</q></b> -<em>Robert F. Kennedy</em> </h3> <div align=center> <blockquote> Updated on 07/09/2025 - (UTC) 00:42:18</blockquote> </div>
+<h3 align=center> <b><q>What people need and what they want may be very different.</q></b> -<em>Elbert Hubbard</em> </h3> <div align=center> <blockquote> Updated on 07/09/2025 - (UTC) 10:17:37</blockquote> </div>
 
 ---
 
