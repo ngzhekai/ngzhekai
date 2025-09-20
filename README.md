@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Knowing yourself is the beginning of all wisdom.</q></b> -<em>Aristotle</em> </h3> <div align=center> <blockquote> Updated on 19/09/2025 - (UTC) 10:20:59</blockquote> </div>
+<h3 align=center> <b><q>The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.</q></b> -<em>F. Scott Fitzgerald</em> </h3> <div align=center> <blockquote> Updated on 20/09/2025 - (UTC) 00:36:18</blockquote> </div>
 
 ---
 
