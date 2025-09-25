@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Life is from the inside out. When you shift on the inside, life shifts on the outside.</q></b> -<em>Kamal Ravikant</em> </h3> <div align=center> <blockquote> Updated on 25/09/2025 - (UTC) 00:38:26</blockquote> </div>
+<h3 align=center> <b><q>Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold.</q></b> -<em>Elon Musk</em> </h3> <div align=center> <blockquote> Updated on 25/09/2025 - (UTC) 10:20:19</blockquote> </div>
 
 ---
 
