@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Real learning comes about when the competitive spirit has ceased.</q></b> -<em>Jiddu Krishnamurti</em> </h3> <div align=center> <blockquote> Updated on 13/10/2025 - (UTC) 10:23:06</blockquote> </div>
+<h3 align=center> <b><q>It's not the love you make. It's the love you give. </q></b> -<em>Nikola Tesla</em> </h3> <div align=center> <blockquote> Updated on 14/10/2025 - (UTC) 00:38:19</blockquote> </div>
 
 ---
 
