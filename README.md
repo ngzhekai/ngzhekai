@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Everyone wants to go to Heaven, but no one wants to die.</q></b> -<em>Robert Kiyosaki</em> </h3> <div align=center> <blockquote> Updated on 19/10/2025 - (UTC) 00:44:24</blockquote> </div>
+<h3 align=center> <b><q>Let us always meet each other with smile, for the smile is the beginning of love.</q></b> -<em>Mother Teresa</em> </h3> <div align=center> <blockquote> Updated on 19/10/2025 - (UTC) 10:18:21</blockquote> </div>
 
 ---
 
