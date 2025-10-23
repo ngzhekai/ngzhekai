@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Here and now...breathe and relax...in battle and in life.</q></b> -<em>Dan Millman</em> </h3> <div align=center> <blockquote> Updated on 22/10/2025 - (UTC) 10:22:38</blockquote> </div>
+<h3 align=center> <b><q>Adventure is worthwhile in itself.</q></b> -<em>Amelia Earhart</em> </h3> <div align=center> <blockquote> Updated on 23/10/2025 - (UTC) 00:39:39</blockquote> </div>
 
 ---
 
