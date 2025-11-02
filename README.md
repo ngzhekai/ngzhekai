@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Any game becomes important when you know and love the players.</q></b> -<em>W.P. Kinsella</em> </h3> <div align=center> <blockquote> Updated on 01/11/2025 - (UTC) 10:19:03</blockquote> </div>
+<h3 align=center> <b><q>You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.</q></b> -<em>Steve Maraboli</em> </h3> <div align=center> <blockquote> Updated on 02/11/2025 - (UTC) 00:43:33</blockquote> </div>
 
 ---
 
