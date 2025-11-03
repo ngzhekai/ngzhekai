@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Sometimes it is harder to deprive oneself of a pain than of a pleasure.</q></b> -<em>F. Scott Fitzgerald</em> </h3> <div align=center> <blockquote> Updated on 03/11/2025 - (UTC) 00:43:03</blockquote> </div>
+<h3 align=center> <b><q>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</q></b> -<em>Rumi</em> </h3> <div align=center> <blockquote> Updated on 03/11/2025 - (UTC) 10:24:04</blockquote> </div>
 
 ---
 
