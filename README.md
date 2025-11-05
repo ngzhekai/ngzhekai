@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. </q></b> -<em>Orison Swett Marden</em> </h3> <div align=center> <blockquote> Updated on 05/11/2025 - (UTC) 00:42:14</blockquote> </div>
+<h3 align=center> <b><q>A man who dares to waste one hour of time has not discovered the value of life.</q></b> -<em>Charles Darwin</em> </h3> <div align=center> <blockquote> Updated on 05/11/2025 - (UTC) 10:23:30</blockquote> </div>
 
 ---
 
