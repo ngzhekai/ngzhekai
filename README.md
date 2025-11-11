@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Perfectionism is simply putting a limit on your future.</q></b> -<em>John Eliot</em> </h3> <div align=center> <blockquote> Updated on 10/11/2025 - (UTC) 10:24:19</blockquote> </div>
+<h3 align=center> <b><q>The purpose of life is the life of purpose.</q></b> -<em>Robin Sharma</em> </h3> <div align=center> <blockquote> Updated on 11/11/2025 - (UTC) 00:42:04</blockquote> </div>
 
 ---
 
