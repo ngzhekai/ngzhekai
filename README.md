@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.</q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 17/11/2025 - (UTC) 10:24:33</blockquote> </div>
+<h3 align=center> <b><q>Mastering others is strength, mastering yourself is true power.</q></b> -<em>Lao Tzu</em> </h3> <div align=center> <blockquote> Updated on 18/11/2025 - (UTC) 00:41:19</blockquote> </div>
 
 ---
 
