@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.</q></b> -<em>Morihei Ueshiba</em> </h3> <div align=center> <blockquote> Updated on 24/11/2025 - (UTC) 10:24:39</blockquote> </div>
+<h3 align=center> <b><q>The person who never made a mistake never tried anything new.</q></b> -<em>Albert Einstein</em> </h3> <div align=center> <blockquote> Updated on 25/11/2025 - (UTC) 00:40:31</blockquote> </div>
 
 ---
 
