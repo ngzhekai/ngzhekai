@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Show me a hero, and I'll write you a tragedy.</q></b> -<em>F. Scott Fitzgerald</em> </h3> <div align=center> <blockquote> Updated on 30/11/2025 - (UTC) 00:48:14</blockquote> </div>
+<h3 align=center> <b><q>Men go to far greater lengths to avoid what they fear than to obtain what they desire.</q></b> -<em>Dan Brown</em> </h3> <div align=center> <blockquote> Updated on 30/11/2025 - (UTC) 10:20:10</blockquote> </div>
 
 ---
 
