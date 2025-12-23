@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The educated differ from the uneducated as much as the living differ from the dead.</q></b> -<em>Aristotle</em> </h3> <div align=center> <blockquote> Updated on 23/12/2025 - (UTC) 00:43:57</blockquote> </div>
+<h3 align=center> <b><q>It doesn't matter how much you want. What really matters is how much you want it.</q></b> -<em>Ralph Marston</em> </h3> <div align=center> <blockquote> Updated on 23/12/2025 - (UTC) 10:25:40</blockquote> </div>
 
 ---
 
