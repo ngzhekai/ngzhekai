@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you care about someone enough, you'll always be there for them no matter what.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 25/12/2025 - (UTC) 00:43:48</blockquote> </div>
+<h3 align=center> <b><q>Preoccupied with a single leaf you won't see the tree.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 25/12/2025 - (UTC) 10:23:39</blockquote> </div>
 
 ---
 
