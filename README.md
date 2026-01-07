@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>There is only the one reality, neither to be realized nor attained.</q></b> -<em>Huang Po</em> </h3> <div align=center> <blockquote> Updated on 07/01/2026 - (UTC) 00:44:40</blockquote> </div>
+<h3 align=center> <b><q>You don't have to be great to start, but you have to start to be great. </q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 07/01/2026 - (UTC) 10:26:33</blockquote> </div>
 
 ---
 
