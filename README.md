@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The dream is free, but the hustle is sold separately.</q></b> -<em>Steve Harvey</em> </h3> <div align=center> <blockquote> Updated on 18/01/2026 - (UTC) 00:50:50</blockquote> </div>
+<h3 align=center> <b><q>Kindness is a language which the deaf can hear and the blind can see.</q></b> -<em>Mark Twain</em> </h3> <div align=center> <blockquote> Updated on 18/01/2026 - (UTC) 10:23:22</blockquote> </div>
 
 ---
 
