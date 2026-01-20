@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>It is startling to realize how much unbelief is necessary to make belief possible.</q></b> -<em>Eric Hoffer</em> </h3> <div align=center> <blockquote> Updated on 19/01/2026 - (UTC) 10:31:16</blockquote> </div>
+<h3 align=center> <b><q>To improve is to change, so to be perfect is to change often.</q></b> -<em>Winston Churchill</em> </h3> <div align=center> <blockquote> Updated on 20/01/2026 - (UTC) 00:44:28</blockquote> </div>
 
 ---
 
