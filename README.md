@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>In order for you to be the BEST you can be for others, first you must be BEST for yourself.</q></b> -<em>Jeffrey Gitomer</em> </h3> <div align=center> <blockquote> Updated on 21/01/2026 - (UTC) 00:47:34</blockquote> </div>
+<h3 align=center> <b><q>Remain calm. Be kind.</q></b> -<em>Colin Powell</em> </h3> <div align=center> <blockquote> Updated on 21/01/2026 - (UTC) 10:31:01</blockquote> </div>
 
 ---
 
