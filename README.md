@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The moment you doubt whether you can fly, you cease for ever to be able to do it.</q></b> -<em>James Matthew Barrie</em> </h3> <div align=center> <blockquote> Updated on 30/01/2026 - (UTC) 00:54:53</blockquote> </div>
+<h3 align=center> <b><q>It does not do to dwell on dreams and forget to live, remember that.</q></b> -<em>Albus Dumbledore</em> </h3> <div align=center> <blockquote> Updated on 30/01/2026 - (UTC) 10:35:59</blockquote> </div>
 
 ---
 
