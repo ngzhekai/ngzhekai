@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Sometimes it is more important to discover what one cannot do, than what one can do.</q></b> -<em>Lin Yutang</em> </h3> <div align=center> <blockquote> Updated on 31/01/2026 - (UTC) 10:26:57</blockquote> </div>
+<h3 align=center> <b><q>If the plan doesn't work, change the plan, but never the goal.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 01/02/2026 - (UTC) 01:04:37</blockquote> </div>
 
 ---
 
