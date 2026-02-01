@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If the plan doesn't work, change the plan, but never the goal.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 01/02/2026 - (UTC) 01:04:37</blockquote> </div>
+<h3 align=center> <b><q>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</q></b> -<em>T.S. Eliot</em> </h3> <div align=center> <blockquote> Updated on 01/02/2026 - (UTC) 10:27:22</blockquote> </div>
 
 ---
 
