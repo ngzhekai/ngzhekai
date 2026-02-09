@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Emancipate yourself from mental slavery, none but ourselves can free our mind.</q></b> -<em>Bob Marley</em> </h3> <div align=center> <blockquote> Updated on 09/02/2026 - (UTC) 01:00:06</blockquote> </div>
+<h3 align=center> <b><q>Wherever you are, and whatever you do, be in love.</q></b> -<em>Rumi</em> </h3> <div align=center> <blockquote> Updated on 09/02/2026 - (UTC) 10:55:42</blockquote> </div>
 
 ---
 
