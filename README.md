@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Man invented language to satisfy his deep need to complain.</q></b> -<em>Lily Tomlin</em> </h3> <div align=center> <blockquote> Updated on 12/02/2026 - (UTC) 10:49:31</blockquote> </div>
+<h3 align=center> <b><q>The day is for honest men, the night for thieves.</q></b> -<em>Euripides</em> </h3> <div align=center> <blockquote> Updated on 13/02/2026 - (UTC) 01:02:38</blockquote> </div>
 
 ---
 
