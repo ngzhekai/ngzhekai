@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The quality, not the longevity, of one's life is what is important.</q></b> -<em>Martin Luther King, Jr.</em> </h3> <div align=center> <blockquote> Updated on 17/02/2026 - (UTC) 10:48:36</blockquote> </div>
+<h3 align=center> <b><q>Just as true humor is laughter at oneself, true humanity is knowledge of oneself.</q></b> -<em>Alan Watts</em> </h3> <div align=center> <blockquote> Updated on 18/02/2026 - (UTC) 01:00:13</blockquote> </div>
 
 ---
 
