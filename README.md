@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Quiet people have the loudest minds.</q></b> -<em>Stephen King</em> </h3> <div align=center> <blockquote> Updated on 20/02/2026 - (UTC) 00:55:37</blockquote> </div>
+<h3 align=center> <b><q>Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 20/02/2026 - (UTC) 10:38:47</blockquote> </div>
 
 ---
 
