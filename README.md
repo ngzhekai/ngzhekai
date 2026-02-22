@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom.</q></b> -<em>James Allen</em> </h3> <div align=center> <blockquote> Updated on 21/02/2026 - (UTC) 10:28:01</blockquote> </div>
+<h3 align=center> <b><q>Mistakes are always forgivable, if one has the courage to admit them. </q></b> -<em>Bruce Lee</em> </h3> <div align=center> <blockquote> Updated on 22/02/2026 - (UTC) 00:58:16</blockquote> </div>
 
 ---
 
