@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>When you can't make them see the light, make them feel the heat.</q></b> -<em>Ronald Reagan</em> </h3> <div align=center> <blockquote> Updated on 26/02/2026 - (UTC) 10:49:18</blockquote> </div>
+<h3 align=center> <b><q>Trusting our intuition often saves us from disaster. </q></b> -<em>Anne Wilson Schaef</em> </h3> <div align=center> <blockquote> Updated on 27/02/2026 - (UTC) 00:57:00</blockquote> </div>
 
 ---
 
