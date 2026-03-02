@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Life is too short to waste your time on people who don't respect, appreciate, and value you.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 02/03/2026 - (UTC) 00:56:57</blockquote> </div>
+<h3 align=center> <b><q>Those who know, do. Those that understand, teach.</q></b> -<em>Aristotle</em> </h3> <div align=center> <blockquote> Updated on 02/03/2026 - (UTC) 10:44:24</blockquote> </div>
 
 ---
 
