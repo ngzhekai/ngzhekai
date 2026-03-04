@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>He is richest who is content with the least, for content is the wealth of nature.</q></b> -<em>Socrates</em> </h3> <div align=center> <blockquote> Updated on 03/03/2026 - (UTC) 10:40:45</blockquote> </div>
+<h3 align=center> <b><q>The best way to find yourself is to lose yourself in the service of others.</q></b> -<em>Mahatma Gandhi</em> </h3> <div align=center> <blockquote> Updated on 04/03/2026 - (UTC) 00:55:35</blockquote> </div>
 
 ---
 
