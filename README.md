@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Never do to others what you would not like them to do to you. </q></b> -<em>Confucius</em> </h3> <div align=center> <blockquote> Updated on 05/03/2026 - (UTC) 10:40:28</blockquote> </div>
+<h3 align=center> <b><q>The soul should always stand ajar, ready to welcome the ecstatic experience.</q></b> -<em>Emily Dickinson</em> </h3> <div align=center> <blockquote> Updated on 06/03/2026 - (UTC) 01:02:12</blockquote> </div>
 
 ---
 
