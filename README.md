@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Success is getting what you want. Happiness is wanting what you get.</q></b> -<em>Andrew Carnegie</em> </h3> <div align=center> <blockquote> Updated on 08/03/2026 - (UTC) 00:57:45</blockquote> </div>
+<h3 align=center> <b><q>Always seek out the seed of triumph in every adversity.</q></b> -<em>Og Mandino</em> </h3> <div align=center> <blockquote> Updated on 08/03/2026 - (UTC) 10:27:03</blockquote> </div>
 
 ---
 
