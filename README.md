@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>My guiding principle is this: Guilt is never to be doubted. </q></b> -<em>Franz Kafka</em> </h3> <div align=center> <blockquote> Updated on 11/03/2026 - (UTC) 10:40:59</blockquote> </div>
+<h3 align=center> <b><q>Growth is in a series of mistakes. That's the only way you learn.</q></b> -<em>Steve Harvey</em> </h3> <div align=center> <blockquote> Updated on 12/03/2026 - (UTC) 00:51:15</blockquote> </div>
 
 ---
 
