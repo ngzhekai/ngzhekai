@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>One's best success comes after their greatest disappointments.</q></b> -<em>Henry Ward Beecher</em> </h3> <div align=center> <blockquote> Updated on 13/03/2026 - (UTC) 10:38:32</blockquote> </div>
+<h3 align=center> <b><q>Live the moment for the moment.</q></b> -<em>Michael Jordan</em> </h3> <div align=center> <blockquote> Updated on 14/03/2026 - (UTC) 00:55:23</blockquote> </div>
 
 ---
 
