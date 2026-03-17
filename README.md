@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>One never does wrong by doing right.</q></b> -<em>Norman Vincent Peale</em> </h3> <div align=center> <blockquote> Updated on 16/03/2026 - (UTC) 10:54:02</blockquote> </div>
+<h3 align=center> <b><q>The only thing we have to fear is fear itself.</q></b> -<em>Franklin D. Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 17/03/2026 - (UTC) 00:58:31</blockquote> </div>
 
 ---
 
