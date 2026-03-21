@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Make your mind your own business.</q></b> -<em>Jack Butcher</em> </h3> <div align=center> <blockquote> Updated on 21/03/2026 - (UTC) 00:54:03</blockquote> </div>
+<h3 align=center> <b><q>For the things we have to learn before we can do them, we learn by doing them.</q></b> -<em>Aristotle</em> </h3> <div align=center> <blockquote> Updated on 21/03/2026 - (UTC) 10:28:58</blockquote> </div>
 
 ---
 
