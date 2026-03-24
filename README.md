@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Consider the rights of others before your own feelings, and the feelings of others before your own rights.</q></b> -<em>John Wooden</em> </h3> <div align=center> <blockquote> Updated on 24/03/2026 - (UTC) 00:55:09</blockquote> </div>
+<h3 align=center> <b><q>If you cannot understand something, then you have understood it incorrectly.</q></b> -<em>Kabir</em> </h3> <div align=center> <blockquote> Updated on 24/03/2026 - (UTC) 10:52:51</blockquote> </div>
 
 ---
 
