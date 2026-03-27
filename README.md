@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>We are most nearly ourselves when we achieve the seriousness of the child at play.</q></b> -<em>Heraclitus</em> </h3> <div align=center> <blockquote> Updated on 26/03/2026 - (UTC) 10:52:52</blockquote> </div>
+<h3 align=center> <b><q>The person who says something is impossible should not interrupt the person who is doing it.</q></b> -<em>Chinese Proverb</em> </h3> <div align=center> <blockquote> Updated on 27/03/2026 - (UTC) 01:04:50</blockquote> </div>
 
 ---
 
