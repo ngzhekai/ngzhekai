@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>We're responsible for everything that happens to us.</q></b> -<em>Yanni</em> </h3> <div align=center> <blockquote> Updated on 29/03/2026 - (UTC) 01:07:49</blockquote> </div>
+<h3 align=center> <b><q>You can't build a reputation on what you are going to do. </q></b> -<em>Henry Ford</em> </h3> <div align=center> <blockquote> Updated on 29/03/2026 - (UTC) 10:35:36</blockquote> </div>
 
 ---
 
