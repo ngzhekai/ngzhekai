@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Integrity is telling myself the truth. And honesty is telling the truth to other people.</q></b> -<em>Spencer Johnson</em> </h3> <div align=center> <blockquote> Updated on 31/03/2026 - (UTC) 10:54:08</blockquote> </div>
+<h3 align=center> <b><q>The only limits in your life are those that you set yourself.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 01/04/2026 - (UTC) 01:13:18</blockquote> </div>
 
 ---
 
