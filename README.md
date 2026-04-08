@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today.</q></b> -<em>Steve Maraboli</em> </h3> <div align=center> <blockquote> Updated on 08/04/2026 - (UTC) 01:07:59</blockquote> </div>
+<h3 align=center> <b><q>The more you praise and celebrate your life, the more there is in life to celebrate. </q></b> -<em>Oprah Winfrey</em> </h3> <div align=center> <blockquote> Updated on 08/04/2026 - (UTC) 10:57:44</blockquote> </div>
 
 ---
 
