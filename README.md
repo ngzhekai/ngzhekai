@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it.</q></b> -<em>Carl Jung</em> </h3> <div align=center> <blockquote> Updated on 09/04/2026 - (UTC) 11:00:00</blockquote> </div>
+<h3 align=center> <b><q>Lying can never save us from another lie.</q></b> -<em>Vaclav Havel</em> </h3> <div align=center> <blockquote> Updated on 10/04/2026 - (UTC) 01:08:30</blockquote> </div>
 
 ---
 
