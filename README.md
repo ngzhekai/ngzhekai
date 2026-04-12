@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you want something then you lose everything. If you don't want anything then you already have everything.</q></b> -<em>Seungsahn</em> </h3> <div align=center> <blockquote> Updated on 12/04/2026 - (UTC) 01:12:47</blockquote> </div>
+<h3 align=center> <b><q>If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.</q></b> -<em>Arnold Schwarzenegger</em> </h3> <div align=center> <blockquote> Updated on 12/04/2026 - (UTC) 10:39:29</blockquote> </div>
 
 ---
 
