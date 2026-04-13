@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.</q></b> -<em>Winston Churchill</em> </h3> <div align=center> <blockquote> Updated on 13/04/2026 - (UTC) 01:14:19</blockquote> </div>
+<h3 align=center> <b><q>Try to be a rainbow in someone's cloud.</q></b> -<em>Maya Angelou</em> </h3> <div align=center> <blockquote> Updated on 13/04/2026 - (UTC) 11:17:08</blockquote> </div>
 
 ---
 
