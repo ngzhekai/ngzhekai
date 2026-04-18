@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Those who can make you believe absurdities can make you commit atrocities. </q></b> -<em>Voltaire</em> </h3> <div align=center> <blockquote> Updated on 17/04/2026 - (UTC) 10:57:29</blockquote> </div>
+<h3 align=center> <b><q>Man's character is his fate.</q></b> -<em>Heraclitus</em> </h3> <div align=center> <blockquote> Updated on 18/04/2026 - (UTC) 01:06:44</blockquote> </div>
 
 ---
 
