@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </q></b> -<em>Herodotus</em> </h3> <div align=center> <blockquote> Updated on 19/04/2026 - (UTC) 10:40:31</blockquote> </div>
+<h3 align=center> <b><q>Character is doing what you don't want to do but know you should do.</q></b> -<em>Joyce Meyer</em> </h3> <div align=center> <blockquote> Updated on 20/04/2026 - (UTC) 01:15:15</blockquote> </div>
 
 ---
 
