@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Everyone sees what you appear to be, few experience what you really are.</q></b> -<em>Niccolo Machiavelli</em> </h3> <div align=center> <blockquote> Updated on 23/04/2026 - (UTC) 01:16:42</blockquote> </div>
+<h3 align=center> <b><q>If you change the way you look at things, the things you look at change. </q></b> -<em>Wayne Dyer</em> </h3> <div align=center> <blockquote> Updated on 23/04/2026 - (UTC) 11:10:53</blockquote> </div>
 
 ---
 
