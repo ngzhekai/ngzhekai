@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Life is a balance of holding on and letting go.</q></b> -<em>Rumi</em> </h3> <div align=center> <blockquote> Updated on 24/04/2026 - (UTC) 11:06:23</blockquote> </div>
+<h3 align=center> <b><q>Don't cry because it's over. Smile because it happened.</q></b> -<em>Dr. Seuss</em> </h3> <div align=center> <blockquote> Updated on 25/04/2026 - (UTC) 01:09:12</blockquote> </div>
 
 ---
 
