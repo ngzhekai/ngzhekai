@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</q></b> -<em>Steve Jobs</em> </h3> <div align=center> <blockquote> Updated on 26/04/2026 - (UTC) 01:17:49</blockquote> </div>
+<h3 align=center> <b><q>Inspire yourself to be great. Being good isn't good enough.</q></b> -<em>Gurbaksh Chahal</em> </h3> <div align=center> <blockquote> Updated on 26/04/2026 - (UTC) 10:47:49</blockquote> </div>
 
 ---
 
