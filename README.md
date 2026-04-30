@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.</q></b> -<em>Dalai Lama</em> </h3> <div align=center> <blockquote> Updated on 29/04/2026 - (UTC) 11:37:52</blockquote> </div>
+<h3 align=center> <b><q>Don't be afraid to stand for what you believe in, even if that means standing alone.</q></b> -<em>Unknown</em> </h3> <div align=center> <blockquote> Updated on 30/04/2026 - (UTC) 01:27:27</blockquote> </div>
 
 ---
 
