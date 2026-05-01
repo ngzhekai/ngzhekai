@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</q></b> -<em>Eleanor Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 30/04/2026 - (UTC) 11:37:09</blockquote> </div>
+<h3 align=center> <b><q>Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.</q></b> -<em>Og Mandino</em> </h3> <div align=center> <blockquote> Updated on 01/05/2026 - (UTC) 01:30:07</blockquote> </div>
 
 ---
 
