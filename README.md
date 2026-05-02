@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!</q></b> -<em>Tony Robbins</em> </h3> <div align=center> <blockquote> Updated on 01/05/2026 - (UTC) 11:07:04</blockquote> </div>
+<h3 align=center> <b><q>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.</q></b> -<em>Ralph Waldo Emerson</em> </h3> <div align=center> <blockquote> Updated on 02/05/2026 - (UTC) 01:21:13</blockquote> </div>
 
 ---
 
