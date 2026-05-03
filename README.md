@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The score never interested me, only the game.</q></b> -<em>Mae West</em> </h3> <div align=center> <blockquote> Updated on 03/05/2026 - (UTC) 01:24:35</blockquote> </div>
+<h3 align=center> <b><q>You must welcome change as the rule but not as your ruler. </q></b> -<em>Denis Waitley</em> </h3> <div align=center> <blockquote> Updated on 03/05/2026 - (UTC) 10:55:07</blockquote> </div>
 
 ---
 
