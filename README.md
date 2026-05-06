@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</q></b> -<em>Henry Ford</em> </h3> <div align=center> <blockquote> Updated on 06/05/2026 - (UTC) 01:21:25</blockquote> </div>
+<h3 align=center> <b><q>Sometimes adversity is what you need to face in order to become successful.</q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 06/05/2026 - (UTC) 11:48:13</blockquote> </div>
 
 ---
 
