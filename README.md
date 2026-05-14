@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>You play the hand you're dealt. I think the game's worthwhile. </q></b> -<em>Christopher Reeve</em> </h3> <div align=center> <blockquote> Updated on 13/05/2026 - (UTC) 12:05:38</blockquote> </div>
+<h3 align=center> <b><q>People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</q></b> -<em>Andrew Carnegie</em> </h3> <div align=center> <blockquote> Updated on 14/05/2026 - (UTC) 01:50:00</blockquote> </div>
 
 ---
 
