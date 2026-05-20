@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Enlightenment is intimacy with all things.</q></b> -<em>Dogen</em> </h3> <div align=center> <blockquote> Updated on 19/05/2026 - (UTC) 12:39:27</blockquote> </div>
+<h3 align=center> <b><q>There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.</q></b> -<em>Ronald Reagan</em> </h3> <div align=center> <blockquote> Updated on 20/05/2026 - (UTC) 01:53:45</blockquote> </div>
 
 ---
 
