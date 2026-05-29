@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly.</q></b> -<em>Steve Maraboli</em> </h3> <div align=center> <blockquote> Updated on 29/05/2026 - (UTC) 01:51:29</blockquote> </div>
+<h3 align=center> <b><q>Quiet people have the loudest minds.</q></b> -<em>Stephen Hawking</em> </h3> <div align=center> <blockquote> Updated on 29/05/2026 - (UTC) 12:46:44</blockquote> </div>
 
 ---
 
