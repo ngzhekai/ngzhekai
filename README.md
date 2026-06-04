@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Go for it now. The future is promised to no one.</q></b> -<em>Wayne Dyer</em> </h3> <div align=center> <blockquote> Updated on 04/06/2026 - (UTC) 02:13:50</blockquote> </div>
+<h3 align=center> <b><q>All we have to decide is what to do with the time that is given to us.</q></b> -<em>J.R.R. Tolkien</em> </h3> <div align=center> <blockquote> Updated on 04/06/2026 - (UTC) 12:45:21</blockquote> </div>
 
 ---
 
