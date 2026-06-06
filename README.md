@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Rest in reason; move in passion.</q></b> -<em>Kahlil Gibran</em> </h3> <div align=center> <blockquote> Updated on 06/06/2026 - (UTC) 01:49:57</blockquote> </div>
+<h3 align=center> <b><q>Curiosity is the most powerful thing you own.</q></b> -<em>James Cameron</em> </h3> <div align=center> <blockquote> Updated on 06/06/2026 - (UTC) 11:26:48</blockquote> </div>
 
 ---
 
