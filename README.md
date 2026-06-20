@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>To be truly ignorant, be content with your own knowledge.</q></b> -<em>Zhuangzi</em> </h3> <div align=center> <blockquote> Updated on 19/06/2026 - (UTC) 13:34:47</blockquote> </div>
+<h3 align=center> <b><q>No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain.</q></b> -<em>Josh Waitzkin</em> </h3> <div align=center> <blockquote> Updated on 20/06/2026 - (UTC) 01:58:08</blockquote> </div>
 
 ---
 
