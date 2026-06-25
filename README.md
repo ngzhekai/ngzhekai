@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you don't make things happen then things will happen to you.</q></b> -<em>Robert Collier</em> </h3> <div align=center> <blockquote> Updated on 24/06/2026 - (UTC) 12:19:38</blockquote> </div>
+<h3 align=center> <b><q>The person who cannot control his words shows that he cannot control himself.</q></b> -<em>Robert Greene</em> </h3> <div align=center> <blockquote> Updated on 25/06/2026 - (UTC) 01:55:05</blockquote> </div>
 
 ---
 
