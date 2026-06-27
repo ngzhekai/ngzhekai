@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Enthusiasm is a vital element toward the individual success of every man or woman.</q></b> -<em>Conrad Hilton</em> </h3> <div align=center> <blockquote> Updated on 27/06/2026 - (UTC) 01:50:37</blockquote> </div>
+<h3 align=center> <b><q>If you aim at nothing, you will hit it every time.</q></b> -<em>Zig Ziglar</em> </h3> <div align=center> <blockquote> Updated on 27/06/2026 - (UTC) 11:26:58</blockquote> </div>
 
 ---
 
