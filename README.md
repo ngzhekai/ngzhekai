@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The most effective way to do it, is to do it.</q></b> -<em>Amelia Earhart</em> </h3> <div align=center> <blockquote> Updated on 30/06/2026 - (UTC) 12:09:21</blockquote> </div>
+<h3 align=center> <b><q>Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.</q></b> -<em>Eleanor Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 01/07/2026 - (UTC) 02:01:10</blockquote> </div>
 
 ---
 
