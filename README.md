@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Many people will walk in and out of your life, but only true friends will leave footprints in your heart.</q></b> -<em>Eleanor Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 02/07/2026 - (UTC) 12:09:48</blockquote> </div>
+<h3 align=center> <b><q>He who cannot be a good follower cannot be a good leader.</q></b> -<em>Aristotle</em> </h3> <div align=center> <blockquote> Updated on 03/07/2026 - (UTC) 01:24:49</blockquote> </div>
 
 ---
 
