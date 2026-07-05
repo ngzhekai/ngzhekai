@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The world would go on even without you. Don't take yourself so seriously.</q></b> -<em>Norman Vincent Peale</em> </h3> <div align=center> <blockquote> Updated on 04/07/2026 - (UTC) 11:28:16</blockquote> </div>
+<h3 align=center> <b><q>The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest.</q></b> -<em>Josh Waitzkin</em> </h3> <div align=center> <blockquote> Updated on 05/07/2026 - (UTC) 01:39:47</blockquote> </div>
 
 ---
 
