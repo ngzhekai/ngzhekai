@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If you care about someone enough, you'll always be there for them no matter what.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 06/07/2026 - (UTC) 01:44:19</blockquote> </div>
+<h3 align=center> <b><q>For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 06/07/2026 - (UTC) 13:45:53</blockquote> </div>
 
 ---
 
