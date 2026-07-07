@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The wise man reads both books and life itself.</q></b> -<em>Lin Yutang</em> </h3> <div align=center> <blockquote> Updated on 07/07/2026 - (UTC) 01:42:47</blockquote> </div>
+<h3 align=center> <b><q>Thoughts become things. If you see it in your mind, you will hold it in your hand.</q></b> -<em>Bob Proctor</em> </h3> <div align=center> <blockquote> Updated on 07/07/2026 - (UTC) 12:27:00</blockquote> </div>
 
 ---
 
