@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on.</q></b> -<em>Steve Maraboli</em> </h3> <div align=center> <blockquote> Updated on 09/07/2026 - (UTC) 01:24:19</blockquote> </div>
+<h3 align=center> <b><q>Either write something worth reading or do something worth writing.</q></b> -<em>Benjamin Franklin</em> </h3> <div align=center> <blockquote> Updated on 10/07/2026 - (UTC) 01:21:21</blockquote> </div>
 
 ---
 
