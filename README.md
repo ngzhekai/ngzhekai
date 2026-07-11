@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The best way out is always through.</q></b> -<em>Robert Frost</em> </h3> <div align=center> <blockquote> Updated on 11/07/2026 - (UTC) 01:15:01</blockquote> </div>
+<h3 align=center> <b><q>Whatever you think the world is withholding from you, you are withholding from the world.</q></b> -<em>Eckhart Tolle</em> </h3> <div align=center> <blockquote> Updated on 11/07/2026 - (UTC) 11:05:54</blockquote> </div>
 
 ---
 
