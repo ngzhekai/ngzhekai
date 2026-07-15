@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Fear can hold you prisoner. Hope can set you free.</q></b> -<em>Stephen King</em> </h3> <div align=center> <blockquote> Updated on 14/07/2026 - (UTC) 11:25:15</blockquote> </div>
+<h3 align=center> <b><q>He who leaves the game wins it.</q></b> -<em>Nicolas Chamfort</em> </h3> <div align=center> <blockquote> Updated on 15/07/2026 - (UTC) 01:05:08</blockquote> </div>
 
 ---
 
