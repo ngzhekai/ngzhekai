@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.</q></b> -<em>Oprah Winfrey</em> </h3> <div align=center> <blockquote> Updated on 15/07/2026 - (UTC) 11:35:34</blockquote> </div>
+<h3 align=center> <b><q>In all chaos there is a cosmos, in all disorder a secret order.</q></b> -<em>Carl Jung</em> </h3> <div align=center> <blockquote> Updated on 16/07/2026 - (UTC) 01:13:48</blockquote> </div>
 
 ---
 
