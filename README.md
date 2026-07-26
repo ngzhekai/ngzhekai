@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</q></b> -<em>Dogen</em> </h3> <div align=center> <blockquote> Updated on 26/07/2026 - (UTC) 01:21:42</blockquote> </div>
+<h3 align=center> <b><q>The more you extend kindness to yourself, the more it will become your automatic response to others.</q></b> -<em>Wayne Dyer</em> </h3> <div align=center> <blockquote> Updated on 26/07/2026 - (UTC) 11:19:37</blockquote> </div>
 
 ---
 
