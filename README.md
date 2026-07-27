@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The more you extend kindness to yourself, the more it will become your automatic response to others.</q></b> -<em>Wayne Dyer</em> </h3> <div align=center> <blockquote> Updated on 26/07/2026 - (UTC) 11:19:37</blockquote> </div>
+<h3 align=center> <b><q>There is no excuse for not trying.</q></b> -<em>Barack Obama</em> </h3> <div align=center> <blockquote> Updated on 27/07/2026 - (UTC) 01:24:49</blockquote> </div>
 
 ---
 
