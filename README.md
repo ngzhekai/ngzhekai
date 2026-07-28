@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The decisions of our past are the architects of our present.</q></b> -<em>Dan Brown</em> </h3> <div align=center> <blockquote> Updated on 27/07/2026 - (UTC) 12:54:36</blockquote> </div>
+<h3 align=center> <b><q>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</q></b> -<em>Zen Proverb</em> </h3> <div align=center> <blockquote> Updated on 28/07/2026 - (UTC) 01:12:32</blockquote> </div>
 
 ---
 
