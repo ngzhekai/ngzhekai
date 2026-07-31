@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything.</q></b> -<em>Shunryu Suzuki</em> </h3> <div align=center> <blockquote> Updated on 30/07/2026 - (UTC) 11:51:48</blockquote> </div>
+<h3 align=center> <b><q>Everything that is made beautiful and fair and lovely is made for the eye of one who sees.</q></b> -<em>Rumi</em> </h3> <div align=center> <blockquote> Updated on 31/07/2026 - (UTC) 01:21:04</blockquote> </div>
 
 ---
 
