@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Even the finest sword plunged into salt water will eventually rust.</q></b> -<em>Sun Tzu</em> </h3> <div align=center> <blockquote> Updated on 04/08/2026 - (UTC) 12:01:52</blockquote> </div>
+<h3 align=center> <b><q>Work for something because it is good, not just because it stands a chance to succeed.</q></b> -<em>Vaclav Havel</em> </h3> <div align=center> <blockquote> Updated on 05/08/2026 - (UTC) 01:13:16</blockquote> </div>
 
 ---
 
