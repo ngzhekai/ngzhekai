@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Do every act of your life as if it were your last.</q></b> -<em>Marcus Aurelius</em> </h3> <div align=center> <blockquote> Updated on 05/08/2026 - (UTC) 11:59:24</blockquote> </div>
+<h3 align=center> <b><q>Find something you love and do it better than everyone else.</q></b> -<em>Gurbaksh Chahal</em> </h3> <div align=center> <blockquote> Updated on 06/08/2026 - (UTC) 01:10:38</blockquote> </div>
 
 ---
 
