@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>When the fish is caught we pay no more attention to the trap.</q></b> -<em>Huang Po</em> </h3> <div align=center> <blockquote> Updated on 10/08/2026 - (UTC) 00:41:00</blockquote> </div>
+<h3 align=center> <b><q>Anxiety is the dizziness of freedom.</q></b> -<em>Soren Kierkegaard</em> </h3> <div align=center> <blockquote> Updated on 10/08/2026 - (UTC) 11:08:46</blockquote> </div>
 
 ---
 
