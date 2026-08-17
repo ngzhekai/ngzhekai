@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>I didn't get there by wishing for it or hoping for it, but by working for it.</q></b> -<em>Estee Lauder</em> </h3> <div align=center> <blockquote> Updated on 17/08/2026 - (UTC) 00:25:25</blockquote> </div>
+<h3 align=center> <b><q>Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.</q></b> -<em>William Faulkner</em> </h3> <div align=center> <blockquote> Updated on 17/08/2026 - (UTC) 10:32:26</blockquote> </div>
 
 ---
 
