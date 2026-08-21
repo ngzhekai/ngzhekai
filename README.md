@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Those who are easily shocked should be shocked more often.</q></b> -<em>Mae West</em> </h3> <div align=center> <blockquote> Updated on 21/08/2026 - (UTC) 00:28:36</blockquote> </div>
+<h3 align=center> <b><q>It ain't where you start in life, it's where you end up, and what you did along the way.</q></b> -<em>Colin Powell</em> </h3> <div align=center> <blockquote> Updated on 21/08/2026 - (UTC) 10:30:40</blockquote> </div>
 
 ---
 
