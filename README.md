@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>There are only encounters in history. There are no accidents.</q></b> -<em>Pablo Picasso</em> </h3> <div align=center> <blockquote> Updated on 25/08/2026 - (UTC) 00:26:53</blockquote> </div>
+<h3 align=center> <b><q>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</q></b> -<em>Jon Kabat-Zinn</em> </h3> <div align=center> <blockquote> Updated on 25/08/2026 - (UTC) 10:33:23</blockquote> </div>
 
 ---
 
