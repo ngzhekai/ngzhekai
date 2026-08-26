@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</q></b> -<em>Thomas Jefferson</em> </h3> <div align=center> <blockquote> Updated on 26/08/2026 - (UTC) 00:27:51</blockquote> </div>
+<h3 align=center> <b><q>Change yourself and you have done your part in changing the world.</q></b> -<em>Paramahansa Yogananda</em> </h3> <div align=center> <blockquote> Updated on 26/08/2026 - (UTC) 10:35:09</blockquote> </div>
 
 ---
 
