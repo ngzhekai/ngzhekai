@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</q></b> -<em>Sathya Sai Baba</em> </h3> <div align=center> <blockquote> Updated on 02/09/2026 - (UTC) 14:09:01</blockquote> </div>
+<h3 align=center> <b><q>Let us always meet each other with smile, for the smile is the beginning of love.</q></b> -<em>Mother Teresa</em> </h3> <div align=center> <blockquote> Updated on 03/09/2026 - (UTC) 01:36:25</blockquote> </div>
 
 ---
 
