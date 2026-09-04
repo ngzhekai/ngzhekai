@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.</q></b> -<em>Celestine Chua</em> </h3> <div align=center> <blockquote> Updated on 03/09/2026 - (UTC) 14:11:50</blockquote> </div>
+<h3 align=center> <b><q>Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</q></b> -<em>Sathya Sai Baba</em> </h3> <div align=center> <blockquote> Updated on 04/09/2026 - (UTC) 01:30:00</blockquote> </div>
 
 ---
 
