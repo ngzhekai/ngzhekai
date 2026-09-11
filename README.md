@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Night is a more quiet time to work. It aids thought.</q></b> -<em>Alexander Graham Bell</em> </h3> <div align=center> <blockquote> Updated on 11/09/2026 - (UTC) 01:35:20</blockquote> </div>
+<h3 align=center> <b><q>If you put water into a cup, it becomes the cup.</q></b> -<em>Bruce Lee</em> </h3> <div align=center> <blockquote> Updated on 11/09/2026 - (UTC) 14:05:51</blockquote> </div>
 
 ---
 
