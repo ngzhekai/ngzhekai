@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</q></b> -<em>Billie Jean King</em> </h3> <div align=center> <blockquote> Updated on 13/09/2026 - (UTC) 14:07:40</blockquote> </div>
+<h3 align=center> <b><q>Any idea, plan, or purpose may be placed in the mind through repetition of thought.</q></b> -<em>Napoleon Hill</em> </h3> <div align=center> <blockquote> Updated on 14/09/2026 - (UTC) 01:49:57</blockquote> </div>
 
 ---
 
