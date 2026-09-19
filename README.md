@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.</q></b> -<em>Herodotus</em> </h3> <div align=center> <blockquote> Updated on 19/09/2026 - (UTC) 01:46:10</blockquote> </div>
+<h3 align=center> <b><q>It's possible in ways both large or small to make a difference in someone's life.</q></b> -<em>Yanni</em> </h3> <div align=center> <blockquote> Updated on 19/09/2026 - (UTC) 13:43:15</blockquote> </div>
 
 ---
 
