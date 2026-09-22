@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The world doesn't always give you want, but it often gives you what you need.</q></b> -<em>Naval Ravikant</em> </h3> <div align=center> <blockquote> Updated on 21/09/2026 - (UTC) 16:16:42</blockquote> </div>
+<h3 align=center> <b><q>Without education, we are in a horrible and deadly danger of taking educated people seriously.</q></b> -<em>Gilbert Chesterton</em> </h3> <div align=center> <blockquote> Updated on 22/09/2026 - (UTC) 01:59:00</blockquote> </div>
 
 ---
 
