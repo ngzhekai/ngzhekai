@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Life is too important to be taken seriously.</q></b> -<em>Oscar Wilde</em> </h3> <div align=center> <blockquote> Updated on 23/09/2026 - (UTC) 01:55:59</blockquote> </div>
+<h3 align=center> <b><q>Quiet people have the loudest minds.</q></b> -<em>Stephen King</em> </h3> <div align=center> <blockquote> Updated on 23/09/2026 - (UTC) 14:44:43</blockquote> </div>
 
 ---
 
