@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>When you realize you've made a mistake, take immediate steps to correct it.</q></b> -<em>Dalai Lama</em> </h3> <div align=center> <blockquote> Updated on 27/09/2026 - (UTC) 01:59:36</blockquote> </div>
+<h3 align=center> <b><q>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 27/09/2026 - (UTC) 15:00:35</blockquote> </div>
 
 ---
 
