@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>A self that goes on changing is a self that goes on living.</q></b> -<em>Virginia Woolf</em> </h3> <div align=center> <blockquote> Updated on 05/10/2026 - (UTC) 19:05:49</blockquote> </div>
+<h3 align=center> <b><q>In the middle of chaos lies opportunity.</q></b> -<em>Bruce Lee</em> </h3> <div align=center> <blockquote> Updated on 06/10/2026 - (UTC) 03:25:18</blockquote> </div>
 
 ---
 
