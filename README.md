@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>It is those who concentrate on but one thing at a time who advance in this world.</q></b> -<em>Gary Keller</em> </h3> <div align=center> <blockquote> Updated on 12/10/2026 - (UTC) 19:39:24</blockquote> </div>
+<h3 align=center> <b><q>Patience is a bitter plant, but its fruit is sweet.</q></b> -<em>Chinese Proverb</em> </h3> <div align=center> <blockquote> Updated on 13/10/2026 - (UTC) 04:02:27</blockquote> </div>
 
 ---
 
