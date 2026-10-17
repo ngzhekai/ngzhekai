@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>If life were predictable it would cease to be life, and be without flavor.</q></b> -<em>Eleanor Roosevelt</em> </h3> <div align=center> <blockquote> Updated on 17/10/2026 - (UTC) 01:42:03</blockquote> </div>
+<h3 align=center> <b><q>Believe in your infinite potential. Your only limitations are those you set upon yourself.</q></b> -<em>Roy T. Bennett</em> </h3> <div align=center> <blockquote> Updated on 17/10/2026 - (UTC) 13:29:15</blockquote> </div>
 
 ---
 
