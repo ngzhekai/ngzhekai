@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>People inspire you, or they drain you. Pick them wisely.</q></b> -<em>Les Brown</em> </h3> <div align=center> <blockquote> Updated on 18/10/2026 - (UTC) 01:38:49</blockquote> </div>
+<h3 align=center> <b><q>The power of man has grown in every sphere, except over himself.</q></b> -<em>Winston Churchill</em> </h3> <div align=center> <blockquote> Updated on 18/10/2026 - (UTC) 13:47:47</blockquote> </div>
 
 ---
 
