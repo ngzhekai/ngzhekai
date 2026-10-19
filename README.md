@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>The older you get, the more you understand how your conscience works.</q></b> -<em>Criss Jami</em> </h3> <div align=center> <blockquote> Updated on 19/10/2026 - (UTC) 01:56:37</blockquote> </div>
+<h3 align=center> <b><q>Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.</q></b> -<em>Colin R. Davis</em> </h3> <div align=center> <blockquote> Updated on 19/10/2026 - (UTC) 16:49:44</blockquote> </div>
 
 ---
 
