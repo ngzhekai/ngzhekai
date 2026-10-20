@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Chop your own wood and it will warm you twice.</q></b> -<em>Henry Ford</em> </h3> <div align=center> <blockquote> Updated on 20/10/2026 - (UTC) 14:39:13</blockquote> </div>
+<h3 align=center> <b><q>The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.</q></b> -<em>Gilbert Chesterton</em> </h3> <div align=center> <blockquote> Updated on 20/10/2026 - (UTC) 14:45:07</blockquote> </div>
 
 ---
 
