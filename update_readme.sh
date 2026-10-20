@@ -33,8 +33,8 @@ new_github_stats="
 </a>
 "
 now_playing="  
-<div align="center">
-  <img src= "https://spotify-readme-ngzhekai.vercel.app/api?scan=true&theme=dark" />
+<div align=\"center\">
+  <img src= \"https://spotify-readme-ngzhekai.vercel.app/api?scan=true&theme=dark\" />
 </div>
 "
 new_tech_stack="
@@ -47,9 +47,8 @@ echo $blank_space >README.md
 echo $new_github_stats >>README.md
 echo $blank_space >>README.md
 echo $new_quote >>README.md
-echo $blank_space >>README.md
 echo $now_playing >>README.md
-echo $line_space >>README.md
+echo $blank_space >>README.md
 echo $blank_space >>README.md
 echo $new_tech_stack >>README.md
 echo $blank_space >>README.md
