@@ -32,6 +32,11 @@ new_github_stats="
   <img height=200 align=\"center\" src=\"https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true\" />
 </a>
 "
+now_playing="  
+<div align="center">
+  <img src= "https://spotify-readme-ngzhekai.vercel.app/api?scan=true&theme=dark" />
+</div>
+"
 new_tech_stack="
 <p align=\"center\">
   <img src=\"https://skillicons.dev/icons?i=js,ts,svelte,py,cpp,html,css,bootstrap,react,postgres,mysql,tailwind,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions&perline=11\" />
@@ -44,6 +49,7 @@ echo $blank_space >>README.md
 echo $new_quote >>README.md
 echo $blank_space >>README.md
 echo $line_space >>README.md
+echo $now_playing >>README.md
 echo $blank_space >>README.md
 echo $new_tech_stack >>README.md
 echo $blank_space >>README.md
