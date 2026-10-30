@@ -1,7 +1,7 @@
 
 <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api?username=ngzhekai&show_icons=true&count_private=true&theme=dracula&hide_border=true" /> </a> <a href="https://github.com/ngzhekai/github-readme-stats/"> <img height=200 align="center" src="https://github-stats-ngzhekai.vercel.app/api/top-langs/?username=ngzhekai&layout=donut&theme=dracula&hide_border=true" /> </a>
 
-<h3 align=center> <b><q>Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.</q></b> -<em>Eckhart Tolle</em> </h3> <div align=center> <blockquote> Updated on 29/10/2026 - (UTC) 16:40:56</blockquote> </div>
+<h3 align=center> <b><q>To a mind that is still, the entire universe surrenders.</q></b> -<em>Zhuangzi</em> </h3> <div align=center> <blockquote> Updated on 30/10/2026 - (UTC) 03:04:04</blockquote> </div>
 <div align="center"> <img src= "https://spotify-readme-ngzhekai.vercel.app/api?scan=true&theme=dark" /> </div>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,svelte,py,cpp,html,css,bootstrap,react,postgres,mysql,tailwind,nodejs,vercel,nextjs,fastapi,androidstudio,linux,postman,git,neovim,githubactions&perline=11" /> </p>
